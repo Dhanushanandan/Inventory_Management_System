@@ -50,7 +50,7 @@ loginbutton.addEventListener("click", (e) => {
         // Signed up
         const user = userCredential.user;
         alert("Login successful!");
-        window.location.href = "./Home.html";
+        window.location.href = "./dashboard.html";
         // ...
       })
       .catch((error) => {

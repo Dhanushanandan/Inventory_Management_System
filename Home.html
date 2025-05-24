@@ -288,19 +288,19 @@
                     <span class="nav-tooltip">Dashboard</span>
                 </li>
                 <li class="nav-item">
-                    <a href="#" class="nav-link" data-page="Calendar.html">
+                    <a href="#" class="nav-link" data-page="Report.html">
                         <span class="nav-icon material-symbols-outlined">Description</span>
                         <span class="nav-label">Report</span>
                     </a>
                     <span class="nav-tooltip">Report</span>
                 </li>
-                <li class="nav-item" data-page="Notifications.html">
+                <!-- <li class="nav-item" data-page="Bookmarks.html">
                     <a href="#" class="nav-link">
                         <span class="nav-icon material-symbols-outlined">notifications</span>
                         <span class="nav-label">Notifications</span>
                     </a>
                     <span class="nav-tooltip">Notifications</span>
-                </li>
+                </li> -->
                 <li class="nav-item">
                     <a href="#" class="nav-link" data-page="Suppliers.html">
                         <span class="nav-icon material-symbols-outlined">Group</span>
@@ -316,14 +316,14 @@
                     <span class="nav-tooltip">Analytics</span>
                 </li>
                 <li class="nav-item">
-                    <a href="#" class="nav-link" data-page="Products.html">
-                        <span class="nav-icon material-symbols-outlined">star</span>
-                        <span class="nav-label">Bookmarks</span>
+                    <a href="#" class="nav-link" data-page="Notifi.html">
+                        <span class="nav-icon material-symbols-outlined">notifications</span>
+                        <span class="nav-label">Notifications</span>
                     </a>
-                    <span class="nav-tooltip">Bookmarks</span>
+                    <span class="nav-tooltip">Notifications</span>
                 </li>
                 <li class="nav-item">
-                    <a href="#" class="nav-link" data-page="Categories.html">
+                    <a href="#" class="nav-link" data-page="Products.html">
                         <span class="nav-icon material-symbols-outlined">Category</span>
                         <span class="nav-label">Products</span>
                     </a>
@@ -341,7 +341,7 @@
                     <span class="nav-tooltip">Profile</span>
                 </li>
                 <li class="nav-item">
-                    <a href="index.html" class="nav-link" >
+                    <a href="index.html" class="nav-link">
                         <span class="nav-icon material-symbols-outlined">logout</span>
                         <span class="nav-label">Logout</span>
                     </a>
@@ -358,45 +358,71 @@
 
 
     <!-- Load HTML content in the div -->
-    <script>
-        // helper to load a page fragment
-        async function loadPage(pageUrl) {
-          try {
-            const res = await fetch(pageUrl);
-            if (!res.ok) throw new Error(`HTTP ${res.status}`);
-            const html = await res.text();
-            document.getElementById('content').innerHTML = html;
-          } catch (err) {
-            document.getElementById('content').innerHTML = `<p style="color: red;">
-              Failed to load ${pageUrl}: ${err.message}
-            </p>`;
-          }
-        }
-      
-        // wire up all nav-link clicks
-        document.querySelectorAll('.sidebar-nav .nav-link[data-page]')
-          .forEach(link => {
-            link.addEventListener('click', e => {
-              e.preventDefault();
-              // load the page into #content
-              const page = link.getAttribute('data-page');
-              loadPage(page);
-      
-              // optional: highlight active link
-              document.querySelectorAll('.sidebar-nav .nav-link').forEach(l => 
-                l.classList.remove('active')
-              );
-              link.classList.add('active');
+<script>
+    async function loadPage(pageUrl) {
+        const contentDiv = document.getElementById('content');
+
+        try {
+            const response = await fetch(pageUrl);
+            if (!response.ok) throw new Error(`HTTP ${response.status}`);
+
+            const htmlText = await response.text();
+
+            // Create a temporary DOM to extract scripts separately
+            const tempDiv = document.createElement('div');
+            tempDiv.innerHTML = htmlText;
+
+            // Extract scripts and remove them from tempDiv
+            const scripts = Array.from(tempDiv.querySelectorAll('script'));
+            scripts.forEach(script => script.remove());
+
+            // Set the remaining HTML content
+            contentDiv.innerHTML = tempDiv.innerHTML;
+
+            // Re-inject and execute scripts
+            scripts.forEach(oldScript => {
+                const newScript = document.createElement('script');
+
+                if (oldScript.src) {
+                    // External script
+                    newScript.src = oldScript.src;
+                } else {
+                    // Inline script
+                    newScript.textContent = oldScript.textContent;
+                }
+
+                document.body.appendChild(newScript);
             });
-          });
-      
-        // on first load, load dashboard by default
-        window.addEventListener('DOMContentLoaded', () => {
-          const defaultLink = document.querySelector('.nav-link[data-page]');
-          if (defaultLink) defaultLink.click();
+
+        } catch (err) {
+            contentDiv.innerHTML = `<p style="color: red;">Failed to load ${pageUrl}: ${err.message}</p>`;
+        }
+    }
+
+    // Wire up nav links
+    document.querySelectorAll('.sidebar-nav .nav-link[data-page]')
+        .forEach(link => {
+            link.addEventListener('click', e => {
+                e.preventDefault();
+                const page = link.getAttribute('data-page');
+                loadPage(page);
+
+                // Highlight active link
+                document.querySelectorAll('.sidebar-nav .nav-link').forEach(l => l.classList.remove('active'));
+                link.classList.add('active');
+            });
         });
-      </script>
-      
+
+    // Load default page on first load
+    window.addEventListener('DOMContentLoaded', () => {
+        const defaultLink = document.querySelector('.sidebar-nav .nav-link[data-page]');
+        if (defaultLink) {
+            defaultLink.click(); // Simulate click to load default page
+        }
+    });
+</script>
+
+
 
     <script>
 
@@ -440,6 +466,8 @@
 
 
     </script>
+
+
 
 </body>
 

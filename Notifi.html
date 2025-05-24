@@ -2,13 +2,14 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Available Products</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Notifications</title>
 
   <link rel="icon" href="/pictures/Logo2.png">
   <link rel="stylesheet"
     href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+
   <style>
     * {
       margin: 0;
@@ -19,73 +20,98 @@
 
     body {
       background-color: #121212;
-      color: #fff;
+      color: #ffffff;
       padding: 2rem;
     }
 
     h1 {
       text-align: center;
       margin-bottom: 2rem;
-      color: #fff;
-    }
-
-    .table-container {
-      overflow-x: auto;
-      margin: 0 auto;
-      max-width: 1000px;
-    }
-
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      background-color: #1f1f1f;
-      border-radius: 10px;
-      overflow: hidden;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    }
-
-    thead {
-      background-color: #009087;
       color: #ffffff;
     }
 
-    th,
-    td {
-      padding: 14px 20px;
-      text-align: left;
+    .notifications-container {
+      max-width: 800px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
     }
 
-    tbody tr:nth-child(even) {
-      background-color: #2a2a2a;
-    }
-
-    tbody tr:hover {
-      background-color: #333333;
+    .notification {
+      background-color: #1e1e1e;
+      border-left: 5px solid #00d1b2;
+      padding: 1rem 1.5rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
       transition: background-color 0.3s ease;
+      position: relative;
     }
 
-    th {
-      font-size: 16px;
+    .notification:hover {
+      background-color: #2b2b2b;
     }
 
-    td {
-      font-size: 15px;
-      color: #e0e0e0;
+    .notification-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
     }
 
-    @media (max-width: 768px) {
+    .notification-time {
+      font-size: 0.85rem;
+      color: #aaa;
+      margin-bottom: 0.5rem;
+    }
 
-      th,
-      td {
-        font-size: 14px;
-        padding: 10px 12px;
+    .notification-message {
+      font-size: 0.95rem;
+      color: #ddd;
+    }
+
+    .delete-btn {
+      position: absolute;
+      top: 15px;
+      right: 15px;
+      background-color: transparent;
+      border: none;
+      color: #ff6b6b;
+      font-size: 1rem;
+      cursor: pointer;
+      transition: color 0.3s ease;
+    }
+
+    .delete-btn:hover {
+      color: #ff3b3b;
+    }
+
+    @media (max-width: 600px) {
+      .notification {
+        padding: 1rem;
+      }
+
+      .notification-title {
+        font-size: 1rem;
+      }
+
+      .notification-message {
+        font-size: 0.9rem;
+      }
+
+      .delete-btn {
+        top: 10px;
+        right: 10px;
       }
     }
 
 
 
 
-    /* sidebar styles */
+
+
+
+
+
     @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 
     * {
@@ -318,8 +344,6 @@
   </style>
 </head>
 
-
-
 <body>
   <aside class="sidebar">
     <header class="sidebar-header">
@@ -405,41 +429,38 @@
       </ul>
     </nav>
   </aside>
-  <h1>Available Suppliers</h1>
+  <h1>Notifications</h1>
 
-  <div class="table-container">
-    <table>
-      <thead>
-        <tr>
-          <th>Supplier ID</th>
-          <th>Name</th>
-          <th>Contact Number</th>
-          <th>Email</th>
-          <th>Address</th>
-          <th>Company Name</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>SUP001</td>
-          <td>John Doe</td>
-          <td>+94 712345678</td>
-          <td>johndoe@gmail.com</td>
-          <td>123, Main Street, Colombo</td>
-          <td>ABC Traders</td>
-        </tr>
-        <tr>
-          <td>SUP002</td>
-          <td>Jane Smith</td>
-          <td>+94 772345678</td>
-          <td>janesmith@gmail.com</td>
-          <td>456, Park Avenue, Kandy</td>
-          <td>XYZ Suppliers</td>
-        </tr>
-        <!-- More supplier rows can be added here -->
-      </tbody>
-    </table>
+  <div class="notifications-container" id="notificationsContainer">
+    <div class="notification">
+      <button class="delete-btn" onclick="deleteNotification(this)">✖</button>
+      <div class="notification-title">Stock Alert</div>
+      <div class="notification-time">May 23, 2025 - 10:30 AM</div>
+      <div class="notification-message">Product <strong>Milk 1L</strong> is running low. Only 5 items left in stock.
+      </div>
+    </div>
+
+    <div class="notification">
+      <button class="delete-btn" onclick="deleteNotification(this)">✖</button>
+      <div class="notification-title">New Supplier Added</div>
+      <div class="notification-time">May 22, 2025 - 3:45 PM</div>
+      <div class="notification-message">Supplier <strong>ABC Distributors</strong> has been successfully added.</div>
+    </div>
+
+    <div class="notification">
+      <button class="delete-btn" onclick="deleteNotification(this)">✖</button>
+      <div class="notification-title">Price Update</div>
+      <div class="notification-time">May 21, 2025 - 11:20 AM</div>
+      <div class="notification-message">Product <strong>Rice 5kg</strong> price has been updated to LKR 1050.</div>
+    </div>
   </div>
+
+  <script>
+    function deleteNotification(button) {
+      const notification = button.parentElement;
+      notification.remove();
+    }
+  </script>
 
   <script>
     const sidebar = document.querySelector(".sidebar");
