@@ -1,0 +1,128 @@
+<style>
+/* Contact Section */
+.contact-section {
+  padding: 50px;
+  /* background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); */
+  color: #fff;
+  text-align: center;
+}
+
+.contact-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.contact-container h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.contact-container p {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
+
+.contact-details p {
+  margin: 10px 0;
+}
+
+.contact-details a {
+  color: #00ddeb;
+  text-decoration: none;
+}
+
+.contact-details a:hover {
+  text-decoration: underline;
+}
+
+/* Media Queries for Contact Section */
+@media screen and (max-width: 768px) {
+  .contact-container h1 {
+    font-size: 28px;
+  }
+
+  .contact-container p {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .contact-container h1 {
+    font-size: 24px;
+  }
+
+  .contact-container p {
+    font-size: 14px;
+  }
+}
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact Us - Tadco Mart</title>
+   <link rel="icon" type="image/png" href="{{ url_for('static', filename='logo.png') }}">
+  <link rel="stylesheet" href="../static/styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&family=Roboto:wght@400&display=swap"
+    rel="stylesheet" />
+</head>
+
+<body>
+  <header>
+    <nav>
+      <div id="log_container" style="display: flex; align-items: center; gap: 10px;">
+        <div id="logoPic"></div>
+        <div class="logo">Tadco Mart</div>
+      </div>
+      <ul class="nav-links">
+        <ul class="nav-links">
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About Us</a></li>
+        <li><a href="/features">Features</a></li>
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/login" class="sign-in">Sign In</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="contact-section">
+    <div class="contact-container">
+      <h1>Contact Us</h1>
+      <p>We'd love to hear from you! Reach out to us using the details below:</p>
+      <div class="contact-details">
+        <p><strong>Address:</strong> 37/B, Mawanella Road, Hemmathagama</p>
+        <p><strong>Website:</strong> <a href="http://www.tadcomart.com" target="_blank">www.tadcomart.com</a></p>
+        <p><strong>Email:</strong> <a href="mailto:tadcomart@gmail.com">tadcomart@gmail.com</a></p>
+        <p><strong>Contact Number:</strong> <a href="tel:+94712051203">+94 712 051 203</a></p>
+        <p><strong>Facebook:</strong> <a href="https://facebook.com/Tadcomart_1.1" target="_blank">Tadcomart_1.1</a></p>
+      </div>
+    </div>
+  </section>
+</body>
+
+</html>

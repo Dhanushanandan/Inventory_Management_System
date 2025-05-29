@@ -1,0 +1,2501 @@
+﻿Month,ProductLine,ProductName,QuantitySold
+202401,Beverages,Mineral Water,196
+202411,Bakery,Bread,137
+202405,Produce,Carrots,13
+202407,Produce,Bananas,109
+202402,Beverages,Soda,121
+202406,Household,Detergent,32
+202407,Household,Tissue,53
+202402,Snacks,Granola Bar,167
+202405,Snacks,Chips,17
+202403,Beverages,Soda,172
+202410,Household,Trash Bags,35
+202411,Personal Care,Shampoo,48
+202405,Dairy,Cream,166
+202403,Dairy,Cheese,143
+202407,Frozen Foods,Frozen Pizza,117
+202406,Beverages,Coffee,99
+202409,Dairy,Butter,108
+202405,Produce,Tomatoes,28
+202405,Personal Care,Shampoo,34
+202409,Frozen Foods,Frozen Fries,181
+202403,Household,Tissue,158
+202407,Produce,Bananas,11
+202402,Beverages,Coffee,150
+202409,Frozen Foods,Frozen Vegetables,87
+202411,Beverages,Coffee,53
+202404,Frozen Foods,Frozen Fries,90
+202402,Frozen Foods,Frozen Pizza,126
+202406,Beverages,Mineral Water,51
+202412,Beverages,Mineral Water,200
+202411,Produce,Bananas,127
+202401,Produce,Apples,185
+202411,Frozen Foods,Frozen Vegetables,194
+202411,Bakery,Bagel,121
+202411,Snacks,Granola Bar,159
+202410,Personal Care,Toothpaste,131
+202402,Produce,Apples,156
+202412,Produce,Apples,131
+202403,Household,Detergent,11
+202401,Beverages,Coffee,80
+202402,Bakery,Croissant,79
+202407,Snacks,Granola Bar,103
+202405,Frozen Foods,Frozen Berries,199
+202411,Personal Care,Soap,32
+202408,Household,Detergent,88
+202412,Household,Tissue,123
+202404,Snacks,Popcorn,150
+202405,Beverages,Coffee,156
+202411,Household,Tissue,108
+202406,Personal Care,Shampoo,172
+202409,Dairy,Yogurt,157
+202401,Bakery,Croissant,112
+202404,Beverages,Mineral Water,102
+202411,Produce,Bananas,74
+202404,Household,Trash Bags,163
+202408,Snacks,Granola Bar,40
+202412,Personal Care,Lotion,36
+202408,Frozen Foods,Frozen Pizza,71
+202401,Household,Detergent,188
+202407,Personal Care,Soap,176
+202408,Bakery,Bagel,145
+202412,Dairy,Milk,99
+202412,Dairy,Milk,15
+202403,Personal Care,Toothpaste,181
+202405,Beverages,Mineral Water,160
+202405,Produce,Bananas,82
+202412,Beverages,Mineral Water,35
+202412,Personal Care,Shampoo,163
+202408,Frozen Foods,Frozen Fries,17
+202405,Personal Care,Soap,199
+202408,Snacks,Chips,167
+202409,Bakery,Bread,188
+202411,Household,Trash Bags,29
+202403,Produce,Spinach,25
+202401,Household,Dish Soap,190
+202406,Produce,Apples,22
+202401,Personal Care,Soap,183
+202406,Dairy,Milk,148
+202406,Bakery,Cake,163
+202401,Personal Care,Soap,47
+202405,Dairy,Cream,184
+202404,Produce,Apples,164
+202406,Frozen Foods,Frozen Berries,60
+202406,Frozen Foods,Frozen Berries,43
+202408,Bakery,Bread,94
+202404,Beverages,Soda,113
+202404,Produce,Tomatoes,163
+202403,Snacks,Cookies,102
+202411,Household,Trash Bags,31
+202406,Beverages,Green Tea,127
+202410,Bakery,Croissant,146
+202401,Beverages,Green Tea,100
+202403,Bakery,Cake,24
+202401,Produce,Apples,112
+202405,Personal Care,Soap,174
+202408,Frozen Foods,Frozen Fries,21
+202401,Frozen Foods,Ice Cream,149
+202402,Bakery,Bread,188
+202404,Beverages,Soda,114
+202409,Personal Care,Shampoo,127
+202401,Produce,Tomatoes,61
+202406,Snacks,Popcorn,151
+202407,Beverages,Mineral Water,61
+202405,Household,Detergent,21
+202407,Snacks,Cookies,144
+202403,Dairy,Milk,63
+202409,Snacks,Chocolate,134
+202405,Bakery,Cake,92
+202406,Beverages,Mineral Water,101
+202411,Dairy,Cheese,148
+202405,Personal Care,Shampoo,38
+202411,Dairy,Cream,102
+202406,Beverages,Green Tea,195
+202412,Produce,Apples,159
+202407,Frozen Foods,Frozen Pizza,59
+202408,Produce,Tomatoes,70
+202401,Household,Trash Bags,21
+202406,Dairy,Yogurt,57
+202406,Personal Care,Soap,92
+202412,Household,Tissue,51
+202405,Dairy,Milk,161
+202404,Dairy,Yogurt,192
+202403,Produce,Carrots,117
+202408,Frozen Foods,Frozen Vegetables,169
+202401,Snacks,Cookies,158
+202411,Frozen Foods,Frozen Pizza,52
+202401,Household,Dish Soap,36
+202405,Bakery,Muffin,125
+202404,Frozen Foods,Frozen Berries,170
+202408,Frozen Foods,Frozen Fries,187
+202411,Frozen Foods,Frozen Vegetables,54
+202407,Frozen Foods,Frozen Berries,105
+202409,Bakery,Cake,141
+202405,Produce,Tomatoes,115
+202408,Dairy,Butter,46
+202402,Bakery,Cake,52
+202404,Bakery,Muffin,178
+202404,Bakery,Cake,118
+202408,Frozen Foods,Frozen Fries,177
+202405,Frozen Foods,Ice Cream,23
+202405,Personal Care,Shampoo,73
+202405,Snacks,Granola Bar,199
+202407,Beverages,Orange Juice,189
+202406,Frozen Foods,Frozen Berries,181
+202409,Dairy,Cream,88
+202401,Personal Care,Shampoo,41
+202410,Dairy,Butter,176
+202408,Produce,Apples,162
+202402,Snacks,Cookies,52
+202403,Frozen Foods,Frozen Fries,186
+202410,Personal Care,Lotion,104
+202409,Dairy,Cheese,35
+202401,Dairy,Yogurt,161
+202401,Produce,Carrots,79
+202405,Frozen Foods,Frozen Fries,27
+202406,Dairy,Cream,46
+202412,Frozen Foods,Frozen Fries,130
+202407,Bakery,Croissant,162
+202402,Personal Care,Toothpaste,169
+202406,Produce,Tomatoes,179
+202410,Frozen Foods,Frozen Fries,98
+202401,Snacks,Chocolate,64
+202404,Bakery,Cake,54
+202404,Frozen Foods,Frozen Vegetables,89
+202410,Frozen Foods,Frozen Vegetables,191
+202402,Beverages,Green Tea,26
+202412,Snacks,Popcorn,34
+202411,Personal Care,Soap,54
+202402,Snacks,Popcorn,25
+202409,Dairy,Yogurt,176
+202402,Produce,Apples,149
+202404,Personal Care,Toothpaste,118
+202408,Beverages,Mineral Water,85
+202412,Dairy,Cream,11
+202405,Household,Toilet Paper,167
+202404,Household,Dish Soap,135
+202410,Dairy,Cheese,169
+202409,Personal Care,Toothpaste,126
+202411,Beverages,Soda,84
+202411,Personal Care,Soap,52
+202411,Bakery,Croissant,190
+202402,Produce,Bananas,182
+202412,Snacks,Popcorn,136
+202403,Bakery,Bread,183
+202412,Frozen Foods,Frozen Pizza,71
+202401,Beverages,Mineral Water,177
+202401,Household,Trash Bags,70
+202405,Frozen Foods,Frozen Pizza,122
+202405,Produce,Tomatoes,199
+202411,Beverages,Mineral Water,179
+202404,Dairy,Yogurt,14
+202403,Beverages,Mineral Water,191
+202406,Beverages,Mineral Water,117
+202407,Beverages,Soda,92
+202407,Snacks,Popcorn,107
+202412,Beverages,Soda,147
+202410,Frozen Foods,Frozen Fries,191
+202406,Beverages,Coffee,75
+202407,Dairy,Yogurt,25
+202411,Produce,Bananas,18
+202407,Personal Care,Deodorant,186
+202404,Produce,Bananas,87
+202406,Bakery,Bread,75
+202409,Frozen Foods,Ice Cream,70
+202408,Dairy,Cream,142
+202401,Frozen Foods,Ice Cream,58
+202403,Personal Care,Deodorant,51
+202412,Household,Trash Bags,69
+202412,Personal Care,Soap,40
+202405,Dairy,Milk,18
+202411,Dairy,Cheese,199
+202405,Beverages,Coffee,152
+202407,Personal Care,Soap,44
+202412,Dairy,Cream,20
+202409,Bakery,Bread,156
+202407,Frozen Foods,Frozen Pizza,163
+202411,Snacks,Granola Bar,134
+202410,Produce,Carrots,114
+202410,Bakery,Croissant,193
+202401,Snacks,Cookies,106
+202411,Frozen Foods,Frozen Fries,12
+202410,Personal Care,Toothpaste,108
+202403,Frozen Foods,Ice Cream,131
+202405,Personal Care,Soap,157
+202405,Bakery,Muffin,68
+202404,Snacks,Granola Bar,120
+202407,Beverages,Mineral Water,96
+202411,Bakery,Croissant,122
+202403,Bakery,Croissant,191
+202403,Produce,Carrots,120
+202408,Snacks,Chocolate,112
+202408,Beverages,Coffee,52
+202408,Bakery,Muffin,99
+202411,Snacks,Cookies,89
+202409,Snacks,Cookies,11
+202401,Produce,Apples,120
+202408,Personal Care,Soap,90
+202403,Household,Trash Bags,194
+202412,Bakery,Muffin,104
+202403,Bakery,Cake,94
+202406,Frozen Foods,Frozen Berries,163
+202404,Dairy,Cheese,197
+202406,Personal Care,Lotion,30
+202411,Snacks,Chocolate,127
+202404,Snacks,Chips,118
+202407,Snacks,Granola Bar,58
+202412,Produce,Bananas,66
+202409,Household,Detergent,77
+202407,Frozen Foods,Frozen Berries,95
+202411,Personal Care,Lotion,175
+202412,Beverages,Soda,190
+202401,Dairy,Milk,38
+202404,Personal Care,Shampoo,162
+202408,Personal Care,Toothpaste,51
+202405,Dairy,Cheese,123
+202402,Dairy,Yogurt,129
+202405,Bakery,Cake,95
+202401,Beverages,Orange Juice,54
+202407,Frozen Foods,Frozen Fries,117
+202402,Dairy,Milk,65
+202407,Frozen Foods,Frozen Fries,55
+202404,Produce,Tomatoes,91
+202409,Personal Care,Deodorant,40
+202404,Produce,Apples,168
+202403,Frozen Foods,Frozen Fries,38
+202402,Dairy,Cheese,49
+202401,Personal Care,Deodorant,181
+202409,Produce,Spinach,35
+202410,Produce,Carrots,14
+202407,Snacks,Granola Bar,28
+202410,Household,Trash Bags,59
+202404,Snacks,Popcorn,12
+202412,Household,Detergent,192
+202407,Bakery,Bagel,89
+202412,Household,Tissue,200
+202409,Bakery,Bread,129
+202405,Household,Dish Soap,199
+202403,Beverages,Mineral Water,74
+202406,Household,Toilet Paper,29
+202411,Bakery,Bread,14
+202403,Beverages,Orange Juice,137
+202412,Snacks,Cookies,41
+202408,Beverages,Orange Juice,194
+202405,Produce,Apples,48
+202412,Personal Care,Toothpaste,155
+202406,Personal Care,Soap,166
+202402,Produce,Tomatoes,175
+202407,Frozen Foods,Frozen Berries,129
+202410,Bakery,Croissant,53
+202403,Dairy,Cream,124
+202402,Frozen Foods,Frozen Berries,96
+202401,Personal Care,Shampoo,121
+202405,Frozen Foods,Frozen Pizza,199
+202401,Dairy,Cheese,109
+202412,Bakery,Croissant,58
+202409,Frozen Foods,Frozen Berries,25
+202404,Snacks,Granola Bar,170
+202411,Household,Detergent,74
+202409,Household,Tissue,164
+202405,Beverages,Coffee,141
+202406,Bakery,Bagel,165
+202403,Produce,Carrots,129
+202409,Produce,Bananas,50
+202403,Household,Trash Bags,181
+202411,Snacks,Chips,181
+202411,Frozen Foods,Ice Cream,78
+202411,Frozen Foods,Ice Cream,38
+202410,Household,Detergent,134
+202409,Beverages,Green Tea,170
+202404,Frozen Foods,Frozen Vegetables,33
+202402,Produce,Bananas,68
+202408,Bakery,Cake,28
+202402,Dairy,Yogurt,147
+202410,Bakery,Croissant,124
+202405,Dairy,Milk,61
+202406,Frozen Foods,Frozen Berries,23
+202406,Produce,Spinach,129
+202412,Frozen Foods,Frozen Vegetables,103
+202406,Frozen Foods,Frozen Pizza,177
+202406,Personal Care,Deodorant,67
+202406,Produce,Bananas,163
+202401,Dairy,Butter,70
+202411,Personal Care,Shampoo,148
+202402,Beverages,Coffee,86
+202405,Beverages,Soda,110
+202404,Dairy,Yogurt,41
+202410,Bakery,Bread,42
+202404,Household,Dish Soap,47
+202403,Beverages,Coffee,140
+202401,Personal Care,Deodorant,120
+202412,Dairy,Yogurt,33
+202412,Produce,Tomatoes,195
+202404,Personal Care,Toothpaste,188
+202402,Produce,Tomatoes,118
+202408,Household,Dish Soap,45
+202410,Bakery,Bread,153
+202403,Personal Care,Shampoo,196
+202410,Bakery,Cake,46
+202405,Frozen Foods,Frozen Pizza,125
+202403,Dairy,Yogurt,29
+202405,Household,Trash Bags,112
+202412,Personal Care,Deodorant,37
+202405,Produce,Apples,124
+202407,Bakery,Muffin,114
+202410,Bakery,Bread,38
+202410,Bakery,Croissant,193
+202403,Produce,Spinach,137
+202406,Snacks,Chips,92
+202407,Personal Care,Soap,120
+202402,Dairy,Milk,90
+202401,Beverages,Mineral Water,163
+202410,Bakery,Croissant,168
+202404,Bakery,Muffin,69
+202402,Frozen Foods,Frozen Berries,138
+202405,Personal Care,Toothpaste,177
+202410,Dairy,Cream,105
+202403,Beverages,Green Tea,100
+202409,Dairy,Yogurt,42
+202411,Frozen Foods,Frozen Vegetables,97
+202404,Beverages,Orange Juice,19
+202406,Dairy,Butter,76
+202402,Household,Dish Soap,154
+202412,Beverages,Coffee,40
+202407,Household,Trash Bags,93
+202405,Snacks,Popcorn,123
+202411,Produce,Tomatoes,76
+202410,Snacks,Chocolate,118
+202408,Snacks,Granola Bar,82
+202407,Dairy,Butter,129
+202404,Dairy,Yogurt,120
+202410,Dairy,Yogurt,63
+202408,Dairy,Milk,128
+202403,Snacks,Chips,14
+202402,Beverages,Mineral Water,22
+202402,Beverages,Coffee,88
+202408,Produce,Carrots,119
+202408,Snacks,Granola Bar,37
+202406,Beverages,Coffee,169
+202402,Frozen Foods,Frozen Fries,197
+202409,Personal Care,Lotion,99
+202404,Household,Toilet Paper,109
+202412,Dairy,Yogurt,23
+202410,Bakery,Croissant,173
+202409,Snacks,Chips,171
+202411,Snacks,Chips,149
+202407,Snacks,Popcorn,92
+202404,Household,Dish Soap,33
+202407,Dairy,Butter,24
+202401,Dairy,Butter,120
+202404,Produce,Tomatoes,148
+202408,Beverages,Soda,41
+202409,Beverages,Coffee,123
+202409,Bakery,Bread,109
+202409,Bakery,Bagel,100
+202401,Household,Tissue,53
+202412,Personal Care,Deodorant,100
+202411,Dairy,Milk,185
+202402,Snacks,Chips,136
+202408,Personal Care,Lotion,37
+202405,Dairy,Butter,28
+202402,Snacks,Chips,156
+202402,Bakery,Bread,30
+202410,Bakery,Bagel,147
+202408,Beverages,Orange Juice,133
+202401,Dairy,Cheese,124
+202401,Snacks,Chips,34
+202407,Produce,Carrots,82
+202401,Beverages,Orange Juice,46
+202404,Produce,Tomatoes,129
+202404,Household,Toilet Paper,158
+202410,Dairy,Yogurt,60
+202404,Beverages,Orange Juice,52
+202404,Produce,Spinach,42
+202406,Dairy,Milk,188
+202403,Frozen Foods,Frozen Vegetables,122
+202409,Dairy,Yogurt,116
+202403,Frozen Foods,Ice Cream,173
+202409,Household,Detergent,17
+202409,Household,Detergent,28
+202411,Produce,Spinach,100
+202404,Beverages,Soda,97
+202408,Bakery,Bread,161
+202412,Household,Dish Soap,77
+202402,Frozen Foods,Ice Cream,138
+202411,Snacks,Chips,166
+202409,Dairy,Cheese,32
+202410,Bakery,Muffin,170
+202401,Produce,Spinach,20
+202402,Bakery,Bagel,167
+202405,Dairy,Cheese,107
+202411,Snacks,Cookies,55
+202411,Produce,Carrots,164
+202408,Produce,Tomatoes,95
+202401,Personal Care,Shampoo,30
+202411,Beverages,Orange Juice,197
+202407,Dairy,Cream,12
+202406,Beverages,Green Tea,131
+202411,Frozen Foods,Frozen Pizza,172
+202405,Household,Dish Soap,123
+202403,Household,Dish Soap,29
+202401,Bakery,Croissant,200
+202406,Snacks,Granola Bar,93
+202412,Personal Care,Toothpaste,58
+202407,Personal Care,Lotion,88
+202411,Produce,Spinach,174
+202409,Produce,Bananas,159
+202412,Produce,Spinach,166
+202406,Household,Dish Soap,162
+202403,Beverages,Coffee,170
+202403,Bakery,Croissant,102
+202406,Personal Care,Soap,124
+202403,Frozen Foods,Frozen Vegetables,157
+202412,Bakery,Muffin,149
+202409,Frozen Foods,Ice Cream,99
+202410,Frozen Foods,Ice Cream,128
+202406,Produce,Apples,30
+202409,Personal Care,Soap,153
+202401,Dairy,Butter,198
+202405,Frozen Foods,Ice Cream,150
+202403,Personal Care,Deodorant,120
+202409,Personal Care,Deodorant,112
+202406,Frozen Foods,Frozen Pizza,81
+202404,Frozen Foods,Frozen Vegetables,167
+202410,Produce,Tomatoes,175
+202401,Beverages,Green Tea,198
+202407,Produce,Spinach,124
+202401,Snacks,Cookies,28
+202409,Dairy,Butter,171
+202412,Household,Detergent,189
+202402,Frozen Foods,Frozen Pizza,175
+202404,Frozen Foods,Frozen Vegetables,127
+202412,Snacks,Chocolate,83
+202404,Snacks,Cookies,78
+202404,Household,Dish Soap,77
+202404,Snacks,Chocolate,27
+202404,Beverages,Orange Juice,170
+202405,Dairy,Cream,95
+202412,Personal Care,Shampoo,129
+202401,Beverages,Green Tea,25
+202403,Personal Care,Lotion,158
+202406,Personal Care,Toothpaste,151
+202401,Personal Care,Shampoo,179
+202405,Personal Care,Shampoo,184
+202401,Beverages,Soda,30
+202412,Produce,Spinach,17
+202401,Household,Dish Soap,94
+202401,Snacks,Popcorn,62
+202410,Frozen Foods,Frozen Fries,174
+202412,Snacks,Granola Bar,151
+202406,Personal Care,Deodorant,102
+202407,Beverages,Green Tea,43
+202404,Bakery,Bagel,125
+202407,Bakery,Bagel,88
+202408,Dairy,Milk,46
+202402,Dairy,Yogurt,76
+202410,Dairy,Butter,58
+202407,Bakery,Muffin,68
+202409,Frozen Foods,Ice Cream,182
+202404,Beverages,Soda,112
+202410,Snacks,Cookies,97
+202403,Bakery,Croissant,132
+202403,Dairy,Cheese,169
+202405,Household,Toilet Paper,30
+202409,Bakery,Muffin,153
+202401,Produce,Apples,169
+202404,Personal Care,Lotion,200
+202408,Dairy,Milk,65
+202404,Bakery,Muffin,187
+202403,Personal Care,Shampoo,171
+202409,Personal Care,Deodorant,100
+202408,Bakery,Bread,40
+202408,Personal Care,Soap,177
+202412,Beverages,Green Tea,43
+202409,Dairy,Butter,160
+202412,Produce,Tomatoes,149
+202410,Produce,Spinach,148
+202408,Bakery,Muffin,10
+202411,Dairy,Cheese,164
+202402,Household,Trash Bags,147
+202409,Beverages,Soda,195
+202404,Bakery,Bagel,31
+202407,Household,Detergent,48
+202410,Snacks,Popcorn,194
+202408,Bakery,Bagel,42
+202409,Personal Care,Toothpaste,65
+202406,Produce,Tomatoes,136
+202406,Dairy,Cream,193
+202402,Snacks,Popcorn,143
+202412,Produce,Apples,145
+202405,Frozen Foods,Frozen Berries,163
+202406,Produce,Bananas,28
+202407,Snacks,Granola Bar,98
+202405,Personal Care,Toothpaste,166
+202410,Household,Trash Bags,102
+202409,Household,Toilet Paper,52
+202408,Personal Care,Toothpaste,60
+202404,Personal Care,Soap,198
+202410,Beverages,Coffee,163
+202402,Household,Toilet Paper,117
+202412,Dairy,Butter,174
+202405,Beverages,Green Tea,160
+202410,Household,Tissue,78
+202406,Frozen Foods,Frozen Vegetables,113
+202404,Dairy,Milk,52
+202403,Dairy,Yogurt,105
+202403,Frozen Foods,Frozen Vegetables,192
+202410,Dairy,Butter,89
+202406,Produce,Spinach,181
+202401,Personal Care,Toothpaste,64
+202412,Personal Care,Toothpaste,194
+202406,Bakery,Bagel,100
+202408,Personal Care,Lotion,179
+202402,Produce,Tomatoes,47
+202401,Produce,Bananas,75
+202404,Personal Care,Toothpaste,135
+202401,Beverages,Green Tea,183
+202407,Produce,Spinach,106
+202403,Personal Care,Soap,117
+202408,Personal Care,Lotion,70
+202404,Bakery,Croissant,90
+202404,Household,Detergent,125
+202402,Frozen Foods,Frozen Berries,129
+202408,Snacks,Popcorn,88
+202406,Snacks,Popcorn,18
+202411,Bakery,Muffin,144
+202404,Beverages,Soda,171
+202411,Dairy,Milk,24
+202404,Personal Care,Deodorant,161
+202411,Produce,Bananas,66
+202412,Snacks,Chips,200
+202407,Dairy,Cheese,110
+202404,Bakery,Croissant,49
+202408,Dairy,Butter,39
+202404,Beverages,Green Tea,111
+202402,Dairy,Cream,69
+202406,Dairy,Cheese,119
+202404,Snacks,Chips,76
+202409,Frozen Foods,Ice Cream,59
+202411,Frozen Foods,Ice Cream,170
+202411,Beverages,Green Tea,119
+202406,Beverages,Soda,30
+202411,Beverages,Mineral Water,196
+202410,Bakery,Bagel,140
+202406,Dairy,Milk,38
+202405,Produce,Apples,138
+202410,Snacks,Chips,51
+202403,Personal Care,Toothpaste,157
+202401,Bakery,Croissant,133
+202403,Bakery,Muffin,118
+202404,Household,Toilet Paper,79
+202412,Produce,Spinach,86
+202409,Household,Detergent,40
+202404,Produce,Spinach,62
+202412,Bakery,Croissant,13
+202410,Bakery,Bread,63
+202404,Personal Care,Deodorant,29
+202403,Dairy,Milk,24
+202412,Snacks,Chocolate,173
+202412,Dairy,Cheese,187
+202401,Frozen Foods,Frozen Vegetables,183
+202403,Frozen Foods,Ice Cream,36
+202401,Bakery,Croissant,53
+202406,Bakery,Bread,108
+202408,Produce,Apples,176
+202402,Beverages,Coffee,140
+202411,Dairy,Butter,190
+202407,Personal Care,Shampoo,63
+202403,Produce,Spinach,169
+202409,Beverages,Coffee,14
+202412,Snacks,Chips,192
+202409,Frozen Foods,Frozen Pizza,157
+202406,Dairy,Yogurt,42
+202402,Dairy,Yogurt,50
+202412,Frozen Foods,Ice Cream,167
+202412,Frozen Foods,Frozen Pizza,20
+202410,Bakery,Bagel,188
+202407,Bakery,Cake,61
+202404,Personal Care,Shampoo,190
+202406,Frozen Foods,Frozen Berries,39
+202404,Frozen Foods,Frozen Fries,135
+202411,Produce,Carrots,49
+202409,Frozen Foods,Frozen Berries,57
+202405,Bakery,Cake,174
+202410,Dairy,Cream,135
+202401,Dairy,Yogurt,79
+202411,Household,Trash Bags,105
+202405,Snacks,Chocolate,186
+202406,Dairy,Cheese,133
+202408,Beverages,Orange Juice,82
+202406,Snacks,Chocolate,30
+202401,Bakery,Croissant,137
+202401,Dairy,Cream,14
+202410,Bakery,Muffin,119
+202404,Dairy,Cream,116
+202403,Beverages,Orange Juice,178
+202402,Dairy,Butter,197
+202409,Household,Dish Soap,32
+202401,Produce,Bananas,42
+202402,Snacks,Chips,96
+202403,Household,Detergent,65
+202402,Dairy,Butter,45
+202408,Household,Tissue,181
+202403,Frozen Foods,Frozen Pizza,187
+202404,Household,Trash Bags,47
+202411,Bakery,Muffin,18
+202410,Dairy,Yogurt,127
+202409,Personal Care,Shampoo,50
+202411,Household,Dish Soap,148
+202403,Bakery,Bread,85
+202407,Personal Care,Toothpaste,196
+202408,Frozen Foods,Frozen Vegetables,170
+202409,Household,Detergent,172
+202409,Personal Care,Shampoo,87
+202410,Frozen Foods,Frozen Vegetables,189
+202409,Household,Toilet Paper,124
+202402,Beverages,Mineral Water,126
+202403,Dairy,Cream,57
+202402,Produce,Tomatoes,74
+202412,Beverages,Green Tea,12
+202403,Personal Care,Toothpaste,80
+202405,Snacks,Chips,195
+202402,Beverages,Mineral Water,80
+202410,Produce,Apples,131
+202403,Dairy,Milk,152
+202406,Household,Detergent,115
+202408,Personal Care,Shampoo,44
+202411,Bakery,Bagel,156
+202405,Personal Care,Lotion,45
+202407,Snacks,Popcorn,58
+202408,Dairy,Cream,96
+202407,Beverages,Green Tea,97
+202405,Frozen Foods,Ice Cream,42
+202403,Snacks,Chips,76
+202401,Household,Detergent,174
+202402,Frozen Foods,Frozen Vegetables,94
+202411,Household,Tissue,185
+202412,Snacks,Granola Bar,77
+202411,Bakery,Muffin,91
+202402,Beverages,Soda,24
+202407,Household,Dish Soap,10
+202410,Bakery,Bagel,17
+202401,Bakery,Cake,104
+202410,Personal Care,Toothpaste,50
+202412,Beverages,Mineral Water,51
+202402,Beverages,Soda,135
+202408,Snacks,Cookies,53
+202407,Produce,Carrots,68
+202401,Frozen Foods,Frozen Pizza,20
+202403,Dairy,Cheese,157
+202404,Beverages,Soda,109
+202409,Bakery,Muffin,159
+202403,Household,Detergent,186
+202408,Beverages,Green Tea,46
+202402,Produce,Spinach,66
+202402,Dairy,Milk,23
+202411,Dairy,Yogurt,63
+202412,Snacks,Granola Bar,174
+202409,Household,Detergent,87
+202402,Bakery,Bagel,10
+202405,Dairy,Milk,124
+202412,Produce,Apples,94
+202404,Frozen Foods,Ice Cream,39
+202409,Frozen Foods,Frozen Vegetables,138
+202412,Dairy,Cream,150
+202410,Dairy,Milk,54
+202408,Produce,Tomatoes,94
+202407,Beverages,Orange Juice,22
+202409,Produce,Tomatoes,63
+202412,Beverages,Orange Juice,23
+202407,Personal Care,Shampoo,154
+202408,Beverages,Green Tea,81
+202402,Bakery,Bagel,145
+202402,Bakery,Muffin,71
+202411,Bakery,Bread,189
+202406,Bakery,Croissant,47
+202411,Snacks,Popcorn,158
+202401,Produce,Spinach,13
+202406,Personal Care,Soap,13
+202401,Dairy,Milk,158
+202406,Dairy,Cheese,114
+202410,Household,Detergent,178
+202409,Dairy,Yogurt,82
+202404,Personal Care,Toothpaste,59
+202404,Personal Care,Shampoo,46
+202406,Frozen Foods,Frozen Vegetables,187
+202402,Dairy,Yogurt,115
+202411,Household,Detergent,168
+202408,Snacks,Chips,60
+202408,Frozen Foods,Ice Cream,27
+202401,Beverages,Green Tea,58
+202406,Produce,Carrots,41
+202409,Produce,Apples,46
+202411,Dairy,Yogurt,30
+202408,Bakery,Muffin,140
+202402,Snacks,Chocolate,188
+202401,Snacks,Chocolate,106
+202412,Household,Toilet Paper,113
+202406,Beverages,Soda,169
+202407,Dairy,Cheese,68
+202404,Beverages,Green Tea,168
+202403,Personal Care,Soap,98
+202407,Bakery,Cake,11
+202410,Frozen Foods,Ice Cream,79
+202412,Dairy,Milk,167
+202404,Beverages,Green Tea,27
+202412,Personal Care,Deodorant,173
+202406,Household,Dish Soap,79
+202409,Dairy,Yogurt,130
+202411,Produce,Carrots,34
+202409,Snacks,Granola Bar,160
+202406,Dairy,Yogurt,146
+202412,Frozen Foods,Frozen Vegetables,164
+202406,Bakery,Bread,56
+202405,Personal Care,Soap,196
+202405,Frozen Foods,Frozen Fries,177
+202406,Frozen Foods,Ice Cream,151
+202411,Snacks,Cookies,184
+202401,Beverages,Coffee,154
+202403,Beverages,Coffee,69
+202404,Beverages,Mineral Water,31
+202403,Dairy,Cheese,12
+202404,Beverages,Coffee,19
+202412,Snacks,Cookies,138
+202410,Frozen Foods,Frozen Berries,158
+202405,Beverages,Mineral Water,14
+202407,Frozen Foods,Frozen Berries,200
+202407,Dairy,Cheese,190
+202407,Personal Care,Lotion,31
+202402,Bakery,Cake,168
+202404,Bakery,Bagel,189
+202404,Snacks,Chocolate,75
+202402,Dairy,Yogurt,168
+202401,Personal Care,Shampoo,50
+202405,Frozen Foods,Frozen Berries,162
+202411,Dairy,Milk,58
+202402,Snacks,Chocolate,123
+202408,Household,Tissue,136
+202410,Household,Tissue,110
+202401,Produce,Bananas,51
+202411,Bakery,Croissant,87
+202406,Personal Care,Toothpaste,71
+202402,Household,Tissue,34
+202409,Bakery,Bread,33
+202408,Bakery,Bread,190
+202403,Bakery,Muffin,52
+202404,Dairy,Cheese,189
+202405,Bakery,Cake,173
+202406,Snacks,Chips,135
+202409,Personal Care,Lotion,131
+202408,Personal Care,Soap,130
+202404,Dairy,Cheese,107
+202408,Beverages,Coffee,62
+202401,Snacks,Cookies,13
+202402,Frozen Foods,Frozen Vegetables,195
+202403,Produce,Spinach,43
+202408,Produce,Tomatoes,16
+202408,Beverages,Mineral Water,186
+202402,Beverages,Orange Juice,95
+202411,Produce,Carrots,155
+202402,Frozen Foods,Frozen Vegetables,27
+202407,Snacks,Popcorn,101
+202406,Produce,Carrots,141
+202404,Dairy,Yogurt,161
+202404,Snacks,Chocolate,65
+202401,Beverages,Coffee,86
+202403,Household,Trash Bags,72
+202411,Beverages,Green Tea,74
+202410,Snacks,Popcorn,96
+202402,Produce,Spinach,43
+202402,Bakery,Croissant,89
+202411,Frozen Foods,Ice Cream,85
+202407,Personal Care,Shampoo,17
+202410,Frozen Foods,Ice Cream,44
+202407,Bakery,Muffin,153
+202402,Snacks,Chips,185
+202409,Snacks,Chocolate,40
+202409,Household,Trash Bags,121
+202402,Produce,Apples,25
+202401,Frozen Foods,Ice Cream,67
+202411,Bakery,Bread,90
+202406,Snacks,Popcorn,138
+202404,Bakery,Bagel,109
+202409,Bakery,Bagel,49
+202404,Beverages,Green Tea,110
+202403,Snacks,Chips,21
+202411,Personal Care,Soap,58
+202407,Frozen Foods,Frozen Pizza,138
+202406,Beverages,Mineral Water,117
+202408,Personal Care,Deodorant,55
+202408,Beverages,Orange Juice,105
+202402,Beverages,Orange Juice,178
+202409,Dairy,Butter,175
+202407,Snacks,Granola Bar,82
+202408,Produce,Bananas,14
+202408,Dairy,Butter,36
+202406,Personal Care,Toothpaste,181
+202407,Produce,Tomatoes,170
+202402,Snacks,Chips,36
+202401,Personal Care,Deodorant,19
+202403,Produce,Spinach,194
+202409,Frozen Foods,Frozen Fries,18
+202404,Bakery,Muffin,122
+202411,Bakery,Muffin,32
+202404,Dairy,Milk,61
+202402,Beverages,Orange Juice,165
+202408,Produce,Bananas,28
+202411,Household,Dish Soap,100
+202411,Household,Detergent,64
+202401,Household,Dish Soap,119
+202405,Produce,Spinach,32
+202412,Frozen Foods,Frozen Vegetables,170
+202407,Produce,Apples,15
+202410,Dairy,Butter,10
+202401,Frozen Foods,Frozen Vegetables,85
+202409,Produce,Spinach,20
+202405,Dairy,Butter,107
+202411,Snacks,Chips,138
+202410,Snacks,Granola Bar,36
+202412,Dairy,Milk,85
+202410,Personal Care,Shampoo,200
+202405,Dairy,Cheese,80
+202403,Household,Toilet Paper,111
+202409,Beverages,Orange Juice,44
+202409,Bakery,Cake,48
+202412,Dairy,Milk,11
+202410,Bakery,Cake,186
+202406,Dairy,Cream,98
+202406,Personal Care,Shampoo,141
+202401,Snacks,Chocolate,41
+202409,Frozen Foods,Frozen Vegetables,54
+202407,Household,Toilet Paper,93
+202403,Produce,Carrots,116
+202404,Personal Care,Soap,133
+202401,Produce,Spinach,132
+202403,Snacks,Popcorn,123
+202408,Frozen Foods,Frozen Fries,155
+202405,Frozen Foods,Frozen Berries,175
+202411,Beverages,Soda,46
+202411,Produce,Spinach,98
+202404,Bakery,Bagel,73
+202403,Snacks,Chips,155
+202409,Produce,Spinach,182
+202401,Bakery,Bread,116
+202406,Personal Care,Deodorant,49
+202412,Household,Tissue,15
+202401,Bakery,Cake,142
+202401,Produce,Spinach,86
+202406,Beverages,Orange Juice,79
+202403,Bakery,Cake,42
+202409,Frozen Foods,Ice Cream,159
+202408,Beverages,Soda,142
+202405,Household,Detergent,75
+202410,Personal Care,Toothpaste,71
+202403,Household,Dish Soap,188
+202401,Beverages,Green Tea,192
+202401,Household,Tissue,83
+202402,Snacks,Chips,68
+202402,Dairy,Cheese,83
+202412,Frozen Foods,Ice Cream,64
+202409,Bakery,Bagel,169
+202412,Beverages,Green Tea,166
+202402,Beverages,Orange Juice,30
+202411,Frozen Foods,Ice Cream,119
+202404,Beverages,Coffee,85
+202411,Frozen Foods,Ice Cream,111
+202407,Produce,Apples,152
+202407,Frozen Foods,Frozen Berries,192
+202409,Snacks,Granola Bar,103
+202404,Snacks,Chocolate,10
+202410,Personal Care,Lotion,24
+202404,Bakery,Croissant,28
+202401,Frozen Foods,Frozen Berries,16
+202405,Snacks,Chips,88
+202408,Snacks,Chips,134
+202406,Snacks,Granola Bar,138
+202403,Household,Toilet Paper,12
+202401,Household,Detergent,157
+202401,Produce,Apples,153
+202409,Household,Trash Bags,81
+202402,Household,Detergent,170
+202405,Bakery,Croissant,185
+202404,Snacks,Cookies,11
+202405,Bakery,Croissant,41
+202408,Produce,Tomatoes,43
+202402,Frozen Foods,Frozen Pizza,16
+202405,Dairy,Cheese,199
+202401,Produce,Tomatoes,163
+202404,Snacks,Chips,50
+202412,Dairy,Cream,55
+202403,Bakery,Muffin,122
+202411,Frozen Foods,Frozen Fries,114
+202403,Produce,Tomatoes,92
+202402,Produce,Spinach,161
+202403,Dairy,Butter,47
+202411,Household,Detergent,172
+202404,Personal Care,Shampoo,97
+202403,Snacks,Chips,45
+202405,Snacks,Cookies,58
+202408,Dairy,Milk,46
+202411,Snacks,Chips,12
+202404,Bakery,Croissant,76
+202402,Snacks,Popcorn,198
+202407,Produce,Carrots,28
+202407,Produce,Bananas,139
+202405,Dairy,Yogurt,100
+202411,Snacks,Granola Bar,84
+202404,Household,Tissue,156
+202401,Dairy,Cheese,176
+202404,Personal Care,Shampoo,142
+202403,Personal Care,Soap,13
+202412,Frozen Foods,Frozen Fries,28
+202407,Beverages,Soda,104
+202402,Beverages,Coffee,93
+202411,Frozen Foods,Frozen Vegetables,136
+202411,Snacks,Granola Bar,102
+202411,Personal Care,Deodorant,103
+202403,Produce,Tomatoes,193
+202412,Household,Tissue,187
+202407,Personal Care,Soap,147
+202405,Bakery,Muffin,10
+202407,Frozen Foods,Frozen Berries,173
+202412,Produce,Tomatoes,125
+202405,Frozen Foods,Frozen Pizza,139
+202411,Personal Care,Deodorant,165
+202401,Bakery,Muffin,182
+202408,Produce,Spinach,130
+202409,Snacks,Granola Bar,200
+202411,Dairy,Cheese,132
+202401,Produce,Spinach,49
+202404,Produce,Tomatoes,45
+202401,Beverages,Green Tea,136
+202412,Beverages,Soda,197
+202404,Snacks,Chocolate,179
+202411,Dairy,Butter,79
+202408,Personal Care,Lotion,79
+202403,Household,Dish Soap,178
+202402,Bakery,Croissant,169
+202404,Bakery,Muffin,104
+202409,Frozen Foods,Frozen Fries,109
+202410,Bakery,Bagel,82
+202406,Personal Care,Deodorant,196
+202402,Produce,Bananas,109
+202409,Dairy,Cheese,143
+202409,Produce,Apples,186
+202401,Produce,Carrots,105
+202408,Frozen Foods,Frozen Berries,161
+202412,Beverages,Coffee,199
+202408,Dairy,Butter,66
+202410,Frozen Foods,Ice Cream,155
+202405,Bakery,Croissant,64
+202406,Personal Care,Lotion,128
+202407,Bakery,Bagel,39
+202412,Bakery,Muffin,26
+202406,Beverages,Coffee,93
+202411,Beverages,Coffee,39
+202404,Dairy,Yogurt,129
+202403,Frozen Foods,Frozen Berries,169
+202405,Snacks,Chips,131
+202412,Bakery,Cake,141
+202408,Frozen Foods,Frozen Pizza,28
+202410,Household,Toilet Paper,172
+202406,Personal Care,Toothpaste,101
+202410,Household,Dish Soap,170
+202412,Household,Tissue,118
+202407,Bakery,Cake,57
+202409,Dairy,Yogurt,128
+202401,Produce,Tomatoes,112
+202410,Bakery,Bagel,120
+202402,Beverages,Orange Juice,83
+202412,Snacks,Popcorn,139
+202407,Bakery,Croissant,83
+202409,Snacks,Cookies,61
+202402,Household,Dish Soap,180
+202410,Personal Care,Toothpaste,169
+202411,Beverages,Soda,86
+202409,Dairy,Yogurt,116
+202405,Dairy,Cream,173
+202402,Household,Dish Soap,128
+202409,Snacks,Cookies,130
+202402,Personal Care,Shampoo,140
+202404,Beverages,Soda,79
+202407,Personal Care,Deodorant,64
+202411,Snacks,Granola Bar,148
+202401,Frozen Foods,Frozen Berries,16
+202410,Bakery,Croissant,150
+202401,Frozen Foods,Frozen Pizza,77
+202411,Frozen Foods,Frozen Pizza,49
+202411,Snacks,Cookies,200
+202410,Beverages,Soda,142
+202404,Bakery,Muffin,179
+202408,Beverages,Orange Juice,38
+202401,Dairy,Milk,134
+202410,Snacks,Chips,89
+202411,Beverages,Green Tea,102
+202404,Household,Tissue,148
+202402,Snacks,Chocolate,150
+202404,Bakery,Cake,68
+202410,Dairy,Cheese,152
+202403,Produce,Spinach,29
+202403,Produce,Spinach,95
+202401,Beverages,Soda,147
+202409,Beverages,Soda,12
+202406,Personal Care,Toothpaste,190
+202404,Beverages,Soda,111
+202402,Household,Toilet Paper,180
+202402,Produce,Bananas,35
+202404,Personal Care,Deodorant,153
+202411,Snacks,Chocolate,99
+202407,Household,Dish Soap,163
+202412,Snacks,Popcorn,98
+202409,Dairy,Yogurt,102
+202411,Bakery,Cake,127
+202406,Bakery,Bagel,64
+202402,Household,Tissue,90
+202410,Dairy,Cheese,23
+202401,Household,Trash Bags,22
+202403,Dairy,Milk,85
+202401,Household,Tissue,171
+202403,Bakery,Muffin,181
+202408,Dairy,Milk,190
+202410,Produce,Spinach,10
+202409,Bakery,Bagel,175
+202409,Frozen Foods,Frozen Fries,101
+202404,Frozen Foods,Ice Cream,198
+202411,Beverages,Coffee,52
+202405,Frozen Foods,Frozen Pizza,145
+202411,Frozen Foods,Frozen Pizza,80
+202408,Personal Care,Toothpaste,140
+202402,Household,Detergent,183
+202403,Dairy,Cheese,131
+202401,Snacks,Chips,90
+202403,Beverages,Green Tea,43
+202408,Snacks,Popcorn,31
+202406,Beverages,Mineral Water,168
+202408,Frozen Foods,Frozen Vegetables,88
+202411,Snacks,Cookies,171
+202405,Produce,Carrots,82
+202408,Beverages,Green Tea,192
+202405,Household,Trash Bags,13
+202409,Produce,Tomatoes,57
+202404,Snacks,Cookies,179
+202408,Personal Care,Shampoo,154
+202406,Bakery,Bread,68
+202409,Produce,Carrots,36
+202406,Produce,Bananas,30
+202410,Produce,Spinach,135
+202408,Snacks,Chips,31
+202405,Personal Care,Toothpaste,199
+202405,Dairy,Milk,109
+202408,Snacks,Chocolate,63
+202412,Household,Tissue,36
+202402,Produce,Spinach,189
+202411,Bakery,Bread,12
+202412,Snacks,Chocolate,62
+202405,Dairy,Cream,102
+202409,Dairy,Cream,125
+202409,Frozen Foods,Frozen Berries,128
+202410,Bakery,Bread,164
+202402,Bakery,Cake,165
+202411,Dairy,Cream,45
+202410,Snacks,Chocolate,144
+202406,Snacks,Cookies,194
+202408,Dairy,Cheese,176
+202403,Household,Tissue,28
+202403,Personal Care,Deodorant,108
+202401,Dairy,Milk,51
+202408,Snacks,Chips,43
+202407,Beverages,Soda,142
+202407,Produce,Apples,138
+202403,Personal Care,Shampoo,178
+202401,Personal Care,Shampoo,53
+202401,Bakery,Bagel,15
+202412,Household,Detergent,47
+202408,Personal Care,Shampoo,196
+202402,Beverages,Orange Juice,66
+202408,Bakery,Muffin,10
+202412,Bakery,Muffin,57
+202404,Dairy,Butter,188
+202402,Produce,Bananas,59
+202404,Frozen Foods,Ice Cream,172
+202411,Produce,Tomatoes,45
+202402,Snacks,Cookies,81
+202407,Beverages,Mineral Water,78
+202405,Bakery,Cake,84
+202406,Personal Care,Deodorant,29
+202409,Bakery,Muffin,177
+202412,Dairy,Butter,196
+202410,Dairy,Yogurt,94
+202402,Bakery,Croissant,116
+202402,Personal Care,Shampoo,181
+202410,Personal Care,Lotion,59
+202410,Frozen Foods,Ice Cream,179
+202402,Snacks,Popcorn,126
+202404,Produce,Carrots,54
+202406,Beverages,Mineral Water,37
+202401,Frozen Foods,Frozen Berries,73
+202402,Produce,Apples,76
+202405,Personal Care,Deodorant,45
+202409,Dairy,Cheese,32
+202410,Beverages,Soda,198
+202405,Snacks,Cookies,180
+202402,Produce,Bananas,128
+202407,Household,Dish Soap,111
+202407,Dairy,Yogurt,25
+202404,Household,Dish Soap,114
+202404,Bakery,Muffin,125
+202404,Personal Care,Soap,50
+202402,Frozen Foods,Frozen Vegetables,126
+202402,Snacks,Cookies,100
+202406,Frozen Foods,Frozen Vegetables,194
+202402,Frozen Foods,Frozen Berries,130
+202410,Bakery,Muffin,86
+202411,Dairy,Yogurt,146
+202411,Bakery,Muffin,54
+202411,Produce,Bananas,35
+202411,Snacks,Granola Bar,28
+202402,Produce,Spinach,53
+202405,Beverages,Green Tea,107
+202411,Bakery,Bagel,186
+202404,Frozen Foods,Frozen Fries,98
+202404,Dairy,Butter,174
+202404,Personal Care,Deodorant,126
+202409,Bakery,Muffin,55
+202411,Snacks,Popcorn,80
+202406,Personal Care,Lotion,103
+202410,Frozen Foods,Frozen Fries,173
+202406,Household,Trash Bags,104
+202411,Bakery,Muffin,161
+202407,Personal Care,Toothpaste,180
+202406,Frozen Foods,Frozen Vegetables,90
+202406,Frozen Foods,Frozen Fries,52
+202402,Frozen Foods,Frozen Vegetables,186
+202412,Beverages,Orange Juice,146
+202407,Household,Dish Soap,164
+202409,Produce,Bananas,38
+202406,Dairy,Cream,95
+202409,Bakery,Muffin,69
+202410,Beverages,Green Tea,15
+202411,Frozen Foods,Ice Cream,73
+202404,Snacks,Popcorn,125
+202405,Personal Care,Lotion,105
+202407,Snacks,Chocolate,162
+202404,Dairy,Cream,72
+202405,Dairy,Cream,135
+202405,Beverages,Orange Juice,129
+202406,Bakery,Croissant,169
+202405,Snacks,Chips,66
+202410,Frozen Foods,Frozen Berries,14
+202406,Dairy,Butter,99
+202402,Frozen Foods,Frozen Vegetables,198
+202401,Personal Care,Deodorant,105
+202405,Personal Care,Lotion,17
+202412,Frozen Foods,Frozen Vegetables,89
+202410,Dairy,Milk,31
+202409,Beverages,Soda,25
+202410,Snacks,Chips,105
+202407,Dairy,Cream,15
+202412,Bakery,Bagel,36
+202401,Snacks,Granola Bar,40
+202410,Produce,Apples,66
+202404,Produce,Carrots,43
+202405,Personal Care,Shampoo,93
+202407,Produce,Carrots,130
+202406,Bakery,Muffin,195
+202408,Bakery,Bagel,38
+202408,Dairy,Butter,175
+202411,Household,Toilet Paper,13
+202403,Household,Detergent,193
+202407,Bakery,Croissant,81
+202411,Dairy,Yogurt,66
+202401,Household,Detergent,27
+202408,Frozen Foods,Frozen Vegetables,86
+202410,Personal Care,Deodorant,116
+202412,Beverages,Orange Juice,42
+202412,Snacks,Chocolate,16
+202408,Dairy,Cheese,151
+202405,Frozen Foods,Frozen Fries,68
+202404,Bakery,Bagel,115
+202408,Bakery,Cake,156
+202405,Beverages,Soda,189
+202409,Household,Tissue,29
+202412,Beverages,Coffee,125
+202403,Household,Detergent,158
+202409,Frozen Foods,Frozen Vegetables,187
+202407,Frozen Foods,Ice Cream,127
+202406,Snacks,Chips,193
+202411,Bakery,Bread,15
+202409,Household,Detergent,41
+202408,Produce,Bananas,171
+202406,Frozen Foods,Frozen Berries,69
+202412,Produce,Carrots,87
+202402,Beverages,Green Tea,103
+202410,Bakery,Cake,76
+202411,Produce,Tomatoes,13
+202403,Beverages,Orange Juice,113
+202402,Frozen Foods,Frozen Vegetables,165
+202409,Personal Care,Lotion,39
+202402,Snacks,Cookies,123
+202410,Beverages,Mineral Water,95
+202410,Snacks,Chocolate,155
+202408,Frozen Foods,Frozen Fries,104
+202411,Frozen Foods,Ice Cream,191
+202405,Dairy,Cream,195
+202403,Snacks,Popcorn,32
+202410,Dairy,Butter,95
+202411,Personal Care,Shampoo,184
+202408,Household,Trash Bags,103
+202408,Snacks,Cookies,52
+202405,Household,Trash Bags,163
+202407,Household,Tissue,94
+202409,Snacks,Chips,188
+202406,Bakery,Muffin,134
+202412,Household,Tissue,16
+202406,Produce,Spinach,125
+202405,Snacks,Granola Bar,112
+202403,Personal Care,Shampoo,195
+202409,Frozen Foods,Ice Cream,128
+202405,Produce,Spinach,182
+202405,Produce,Apples,35
+202401,Beverages,Coffee,102
+202407,Dairy,Milk,42
+202401,Snacks,Chips,124
+202401,Household,Detergent,41
+202411,Dairy,Cream,190
+202409,Dairy,Cream,64
+202404,Beverages,Coffee,126
+202409,Frozen Foods,Frozen Berries,51
+202403,Personal Care,Deodorant,159
+202401,Bakery,Croissant,72
+202401,Produce,Bananas,158
+202403,Household,Toilet Paper,24
+202407,Personal Care,Toothpaste,153
+202402,Personal Care,Toothpaste,190
+202402,Bakery,Cake,12
+202410,Frozen Foods,Frozen Fries,58
+202403,Snacks,Cookies,112
+202409,Household,Detergent,115
+202404,Produce,Apples,92
+202403,Beverages,Soda,47
+202403,Dairy,Yogurt,195
+202409,Dairy,Yogurt,154
+202412,Beverages,Soda,177
+202407,Dairy,Cream,125
+202407,Produce,Apples,155
+202408,Produce,Carrots,117
+202412,Household,Toilet Paper,103
+202409,Personal Care,Toothpaste,153
+202402,Household,Toilet Paper,28
+202411,Dairy,Cream,189
+202404,Produce,Bananas,163
+202403,Beverages,Orange Juice,137
+202406,Frozen Foods,Ice Cream,166
+202401,Household,Trash Bags,27
+202411,Frozen Foods,Ice Cream,78
+202412,Produce,Carrots,33
+202407,Frozen Foods,Frozen Berries,182
+202404,Personal Care,Toothpaste,13
+202407,Personal Care,Lotion,115
+202407,Snacks,Chips,181
+202410,Dairy,Butter,32
+202411,Dairy,Cream,97
+202405,Frozen Foods,Frozen Pizza,135
+202409,Bakery,Bagel,162
+202408,Dairy,Milk,33
+202411,Bakery,Bagel,143
+202411,Bakery,Muffin,140
+202410,Frozen Foods,Frozen Berries,91
+202411,Bakery,Croissant,163
+202409,Produce,Carrots,151
+202412,Bakery,Cake,88
+202410,Beverages,Coffee,152
+202407,Household,Toilet Paper,113
+202410,Frozen Foods,Frozen Berries,73
+202407,Bakery,Croissant,78
+202408,Dairy,Milk,107
+202404,Produce,Bananas,84
+202404,Frozen Foods,Frozen Berries,67
+202401,Beverages,Orange Juice,138
+202407,Dairy,Cheese,76
+202404,Bakery,Muffin,52
+202401,Frozen Foods,Frozen Berries,99
+202409,Beverages,Coffee,180
+202405,Household,Trash Bags,129
+202406,Frozen Foods,Frozen Fries,188
+202402,Household,Toilet Paper,151
+202402,Household,Dish Soap,86
+202404,Produce,Spinach,58
+202401,Household,Trash Bags,94
+202407,Dairy,Yogurt,65
+202403,Frozen Foods,Frozen Berries,188
+202412,Bakery,Croissant,159
+202412,Beverages,Coffee,145
+202409,Snacks,Cookies,62
+202408,Produce,Carrots,131
+202404,Personal Care,Lotion,199
+202404,Household,Detergent,151
+202404,Snacks,Cookies,145
+202404,Household,Detergent,47
+202405,Dairy,Cheese,92
+202405,Frozen Foods,Ice Cream,184
+202410,Dairy,Yogurt,112
+202402,Bakery,Croissant,138
+202404,Bakery,Croissant,116
+202412,Household,Toilet Paper,122
+202412,Frozen Foods,Frozen Fries,42
+202407,Household,Toilet Paper,182
+202403,Produce,Carrots,21
+202408,Beverages,Soda,53
+202412,Beverages,Soda,154
+202402,Bakery,Cake,180
+202404,Beverages,Green Tea,141
+202408,Produce,Tomatoes,137
+202401,Beverages,Green Tea,146
+202408,Beverages,Orange Juice,116
+202409,Frozen Foods,Frozen Fries,128
+202411,Produce,Tomatoes,45
+202404,Household,Tissue,19
+202412,Snacks,Granola Bar,178
+202404,Snacks,Cookies,168
+202412,Snacks,Granola Bar,180
+202412,Snacks,Cookies,42
+202404,Dairy,Butter,70
+202408,Produce,Bananas,159
+202409,Dairy,Cream,192
+202409,Bakery,Croissant,22
+202412,Dairy,Milk,197
+202407,Frozen Foods,Ice Cream,68
+202411,Personal Care,Shampoo,109
+202404,Beverages,Orange Juice,169
+202408,Beverages,Coffee,102
+202409,Produce,Tomatoes,52
+202404,Household,Trash Bags,71
+202401,Dairy,Yogurt,43
+202401,Bakery,Croissant,119
+202403,Beverages,Soda,10
+202408,Bakery,Bread,152
+202408,Personal Care,Lotion,53
+202411,Personal Care,Lotion,167
+202402,Beverages,Mineral Water,32
+202405,Household,Toilet Paper,88
+202412,Frozen Foods,Frozen Pizza,52
+202406,Beverages,Orange Juice,75
+202409,Beverages,Orange Juice,186
+202403,Dairy,Cream,52
+202412,Bakery,Cake,76
+202402,Produce,Spinach,36
+202403,Bakery,Croissant,152
+202412,Personal Care,Shampoo,66
+202408,Household,Detergent,136
+202407,Produce,Spinach,72
+202402,Personal Care,Deodorant,100
+202412,Personal Care,Deodorant,117
+202403,Household,Dish Soap,196
+202401,Produce,Tomatoes,55
+202411,Personal Care,Soap,120
+202402,Bakery,Croissant,145
+202412,Beverages,Coffee,47
+202409,Produce,Apples,62
+202411,Snacks,Granola Bar,147
+202411,Bakery,Muffin,51
+202403,Household,Trash Bags,155
+202406,Dairy,Milk,168
+202411,Beverages,Coffee,168
+202403,Produce,Apples,191
+202403,Frozen Foods,Frozen Berries,123
+202403,Snacks,Chocolate,59
+202406,Beverages,Green Tea,123
+202408,Household,Tissue,120
+202408,Frozen Foods,Frozen Vegetables,149
+202404,Household,Toilet Paper,169
+202408,Household,Toilet Paper,14
+202401,Bakery,Cake,151
+202406,Personal Care,Deodorant,183
+202408,Personal Care,Toothpaste,90
+202411,Snacks,Chips,197
+202410,Dairy,Yogurt,148
+202408,Household,Trash Bags,102
+202411,Beverages,Soda,167
+202403,Dairy,Butter,81
+202401,Household,Trash Bags,45
+202403,Household,Tissue,108
+202407,Dairy,Yogurt,123
+202403,Dairy,Butter,159
+202401,Snacks,Granola Bar,93
+202409,Frozen Foods,Frozen Berries,95
+202406,Beverages,Green Tea,143
+202411,Personal Care,Soap,137
+202408,Produce,Bananas,187
+202410,Personal Care,Toothpaste,142
+202405,Snacks,Chocolate,188
+202403,Frozen Foods,Ice Cream,113
+202411,Produce,Spinach,102
+202408,Produce,Bananas,115
+202403,Produce,Apples,200
+202407,Bakery,Muffin,148
+202401,Beverages,Green Tea,122
+202411,Dairy,Butter,137
+202406,Dairy,Milk,48
+202403,Beverages,Coffee,71
+202402,Beverages,Green Tea,95
+202405,Snacks,Chips,62
+202408,Personal Care,Toothpaste,55
+202410,Dairy,Milk,78
+202412,Household,Toilet Paper,27
+202411,Dairy,Yogurt,20
+202405,Produce,Spinach,179
+202402,Beverages,Soda,57
+202406,Produce,Spinach,48
+202409,Dairy,Butter,114
+202406,Frozen Foods,Frozen Berries,187
+202405,Dairy,Cream,131
+202409,Personal Care,Deodorant,26
+202404,Dairy,Yogurt,27
+202409,Household,Detergent,145
+202401,Dairy,Cream,176
+202406,Frozen Foods,Ice Cream,166
+202408,Dairy,Butter,85
+202412,Bakery,Muffin,47
+202409,Bakery,Bread,53
+202407,Dairy,Milk,15
+202407,Household,Trash Bags,80
+202402,Snacks,Chocolate,70
+202407,Beverages,Orange Juice,25
+202409,Produce,Bananas,23
+202410,Beverages,Orange Juice,29
+202402,Bakery,Croissant,90
+202409,Personal Care,Toothpaste,35
+202403,Snacks,Cookies,118
+202410,Personal Care,Soap,132
+202405,Frozen Foods,Frozen Vegetables,80
+202410,Beverages,Soda,191
+202405,Personal Care,Soap,20
+202401,Frozen Foods,Frozen Vegetables,113
+202412,Produce,Apples,83
+202411,Produce,Apples,105
+202405,Frozen Foods,Frozen Vegetables,155
+202408,Produce,Apples,107
+202405,Frozen Foods,Frozen Fries,168
+202412,Produce,Bananas,118
+202405,Household,Dish Soap,19
+202409,Frozen Foods,Frozen Pizza,94
+202411,Snacks,Chocolate,30
+202410,Beverages,Mineral Water,108
+202405,Beverages,Soda,147
+202402,Bakery,Croissant,59
+202412,Household,Toilet Paper,102
+202402,Household,Dish Soap,22
+202404,Household,Detergent,47
+202408,Bakery,Bread,83
+202407,Frozen Foods,Frozen Fries,77
+202406,Produce,Apples,165
+202412,Snacks,Chips,20
+202411,Snacks,Granola Bar,154
+202411,Snacks,Popcorn,183
+202402,Dairy,Yogurt,158
+202408,Personal Care,Lotion,127
+202409,Produce,Apples,27
+202406,Produce,Apples,134
+202410,Personal Care,Deodorant,66
+202412,Personal Care,Deodorant,152
+202405,Bakery,Bread,34
+202409,Produce,Carrots,20
+202412,Bakery,Bagel,42
+202401,Bakery,Muffin,114
+202412,Dairy,Cream,33
+202403,Frozen Foods,Ice Cream,166
+202403,Personal Care,Shampoo,47
+202409,Dairy,Yogurt,178
+202408,Personal Care,Soap,188
+202402,Dairy,Yogurt,156
+202411,Personal Care,Shampoo,105
+202404,Frozen Foods,Frozen Fries,200
+202411,Personal Care,Toothpaste,122
+202405,Household,Toilet Paper,143
+202407,Produce,Apples,75
+202405,Frozen Foods,Frozen Berries,27
+202402,Bakery,Cake,79
+202411,Dairy,Butter,77
+202410,Beverages,Green Tea,73
+202410,Snacks,Granola Bar,58
+202408,Beverages,Mineral Water,114
+202402,Bakery,Croissant,61
+202402,Snacks,Popcorn,45
+202402,Snacks,Popcorn,86
+202403,Dairy,Cheese,155
+202409,Personal Care,Toothpaste,35
+202409,Snacks,Granola Bar,130
+202401,Beverages,Coffee,160
+202407,Bakery,Croissant,170
+202401,Snacks,Chips,156
+202412,Household,Tissue,116
+202402,Beverages,Orange Juice,22
+202401,Bakery,Bread,172
+202406,Beverages,Soda,85
+202402,Household,Toilet Paper,96
+202405,Dairy,Yogurt,197
+202401,Beverages,Mineral Water,97
+202408,Dairy,Cheese,91
+202406,Dairy,Butter,175
+202403,Dairy,Cream,133
+202408,Personal Care,Lotion,117
+202406,Personal Care,Lotion,87
+202410,Produce,Spinach,128
+202406,Dairy,Cream,124
+202403,Produce,Tomatoes,83
+202405,Produce,Bananas,118
+202405,Snacks,Chips,92
+202401,Snacks,Granola Bar,124
+202402,Beverages,Coffee,159
+202408,Beverages,Coffee,89
+202404,Snacks,Cookies,19
+202409,Produce,Carrots,104
+202404,Produce,Bananas,147
+202406,Bakery,Cake,34
+202408,Dairy,Cream,191
+202406,Beverages,Mineral Water,123
+202406,Beverages,Mineral Water,13
+202405,Household,Detergent,17
+202406,Frozen Foods,Ice Cream,53
+202406,Produce,Spinach,181
+202407,Frozen Foods,Frozen Vegetables,93
+202403,Dairy,Cheese,154
+202407,Produce,Tomatoes,112
+202407,Frozen Foods,Frozen Fries,137
+202410,Snacks,Popcorn,19
+202406,Bakery,Bagel,69
+202404,Produce,Apples,195
+202402,Produce,Bananas,155
+202405,Snacks,Cookies,66
+202403,Bakery,Bread,38
+202411,Snacks,Cookies,43
+202405,Household,Toilet Paper,54
+202403,Bakery,Bread,152
+202405,Beverages,Soda,79
+202411,Bakery,Bagel,154
+202412,Snacks,Chocolate,29
+202401,Produce,Tomatoes,86
+202407,Produce,Apples,114
+202407,Beverages,Coffee,31
+202411,Produce,Spinach,165
+202411,Dairy,Butter,141
+202408,Personal Care,Lotion,83
+202405,Produce,Carrots,94
+202408,Bakery,Bread,184
+202412,Produce,Apples,46
+202409,Bakery,Muffin,78
+202403,Beverages,Soda,124
+202411,Snacks,Cookies,23
+202409,Household,Toilet Paper,27
+202410,Dairy,Milk,105
+202409,Beverages,Green Tea,22
+202407,Dairy,Butter,136
+202405,Household,Toilet Paper,153
+202411,Beverages,Mineral Water,199
+202409,Frozen Foods,Frozen Pizza,177
+202407,Dairy,Milk,71
+202403,Produce,Carrots,85
+202406,Personal Care,Soap,101
+202407,Snacks,Granola Bar,132
+202411,Beverages,Coffee,111
+202410,Produce,Carrots,167
+202409,Produce,Spinach,51
+202406,Frozen Foods,Frozen Berries,89
+202401,Beverages,Soda,79
+202403,Frozen Foods,Frozen Vegetables,42
+202410,Household,Detergent,101
+202401,Personal Care,Toothpaste,87
+202405,Household,Tissue,76
+202405,Dairy,Yogurt,185
+202412,Dairy,Yogurt,178
+202405,Frozen Foods,Frozen Berries,115
+202412,Personal Care,Soap,53
+202407,Bakery,Bagel,30
+202410,Snacks,Granola Bar,69
+202410,Snacks,Popcorn,89
+202408,Snacks,Chips,166
+202410,Snacks,Chips,28
+202410,Beverages,Green Tea,172
+202410,Frozen Foods,Ice Cream,119
+202407,Produce,Carrots,94
+202411,Produce,Bananas,75
+202407,Snacks,Popcorn,117
+202408,Beverages,Green Tea,175
+202407,Frozen Foods,Frozen Fries,131
+202409,Snacks,Popcorn,85
+202408,Snacks,Popcorn,110
+202403,Beverages,Mineral Water,138
+202408,Frozen Foods,Frozen Berries,145
+202404,Produce,Apples,18
+202402,Produce,Carrots,64
+202407,Household,Dish Soap,200
+202405,Frozen Foods,Frozen Pizza,42
+202405,Household,Trash Bags,27
+202409,Beverages,Mineral Water,181
+202401,Household,Detergent,79
+202412,Produce,Carrots,10
+202404,Snacks,Popcorn,111
+202404,Produce,Apples,43
+202406,Dairy,Yogurt,22
+202405,Personal Care,Shampoo,113
+202404,Beverages,Green Tea,144
+202412,Beverages,Green Tea,66
+202411,Produce,Bananas,54
+202406,Snacks,Popcorn,197
+202410,Produce,Tomatoes,55
+202401,Household,Tissue,176
+202409,Snacks,Granola Bar,13
+202410,Household,Dish Soap,131
+202406,Dairy,Cheese,80
+202401,Personal Care,Soap,56
+202406,Household,Toilet Paper,81
+202411,Beverages,Orange Juice,167
+202403,Beverages,Mineral Water,27
+202412,Beverages,Orange Juice,160
+202411,Personal Care,Soap,108
+202407,Dairy,Milk,171
+202401,Dairy,Cheese,15
+202411,Frozen Foods,Frozen Berries,199
+202405,Beverages,Mineral Water,162
+202411,Personal Care,Soap,49
+202409,Snacks,Popcorn,56
+202410,Snacks,Chips,146
+202401,Snacks,Popcorn,74
+202408,Frozen Foods,Frozen Berries,151
+202412,Household,Tissue,88
+202406,Bakery,Cake,136
+202411,Frozen Foods,Frozen Berries,125
+202409,Bakery,Croissant,35
+202401,Dairy,Cheese,62
+202405,Bakery,Muffin,94
+202407,Bakery,Bread,168
+202406,Personal Care,Deodorant,43
+202408,Bakery,Bread,82
+202406,Bakery,Muffin,25
+202410,Snacks,Granola Bar,148
+202411,Frozen Foods,Frozen Pizza,38
+202409,Dairy,Milk,148
+202409,Dairy,Butter,101
+202408,Snacks,Chips,79
+202401,Frozen Foods,Frozen Pizza,18
+202410,Bakery,Bagel,193
+202403,Dairy,Yogurt,49
+202407,Snacks,Granola Bar,69
+202408,Bakery,Bread,13
+202410,Produce,Carrots,40
+202405,Bakery,Bagel,186
+202401,Frozen Foods,Frozen Vegetables,197
+202401,Household,Dish Soap,64
+202408,Bakery,Muffin,54
+202411,Household,Toilet Paper,191
+202404,Frozen Foods,Frozen Pizza,168
+202405,Dairy,Yogurt,105
+202409,Produce,Tomatoes,89
+202406,Frozen Foods,Ice Cream,45
+202412,Snacks,Chips,169
+202403,Dairy,Yogurt,32
+202405,Dairy,Milk,14
+202407,Bakery,Cake,192
+202412,Dairy,Cream,113
+202406,Dairy,Cheese,27
+202402,Dairy,Cheese,27
+202401,Household,Toilet Paper,106
+202409,Snacks,Chocolate,69
+202410,Produce,Tomatoes,77
+202405,Beverages,Orange Juice,71
+202406,Frozen Foods,Ice Cream,157
+202402,Household,Detergent,141
+202402,Snacks,Popcorn,130
+202405,Personal Care,Deodorant,45
+202408,Bakery,Bread,174
+202402,Beverages,Coffee,14
+202412,Dairy,Butter,140
+202412,Bakery,Bread,156
+202401,Snacks,Chips,144
+202412,Personal Care,Toothpaste,71
+202403,Personal Care,Deodorant,165
+202412,Beverages,Soda,67
+202406,Snacks,Chocolate,139
+202411,Frozen Foods,Frozen Vegetables,127
+202403,Snacks,Popcorn,177
+202408,Dairy,Yogurt,62
+202407,Bakery,Bread,159
+202412,Snacks,Popcorn,183
+202407,Dairy,Butter,137
+202406,Dairy,Cheese,27
+202410,Household,Detergent,45
+202407,Snacks,Chips,72
+202405,Beverages,Coffee,23
+202407,Household,Tissue,35
+202408,Frozen Foods,Frozen Berries,168
+202406,Bakery,Bagel,103
+202401,Snacks,Chocolate,55
+202406,Bakery,Bread,100
+202405,Snacks,Popcorn,56
+202401,Dairy,Milk,42
+202406,Produce,Spinach,30
+202409,Beverages,Mineral Water,45
+202404,Bakery,Muffin,185
+202412,Household,Toilet Paper,81
+202408,Snacks,Cookies,66
+202401,Household,Dish Soap,120
+202406,Household,Trash Bags,74
+202401,Produce,Tomatoes,155
+202412,Snacks,Cookies,135
+202407,Frozen Foods,Frozen Berries,27
+202401,Household,Tissue,36
+202407,Beverages,Green Tea,170
+202412,Beverages,Orange Juice,134
+202404,Dairy,Cheese,93
+202403,Household,Detergent,27
+202411,Frozen Foods,Ice Cream,114
+202403,Personal Care,Soap,92
+202405,Bakery,Cake,140
+202407,Personal Care,Lotion,155
+202404,Snacks,Granola Bar,98
+202412,Snacks,Granola Bar,176
+202412,Dairy,Cream,154
+202405,Household,Detergent,35
+202404,Personal Care,Lotion,11
+202411,Household,Trash Bags,42
+202406,Produce,Tomatoes,64
+202402,Dairy,Cheese,159
+202406,Frozen Foods,Frozen Pizza,35
+202408,Beverages,Orange Juice,131
+202411,Personal Care,Lotion,17
+202408,Frozen Foods,Frozen Fries,41
+202403,Beverages,Coffee,66
+202409,Dairy,Yogurt,65
+202404,Frozen Foods,Frozen Fries,200
+202408,Produce,Spinach,10
+202412,Dairy,Yogurt,134
+202409,Bakery,Bagel,46
+202412,Snacks,Popcorn,192
+202405,Produce,Apples,108
+202408,Bakery,Bagel,191
+202412,Dairy,Cheese,97
+202408,Beverages,Green Tea,117
+202405,Frozen Foods,Frozen Fries,77
+202410,Snacks,Popcorn,151
+202403,Beverages,Coffee,68
+202405,Personal Care,Deodorant,96
+202405,Personal Care,Deodorant,68
+202409,Dairy,Yogurt,46
+202407,Household,Detergent,14
+202410,Personal Care,Lotion,153
+202412,Personal Care,Toothpaste,171
+202402,Snacks,Granola Bar,86
+202412,Bakery,Bread,122
+202410,Beverages,Orange Juice,143
+202408,Bakery,Croissant,145
+202408,Frozen Foods,Frozen Berries,159
+202407,Personal Care,Shampoo,182
+202412,Personal Care,Deodorant,86
+202409,Bakery,Croissant,156
+202406,Beverages,Mineral Water,23
+202408,Produce,Spinach,124
+202408,Snacks,Popcorn,133
+202410,Household,Tissue,83
+202402,Dairy,Milk,47
+202405,Dairy,Cheese,80
+202407,Bakery,Croissant,51
+202407,Bakery,Bagel,101
+202407,Household,Toilet Paper,199
+202406,Bakery,Croissant,153
+202410,Frozen Foods,Frozen Berries,97
+202404,Snacks,Cookies,25
+202403,Frozen Foods,Frozen Berries,88
+202412,Bakery,Muffin,138
+202408,Beverages,Soda,63
+202402,Produce,Spinach,134
+202408,Bakery,Bagel,73
+202403,Personal Care,Deodorant,186
+202408,Household,Toilet Paper,189
+202406,Snacks,Popcorn,63
+202408,Produce,Tomatoes,175
+202410,Household,Tissue,152
+202403,Household,Tissue,60
+202404,Dairy,Cheese,163
+202407,Household,Dish Soap,77
+202403,Personal Care,Lotion,159
+202407,Snacks,Chips,128
+202410,Bakery,Bagel,70
+202408,Snacks,Chips,121
+202408,Snacks,Chips,45
+202410,Dairy,Cheese,101
+202404,Frozen Foods,Frozen Fries,151
+202405,Bakery,Croissant,36
+202403,Frozen Foods,Ice Cream,173
+202412,Bakery,Croissant,87
+202410,Frozen Foods,Frozen Pizza,170
+202409,Personal Care,Toothpaste,42
+202406,Bakery,Bagel,185
+202412,Produce,Spinach,151
+202411,Dairy,Cheese,178
+202410,Household,Trash Bags,93
+202402,Personal Care,Lotion,192
+202406,Produce,Carrots,143
+202409,Produce,Spinach,183
+202412,Frozen Foods,Ice Cream,75
+202404,Produce,Spinach,112
+202409,Frozen Foods,Frozen Berries,123
+202401,Bakery,Cake,152
+202402,Bakery,Bagel,151
+202410,Dairy,Milk,191
+202408,Bakery,Muffin,25
+202405,Dairy,Cheese,84
+202411,Produce,Carrots,167
+202404,Personal Care,Lotion,107
+202406,Household,Dish Soap,118
+202401,Household,Toilet Paper,156
+202406,Beverages,Soda,122
+202401,Snacks,Chocolate,42
+202403,Bakery,Bagel,21
+202402,Beverages,Soda,145
+202403,Household,Tissue,56
+202404,Frozen Foods,Frozen Pizza,58
+202403,Produce,Bananas,179
+202405,Produce,Carrots,44
+202402,Frozen Foods,Ice Cream,188
+202402,Beverages,Coffee,179
+202401,Personal Care,Soap,107
+202411,Dairy,Cream,79
+202404,Frozen Foods,Ice Cream,30
+202409,Beverages,Mineral Water,53
+202411,Household,Trash Bags,130
+202405,Snacks,Granola Bar,172
+202406,Personal Care,Shampoo,42
+202402,Personal Care,Shampoo,193
+202410,Produce,Spinach,106
+202412,Bakery,Muffin,52
+202412,Frozen Foods,Frozen Berries,120
+202411,Snacks,Popcorn,62
+202406,Frozen Foods,Frozen Fries,174
+202407,Beverages,Coffee,84
+202411,Snacks,Popcorn,56
+202403,Dairy,Butter,71
+202407,Bakery,Croissant,128
+202409,Produce,Carrots,182
+202409,Frozen Foods,Frozen Vegetables,154
+202404,Produce,Tomatoes,50
+202410,Dairy,Butter,28
+202404,Dairy,Yogurt,94
+202404,Frozen Foods,Frozen Berries,56
+202403,Personal Care,Toothpaste,101
+202408,Personal Care,Deodorant,104
+202411,Snacks,Cookies,152
+202410,Frozen Foods,Frozen Vegetables,43
+202410,Snacks,Popcorn,95
+202402,Beverages,Orange Juice,193
+202410,Dairy,Butter,46
+202411,Beverages,Orange Juice,56
+202405,Beverages,Mineral Water,103
+202412,Snacks,Cookies,81
+202408,Bakery,Bread,27
+202408,Dairy,Milk,191
+202404,Household,Toilet Paper,66
+202407,Snacks,Granola Bar,161
+202404,Produce,Spinach,158
+202406,Frozen Foods,Ice Cream,157
+202404,Personal Care,Soap,105
+202409,Dairy,Butter,188
+202412,Frozen Foods,Frozen Berries,89
+202403,Produce,Tomatoes,30
+202410,Snacks,Chocolate,82
+202405,Snacks,Cookies,161
+202412,Beverages,Soda,71
+202405,Bakery,Croissant,44
+202402,Produce,Apples,157
+202411,Dairy,Butter,104
+202401,Beverages,Coffee,107
+202409,Snacks,Chocolate,79
+202407,Personal Care,Soap,14
+202401,Household,Trash Bags,69
+202411,Snacks,Chips,149
+202401,Personal Care,Toothpaste,188
+202401,Dairy,Butter,50
+202402,Frozen Foods,Frozen Fries,193
+202409,Produce,Bananas,95
+202411,Beverages,Green Tea,134
+202407,Frozen Foods,Frozen Fries,67
+202408,Dairy,Cheese,71
+202410,Personal Care,Toothpaste,67
+202402,Bakery,Bread,46
+202411,Household,Detergent,152
+202412,Produce,Carrots,98
+202411,Bakery,Muffin,175
+202411,Household,Tissue,111
+202411,Bakery,Muffin,183
+202407,Produce,Spinach,75
+202402,Produce,Bananas,152
+202411,Bakery,Cake,167
+202403,Bakery,Croissant,49
+202411,Produce,Bananas,12
+202412,Snacks,Popcorn,187
+202407,Beverages,Soda,193
+202405,Produce,Carrots,178
+202408,Personal Care,Deodorant,59
+202407,Beverages,Mineral Water,131
+202405,Frozen Foods,Ice Cream,113
+202411,Personal Care,Soap,129
+202403,Household,Trash Bags,72
+202401,Beverages,Coffee,176
+202404,Household,Trash Bags,73
+202402,Household,Dish Soap,75
+202407,Snacks,Granola Bar,153
+202412,Household,Detergent,118
+202405,Household,Toilet Paper,129
+202411,Produce,Apples,178
+202404,Personal Care,Deodorant,72
+202401,Frozen Foods,Frozen Pizza,135
+202402,Bakery,Bread,198
+202407,Frozen Foods,Frozen Fries,52
+202403,Beverages,Mineral Water,107
+202405,Snacks,Cookies,32
+202404,Beverages,Coffee,153
+202411,Frozen Foods,Frozen Berries,13
+202403,Frozen Foods,Frozen Fries,44
+202408,Snacks,Popcorn,148
+202401,Bakery,Muffin,187
+202408,Bakery,Croissant,11
+202402,Household,Detergent,140
+202409,Beverages,Soda,14
+202412,Beverages,Mineral Water,83
+202403,Frozen Foods,Frozen Fries,83
+202407,Bakery,Bagel,113
+202411,Bakery,Muffin,157
+202407,Household,Detergent,130
+202412,Snacks,Cookies,55
+202411,Snacks,Cookies,26
+202408,Household,Toilet Paper,107
+202409,Dairy,Cream,129
+202407,Household,Toilet Paper,73
+202402,Bakery,Croissant,34
+202406,Bakery,Cake,69
+202412,Dairy,Milk,109
+202406,Beverages,Green Tea,45
+202405,Dairy,Milk,61
+202412,Dairy,Cheese,173
+202410,Household,Dish Soap,167
+202410,Frozen Foods,Frozen Pizza,104
+202408,Snacks,Cookies,155
+202404,Dairy,Milk,183
+202409,Personal Care,Soap,190
+202410,Household,Tissue,162
+202412,Bakery,Bread,168
+202407,Personal Care,Shampoo,123
+202412,Bakery,Muffin,71
+202411,Dairy,Milk,131
+202411,Produce,Spinach,83
+202408,Household,Toilet Paper,132
+202407,Household,Dish Soap,150
+202406,Snacks,Cookies,166
+202407,Snacks,Chocolate,137
+202410,Household,Detergent,188
+202403,Snacks,Popcorn,143
+202402,Snacks,Chocolate,73
+202403,Dairy,Cheese,32
+202404,Frozen Foods,Frozen Fries,70
+202404,Personal Care,Lotion,18
+202406,Bakery,Bagel,133
+202405,Household,Trash Bags,69
+202406,Snacks,Chips,55
+202403,Produce,Bananas,84
+202411,Frozen Foods,Frozen Pizza,90
+202403,Beverages,Soda,200
+202412,Beverages,Coffee,36
+202411,Household,Tissue,189
+202403,Produce,Tomatoes,34
+202407,Produce,Spinach,50
+202403,Frozen Foods,Frozen Fries,115
+202410,Snacks,Chips,100
+202412,Dairy,Cream,52
+202401,Beverages,Coffee,156
+202409,Beverages,Green Tea,36
+202409,Household,Toilet Paper,182
+202402,Dairy,Yogurt,25
+202406,Dairy,Milk,16
+202404,Bakery,Bread,40
+202405,Snacks,Chocolate,168
+202406,Snacks,Popcorn,102
+202410,Dairy,Yogurt,49
+202406,Frozen Foods,Ice Cream,55
+202402,Household,Toilet Paper,127
+202404,Snacks,Chips,97
+202404,Produce,Apples,105
+202412,Beverages,Green Tea,145
+202409,Snacks,Chips,133
+202412,Beverages,Orange Juice,154
+202407,Produce,Carrots,182
+202401,Beverages,Soda,134
+202404,Bakery,Bagel,182
+202401,Household,Toilet Paper,167
+202403,Frozen Foods,Ice Cream,88
+202412,Snacks,Chips,14
+202406,Personal Care,Soap,100
+202404,Beverages,Soda,120
+202412,Frozen Foods,Frozen Berries,40
+202404,Frozen Foods,Frozen Vegetables,29
+202405,Frozen Foods,Frozen Vegetables,116
+202404,Bakery,Cake,134
+202403,Beverages,Green Tea,147
+202409,Dairy,Yogurt,193
+202402,Household,Detergent,112
+202411,Personal Care,Lotion,81
+202412,Produce,Carrots,19
+202407,Snacks,Popcorn,72
+202401,Beverages,Mineral Water,15
+202403,Dairy,Cheese,87
+202409,Personal Care,Toothpaste,196
+202411,Household,Dish Soap,44
+202404,Beverages,Mineral Water,163
+202405,Personal Care,Toothpaste,141
+202406,Dairy,Cheese,42
+202405,Frozen Foods,Frozen Fries,85
+202410,Frozen Foods,Frozen Berries,173
+202410,Household,Tissue,20
+202408,Household,Toilet Paper,113
+202407,Snacks,Chocolate,45
+202405,Frozen Foods,Frozen Pizza,116
+202406,Dairy,Yogurt,11
+202404,Beverages,Green Tea,171
+202408,Beverages,Green Tea,155
+202404,Household,Tissue,139
+202405,Snacks,Chips,159
+202410,Beverages,Orange Juice,87
+202402,Dairy,Milk,184
+202405,Household,Dish Soap,29
+202412,Personal Care,Soap,107
+202401,Bakery,Cake,180
+202405,Dairy,Cream,123
+202408,Household,Dish Soap,108
+202406,Snacks,Chocolate,105
+202407,Snacks,Popcorn,22
+202412,Household,Detergent,86
+202411,Beverages,Orange Juice,127
+202405,Dairy,Milk,95
+202408,Personal Care,Lotion,110
+202403,Household,Dish Soap,101
+202407,Produce,Bananas,62
+202403,Frozen Foods,Frozen Berries,155
+202402,Frozen Foods,Frozen Fries,114
+202406,Snacks,Cookies,72
+202406,Household,Dish Soap,157
+202409,Bakery,Muffin,185
+202403,Snacks,Chips,67
+202409,Produce,Apples,165
+202410,Personal Care,Shampoo,15
+202401,Bakery,Bread,24
+202409,Household,Dish Soap,98
+202407,Frozen Foods,Frozen Fries,137
+202403,Dairy,Cream,130
+202406,Personal Care,Lotion,96
+202405,Bakery,Croissant,52
+202408,Produce,Carrots,111
+202401,Bakery,Bagel,112
+202404,Produce,Bananas,69
+202405,Beverages,Mineral Water,192
+202408,Produce,Spinach,60
+202403,Beverages,Soda,84
+202403,Bakery,Muffin,146
+202412,Bakery,Bread,18
+202407,Personal Care,Lotion,154
+202410,Dairy,Cream,86
+202401,Dairy,Yogurt,29
+202406,Dairy,Cheese,159
+202405,Produce,Bananas,141
+202408,Beverages,Mineral Water,131
+202411,Bakery,Bagel,130
+202412,Personal Care,Soap,138
+202404,Bakery,Bread,190
+202412,Household,Tissue,169
+202401,Dairy,Yogurt,39
+202411,Household,Trash Bags,162
+202411,Produce,Tomatoes,104
+202412,Frozen Foods,Frozen Fries,155
+202402,Frozen Foods,Frozen Pizza,101
+202412,Snacks,Popcorn,69
+202410,Bakery,Bread,55
+202403,Produce,Spinach,142
+202409,Snacks,Cookies,20
+202409,Produce,Carrots,174
+202410,Beverages,Soda,85
+202404,Produce,Tomatoes,189
+202408,Produce,Carrots,16
+202406,Beverages,Green Tea,188
+202406,Dairy,Yogurt,27
+202405,Frozen Foods,Ice Cream,26
+202404,Dairy,Cheese,45
+202408,Bakery,Cake,126
+202407,Dairy,Butter,58
+202409,Produce,Apples,198
+202408,Frozen Foods,Ice Cream,34
+202412,Beverages,Coffee,133
+202409,Personal Care,Deodorant,39
+202408,Dairy,Cream,13
+202404,Household,Toilet Paper,197
+202410,Frozen Foods,Frozen Fries,95
+202409,Household,Toilet Paper,138
+202408,Beverages,Soda,70
+202402,Bakery,Bagel,197
+202411,Personal Care,Deodorant,174
+202404,Dairy,Cream,50
+202408,Bakery,Cake,34
+202402,Household,Tissue,75
+202411,Bakery,Muffin,51
+202403,Frozen Foods,Frozen Vegetables,160
+202407,Household,Tissue,115
+202412,Produce,Carrots,128
+202403,Bakery,Bagel,132
+202407,Snacks,Chocolate,146
+202409,Personal Care,Deodorant,145
+202401,Snacks,Cookies,184
+202404,Beverages,Soda,150
+202406,Personal Care,Soap,54
+202403,Beverages,Mineral Water,18
+202408,Dairy,Milk,89
+202412,Household,Dish Soap,19
+202406,Personal Care,Deodorant,75
+202402,Produce,Tomatoes,105
+202405,Produce,Tomatoes,101
+202410,Snacks,Chocolate,165
+202409,Frozen Foods,Frozen Fries,143
+202409,Frozen Foods,Frozen Vegetables,145
+202403,Produce,Tomatoes,79
+202410,Personal Care,Deodorant,26
+202405,Bakery,Muffin,115
+202402,Bakery,Bread,134
+202405,Household,Trash Bags,140
+202409,Beverages,Orange Juice,36
+202410,Personal Care,Deodorant,123
+202412,Bakery,Croissant,144
+202409,Frozen Foods,Ice Cream,117
+202410,Personal Care,Shampoo,112
+202404,Beverages,Coffee,163
+202402,Personal Care,Soap,195
+202411,Snacks,Cookies,140
+202412,Produce,Spinach,76
+202407,Personal Care,Soap,183
+202412,Dairy,Milk,60
+202411,Personal Care,Deodorant,154
+202402,Personal Care,Toothpaste,60
+202405,Frozen Foods,Frozen Vegetables,72
+202402,Dairy,Butter,148
+202409,Bakery,Bagel,14
+202404,Household,Detergent,111
+202406,Personal Care,Toothpaste,104
+202404,Household,Dish Soap,162
+202409,Bakery,Croissant,160
+202412,Beverages,Orange Juice,48
+202402,Household,Dish Soap,131
+202405,Personal Care,Lotion,112
+202401,Bakery,Muffin,127
+202403,Dairy,Milk,82
+202409,Produce,Apples,131
+202409,Personal Care,Toothpaste,16
+202410,Bakery,Bagel,185
+202412,Bakery,Bread,128
+202402,Produce,Tomatoes,59
+202410,Bakery,Croissant,118
+202401,Bakery,Muffin,97
+202406,Household,Tissue,101
+202404,Beverages,Mineral Water,49
+202403,Produce,Spinach,26
+202412,Beverages,Coffee,137
+202406,Beverages,Mineral Water,144
+202409,Bakery,Bread,108
+202406,Frozen Foods,Frozen Berries,163
+202405,Bakery,Croissant,114
+202403,Snacks,Granola Bar,62
+202411,Produce,Spinach,106
+202409,Frozen Foods,Frozen Berries,36
+202412,Household,Trash Bags,157
+202412,Frozen Foods,Frozen Berries,22
+202410,Snacks,Granola Bar,69
+202412,Dairy,Yogurt,44
+202401,Dairy,Cheese,178
+202404,Snacks,Chocolate,41
+202406,Household,Detergent,130
+202402,Beverages,Soda,200
+202410,Frozen Foods,Frozen Berries,67
+202407,Produce,Carrots,40
+202408,Snacks,Popcorn,129
+202401,Produce,Spinach,17
+202405,Personal Care,Soap,72
+202408,Frozen Foods,Frozen Pizza,49
+202402,Produce,Apples,42
+202412,Household,Dish Soap,110
+202410,Beverages,Orange Juice,51
+202410,Produce,Spinach,197
+202407,Bakery,Cake,184
+202412,Personal Care,Shampoo,120
+202406,Frozen Foods,Frozen Vegetables,160
+202407,Snacks,Chips,11
+202411,Snacks,Popcorn,193
+202405,Personal Care,Soap,172
+202408,Bakery,Bread,68
+202402,Beverages,Soda,183
+202402,Bakery,Bread,63
+202402,Personal Care,Deodorant,154
+202406,Frozen Foods,Frozen Berries,130
+202408,Dairy,Yogurt,94
+202410,Personal Care,Toothpaste,116
+202406,Household,Tissue,185
+202404,Beverages,Orange Juice,15
+202401,Beverages,Coffee,173
+202410,Produce,Bananas,101
+202404,Dairy,Cheese,29
+202412,Beverages,Coffee,98
+202401,Bakery,Cake,131
+202408,Snacks,Chocolate,13
+202409,Snacks,Popcorn,120
+202407,Dairy,Milk,34
+202405,Bakery,Bread,161
+202405,Frozen Foods,Ice Cream,17
+202408,Household,Tissue,37
+202408,Household,Detergent,63
+202410,Snacks,Granola Bar,29
+202403,Frozen Foods,Frozen Berries,13
+202406,Personal Care,Deodorant,44
+202411,Household,Detergent,37
+202404,Beverages,Soda,73
+202410,Frozen Foods,Frozen Pizza,111
+202406,Beverages,Soda,17
+202405,Frozen Foods,Ice Cream,51
+202406,Bakery,Bread,85
+202408,Bakery,Croissant,75
+202411,Beverages,Soda,68
+202405,Household,Toilet Paper,200
+202401,Beverages,Orange Juice,181
+202407,Frozen Foods,Frozen Berries,71
+202405,Dairy,Cream,71
+202408,Frozen Foods,Frozen Vegetables,20
+202408,Household,Toilet Paper,54
+202411,Frozen Foods,Ice Cream,126
+202403,Produce,Apples,187
+202404,Personal Care,Toothpaste,154
+202401,Bakery,Bread,122
+202404,Household,Tissue,101
+202402,Frozen Foods,Ice Cream,114
+202410,Personal Care,Deodorant,153
+202408,Personal Care,Lotion,130
+202402,Personal Care,Toothpaste,41
+202405,Dairy,Yogurt,126
+202412,Beverages,Green Tea,134
+202410,Dairy,Yogurt,18
+202409,Dairy,Yogurt,40
+202401,Household,Toilet Paper,53
+202404,Produce,Tomatoes,64
+202411,Dairy,Butter,43
+202407,Personal Care,Soap,86
+202406,Beverages,Green Tea,11
+202412,Household,Detergent,95
+202402,Frozen Foods,Ice Cream,119
+202403,Beverages,Soda,68
+202405,Beverages,Coffee,190
+202407,Dairy,Butter,103
+202403,Bakery,Bagel,197
+202405,Bakery,Bagel,11
+202411,Snacks,Chocolate,35
+202404,Dairy,Butter,111
+202404,Snacks,Cookies,108
+202405,Bakery,Bread,42
+202411,Frozen Foods,Frozen Vegetables,111
+202406,Personal Care,Deodorant,37
+202410,Dairy,Butter,35
+202403,Dairy,Cream,87
+202408,Produce,Apples,93
+202402,Dairy,Milk,136
+202412,Dairy,Milk,52
+202410,Household,Dish Soap,106
+202405,Beverages,Soda,106
+202405,Bakery,Cake,70
+202402,Frozen Foods,Frozen Vegetables,144
+202411,Bakery,Bread,82
+202407,Beverages,Coffee,188
+202408,Snacks,Popcorn,194
+202404,Personal Care,Soap,132
+202403,Produce,Carrots,89
+202411,Produce,Apples,36
+202408,Beverages,Green Tea,159
+202401,Snacks,Chocolate,20
+202402,Household,Trash Bags,149
+202407,Bakery,Bagel,161
+202408,Snacks,Granola Bar,165
+202407,Dairy,Cream,191
+202407,Personal Care,Shampoo,158
+202402,Frozen Foods,Frozen Pizza,189
+202410,Produce,Tomatoes,19
+202402,Bakery,Croissant,110
+202409,Produce,Bananas,180
+202402,Snacks,Granola Bar,60
+202411,Bakery,Cake,149
+202401,Beverages,Coffee,46
+202404,Bakery,Croissant,70
+202404,Produce,Apples,196
+202412,Household,Trash Bags,111
+202410,Household,Detergent,37
+202401,Beverages,Coffee,175
+202411,Personal Care,Lotion,122
+202403,Dairy,Milk,196
+202408,Personal Care,Lotion,95
+202403,Dairy,Cream,90
+202401,Bakery,Bagel,141
+202412,Snacks,Popcorn,42
+202405,Personal Care,Toothpaste,139
+202404,Household,Toilet Paper,86
+202409,Snacks,Cookies,49
+202409,Produce,Apples,64
+202401,Frozen Foods,Frozen Pizza,122
+202407,Produce,Bananas,175
+202402,Dairy,Butter,95
+202401,Beverages,Coffee,27
+202402,Beverages,Mineral Water,126
+202406,Bakery,Bagel,64
+202402,Beverages,Green Tea,91
+202408,Produce,Bananas,200
+202406,Beverages,Orange Juice,110
+202401,Snacks,Popcorn,149
+202401,Household,Toilet Paper,118
+202404,Produce,Bananas,68
+202407,Beverages,Coffee,37
+202406,Household,Toilet Paper,172
+202408,Household,Toilet Paper,38
+202412,Dairy,Yogurt,171
+202403,Frozen Foods,Frozen Fries,91
+202407,Dairy,Butter,45
+202410,Household,Toilet Paper,140
+202409,Produce,Bananas,64
+202405,Personal Care,Soap,76
+202404,Produce,Bananas,85
+202409,Personal Care,Shampoo,46
+202412,Frozen Foods,Frozen Vegetables,60
+202403,Produce,Spinach,149
+202411,Beverages,Orange Juice,109
+202411,Household,Detergent,195
+202402,Personal Care,Shampoo,142
+202410,Beverages,Coffee,106
+202404,Household,Dish Soap,67
+202409,Dairy,Cream,126
+202405,Beverages,Coffee,183
+202401,Personal Care,Toothpaste,116
+202402,Dairy,Cheese,128
+202411,Frozen Foods,Frozen Pizza,82
+202409,Personal Care,Soap,32
+202403,Frozen Foods,Frozen Pizza,147
+202401,Produce,Tomatoes,28
+202406,Household,Dish Soap,131
+202403,Household,Trash Bags,190
+202403,Bakery,Croissant,57
+202402,Personal Care,Deodorant,174
+202407,Produce,Bananas,162
+202404,Dairy,Milk,67
+202402,Personal Care,Toothpaste,36
+202411,Bakery,Muffin,11
+202407,Frozen Foods,Frozen Vegetables,165
+202410,Snacks,Popcorn,137
+202410,Personal Care,Shampoo,195
+202404,Produce,Tomatoes,155
+202406,Bakery,Bread,94
+202408,Snacks,Cookies,125
+202404,Frozen Foods,Ice Cream,198
+202412,Produce,Bananas,131
+202404,Snacks,Cookies,171
+202404,Produce,Apples,194
+202405,Frozen Foods,Frozen Berries,128
+202401,Frozen Foods,Frozen Fries,31
+202405,Snacks,Granola Bar,65
+202407,Bakery,Croissant,165
+202403,Snacks,Cookies,183
+202412,Produce,Bananas,59
+202403,Snacks,Chocolate,56
+202403,Snacks,Popcorn,66
+202403,Produce,Bananas,178
+202407,Personal Care,Soap,118
+202410,Household,Trash Bags,109
+202401,Household,Trash Bags,161
+202411,Household,Toilet Paper,93
+202412,Household,Detergent,69
+202403,Frozen Foods,Frozen Pizza,165
+202410,Household,Toilet Paper,10
+202403,Snacks,Popcorn,155
+202405,Bakery,Bagel,24
+202411,Beverages,Green Tea,151
+202411,Snacks,Chips,56
+202402,Dairy,Cream,166
+202406,Household,Tissue,84
+202411,Snacks,Chocolate,68
+202407,Produce,Carrots,88
+202409,Personal Care,Lotion,144
+202410,Snacks,Popcorn,177
+202408,Produce,Apples,90
+202402,Dairy,Cream,162
+202410,Dairy,Yogurt,193
+202402,Personal Care,Toothpaste,162
+202405,Beverages,Coffee,124
+202408,Household,Toilet Paper,125
+202412,Beverages,Coffee,137
+202406,Frozen Foods,Frozen Fries,156
+202404,Beverages,Soda,151
+202405,Dairy,Milk,126
+202406,Beverages,Green Tea,147
+202404,Snacks,Chocolate,152
+202412,Snacks,Granola Bar,168
+202406,Household,Tissue,32
+202411,Beverages,Soda,148
+202402,Produce,Bananas,56
+202402,Household,Toilet Paper,82
+202412,Frozen Foods,Frozen Fries,61
+202402,Snacks,Granola Bar,186
+202408,Snacks,Cookies,106
+202409,Snacks,Chips,100
+202411,Produce,Carrots,188
+202402,Household,Dish Soap,73
+202412,Snacks,Granola Bar,31
+202411,Personal Care,Deodorant,131
+202410,Frozen Foods,Frozen Fries,174
+202405,Produce,Bananas,89
+202405,Personal Care,Shampoo,156
+202410,Dairy,Yogurt,42
+202403,Personal Care,Deodorant,11
+202412,Beverages,Green Tea,98
+202410,Bakery,Muffin,133
+202405,Produce,Carrots,158
+202411,Personal Care,Lotion,94
+202406,Produce,Carrots,196
+202407,Produce,Bananas,95
+202405,Produce,Spinach,81
+202401,Beverages,Coffee,12
+202409,Beverages,Green Tea,73
+202409,Personal Care,Deodorant,198
+202403,Frozen Foods,Frozen Pizza,29
+202402,Household,Detergent,132
+202407,Household,Dish Soap,158
+202410,Beverages,Coffee,122
+202409,Produce,Bananas,31
+202411,Household,Tissue,154
+202407,Beverages,Mineral Water,45
+202412,Snacks,Chocolate,23
+202404,Snacks,Cookies,66
+202402,Beverages,Soda,36
+202409,Personal Care,Shampoo,65
+202408,Bakery,Croissant,172
+202404,Produce,Bananas,181
+202404,Snacks,Granola Bar,77
+202404,Produce,Apples,20
+202409,Dairy,Yogurt,157
+202406,Produce,Tomatoes,113
+202410,Household,Trash Bags,78
+202408,Beverages,Mineral Water,144
+202412,Beverages,Soda,124
+202406,Bakery,Muffin,51
+202406,Produce,Spinach,23
+202407,Personal Care,Deodorant,52
+202406,Produce,Tomatoes,91
+202409,Snacks,Chocolate,190
+202411,Frozen Foods,Frozen Fries,28
+202412,Household,Tissue,130
+202406,Bakery,Croissant,35
+202405,Frozen Foods,Frozen Vegetables,57
+202405,Household,Dish Soap,142
+202401,Dairy,Butter,82

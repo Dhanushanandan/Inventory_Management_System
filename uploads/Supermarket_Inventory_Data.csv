@@ -1,0 +1,3001 @@
+Month,ProductLine,ProductName,QuantitySold,InvoiceNo
+2023-05,Snacks,Potato Chips,44,INV16807
+2024-02,Snacks,Potato Chips,58,INV17975
+2024-05,Household,Dish Soap,13,INV31257
+2024-02,Bakery,Croissant,166,INV44920
+2023-01,Personal Care,Toothpaste,164,INV14509
+2024-01,Dairy,Butter,9,INV81057
+2024-06,Produce,Bananas,126,INV92197
+2023-10,Frozen Foods,Frozen Veggies,14,INV87625
+2023-04,Frozen Foods,Frozen Chicken,131,INV29819
+2023-04,Household,Laundry Detergent,172,INV91865
+2023-07,Dairy,Cheddar Cheese,70,INV97569
+2024-02,Frozen Foods,Frozen Veggies,5,INV28602
+2024-02,Household,Laundry Detergent,52,INV22621
+2023-03,Frozen Foods,Frozen Chicken,68,INV47595
+2023-01,Bakery,Croissant,19,INV90805
+2024-05,Bakery,White Bread,110,INV57944
+2023-09,Produce,Apples,135,INV54917
+2023-06,Produce,Spinach,16,INV55080
+2023-01,Dairy,Yogurt,35,INV51683
+2023-11,Snacks,Popcorn,151,INV72122
+2023-05,Dairy,Butter,199,INV21180
+2023-06,Beverages,Green Tea,179,INV84284
+2023-05,Personal Care,Deodorant,56,INV45207
+2023-04,Personal Care,Deodorant,119,INV20743
+2024-01,Produce,Bananas,181,INV65863
+2023-11,Snacks,Granola Bar,89,INV19843
+2024-02,Bakery,Bagel,19,INV32863
+2024-06,Frozen Foods,Frozen Chicken,68,INV56563
+2023-10,Produce,Spinach,81,INV29109
+2023-03,Household,Toilet Paper,168,INV11500
+2023-09,Produce,Spinach,80,INV86976
+2024-02,Snacks,Popcorn,29,INV61580
+2023-06,Dairy,Milk,1,INV19788
+2023-04,Dairy,Yogurt,142,INV36056
+2023-12,Produce,Bananas,15,INV79978
+2024-02,Dairy,Butter,138,INV64992
+2023-03,Frozen Foods,Frozen Chicken,31,INV81803
+2023-06,Produce,Bananas,96,INV70073
+2023-03,Snacks,Potato Chips,178,INV36580
+2024-06,Snacks,Popcorn,27,INV23152
+2024-06,Household,Dish Soap,111,INV93799
+2023-07,Bakery,Bagel,99,INV18929
+2023-10,Produce,Spinach,117,INV37167
+2023-05,Personal Care,Body Lotion,107,INV43119
+2024-04,Dairy,Butter,20,INV26905
+2024-05,Dairy,Butter,81,INV31602
+2024-03,Frozen Foods,Frozen Chicken,10,INV49155
+2024-01,Produce,Carrots,87,INV18620
+2023-03,Dairy,Cheddar Cheese,120,INV27156
+2023-03,Snacks,Granola Bar,109,INV80376
+2023-09,Household,Dish Soap,125,INV27069
+2023-06,Produce,Carrots,2,INV42200
+2024-03,Household,Dish Soap,95,INV92905
+2023-06,Personal Care,Body Lotion,93,INV46620
+2023-06,Snacks,Potato Chips,188,INV59578
+2023-06,Produce,Carrots,89,INV21323
+2023-04,Snacks,Popcorn,11,INV54303
+2024-05,Produce,Bananas,6,INV98116
+2023-10,Frozen Foods,Frozen Chicken,94,INV58954
+2024-02,Frozen Foods,Frozen Pizza,25,INV91090
+2023-06,Beverages,Orange Juice,130,INV76957
+2024-01,Bakery,Bagel,54,INV34057
+2023-11,Household,Toilet Paper,173,INV79637
+2024-01,Bakery,White Bread,165,INV47041
+2024-01,Dairy,Cheddar Cheese,100,INV91740
+2023-07,Beverages,Green Tea,39,INV52647
+2023-01,Produce,Bananas,35,INV50853
+2024-03,Frozen Foods,Frozen Veggies,45,INV52374
+2023-01,Frozen Foods,Frozen Veggies,157,INV26261
+2023-01,Beverages,Orange Juice,83,INV14696
+2023-09,Bakery,Banana Bread,97,INV33674
+2023-01,Produce,Spinach,16,INV87821
+2024-05,Bakery,White Bread,178,INV22507
+2023-08,Bakery,Bagel,47,INV29480
+2024-02,Produce,Spinach,30,INV78609
+2024-05,Beverages,Cola,60,INV29838
+2023-02,Personal Care,Toothpaste,80,INV30023
+2023-07,Produce,Bananas,123,INV85149
+2023-01,Personal Care,Shampoo,57,INV68279
+2024-05,Produce,Apples,54,INV85075
+2023-06,Snacks,Potato Chips,47,INV70710
+2024-04,Beverages,Green Tea,6,INV43480
+2023-11,Household,Trash Bags,52,INV89985
+2023-09,Snacks,Granola Bar,126,INV25852
+2023-09,Household,Dish Soap,107,INV77746
+2023-09,Frozen Foods,Frozen Pizza,69,INV37905
+2024-02,Frozen Foods,Frozen Pizza,129,INV47468
+2023-06,Produce,Carrots,196,INV44871
+2023-11,Household,Trash Bags,137,INV65990
+2023-10,Bakery,Croissant,183,INV48379
+2023-03,Snacks,Popcorn,110,INV55651
+2023-10,Bakery,White Bread,47,INV26137
+2024-02,Dairy,Cheddar Cheese,191,INV91552
+2023-02,Frozen Foods,Frozen Pizza,6,INV34464
+2024-02,Household,Toilet Paper,121,INV62681
+2023-06,Frozen Foods,Frozen Chicken,146,INV35906
+2023-03,Personal Care,Toothpaste,17,INV76594
+2023-07,Snacks,Granola Bar,28,INV36965
+2024-04,Beverages,Mineral Water,174,INV67367
+2023-07,Dairy,Cheddar Cheese,21,INV70887
+2023-12,Bakery,White Bread,55,INV80435
+2024-02,Snacks,Popcorn,19,INV13846
+2024-01,Personal Care,Deodorant,124,INV10200
+2023-04,Household,Toilet Paper,47,INV80539
+2023-11,Household,Dish Soap,108,INV93055
+2023-04,Snacks,Trail Mix,93,INV49454
+2024-04,Frozen Foods,Ice Cream,148,INV38002
+2023-08,Bakery,Bagel,22,INV16106
+2023-10,Snacks,Potato Chips,10,INV18252
+2023-07,Produce,Carrots,93,INV25445
+2024-01,Snacks,Trail Mix,199,INV22930
+2024-05,Frozen Foods,Frozen Chicken,120,INV55634
+2023-04,Beverages,Mineral Water,178,INV45203
+2023-01,Beverages,Cola,182,INV94424
+2023-01,Personal Care,Body Lotion,124,INV24023
+2024-04,Snacks,Potato Chips,39,INV22280
+2023-05,Dairy,Yogurt,189,INV22911
+2024-06,Snacks,Popcorn,2,INV85537
+2023-06,Frozen Foods,Frozen Veggies,149,INV83729
+2023-07,Household,Dish Soap,187,INV24815
+2023-12,Frozen Foods,Frozen Veggies,86,INV93235
+2024-03,Snacks,Trail Mix,64,INV32803
+2024-01,Bakery,White Bread,28,INV15333
+2023-08,Dairy,Butter,158,INV66430
+2023-05,Personal Care,Deodorant,45,INV15348
+2023-08,Snacks,Popcorn,75,INV66825
+2023-05,Beverages,Cola,154,INV91084
+2023-11,Bakery,Banana Bread,71,INV31429
+2023-08,Frozen Foods,Ice Cream,82,INV12719
+2024-03,Personal Care,Body Lotion,25,INV75153
+2023-11,Household,Trash Bags,136,INV37386
+2023-12,Beverages,Mineral Water,50,INV91417
+2024-01,Dairy,Milk,89,INV42469
+2023-02,Bakery,White Bread,40,INV84130
+2023-09,Produce,Apples,183,INV67021
+2023-02,Bakery,Bagel,7,INV73607
+2023-03,Bakery,Croissant,8,INV86541
+2023-06,Frozen Foods,Ice Cream,163,INV57022
+2023-01,Bakery,Banana Bread,194,INV51440
+2024-04,Dairy,Yogurt,49,INV86835
+2024-06,Personal Care,Body Lotion,110,INV42290
+2024-05,Personal Care,Shampoo,63,INV21278
+2023-07,Beverages,Cola,55,INV55344
+2023-02,Snacks,Granola Bar,188,INV24173
+2023-02,Produce,Spinach,85,INV19843
+2024-02,Personal Care,Shampoo,3,INV13101
+2024-05,Frozen Foods,Frozen Pizza,36,INV71747
+2024-02,Beverages,Green Tea,78,INV18493
+2024-06,Personal Care,Toothpaste,176,INV84236
+2023-07,Personal Care,Deodorant,190,INV12188
+2023-05,Personal Care,Toothpaste,69,INV58868
+2024-04,Household,Toilet Paper,89,INV54865
+2023-08,Personal Care,Toothpaste,135,INV69409
+2024-05,Household,Laundry Detergent,177,INV13836
+2023-12,Bakery,White Bread,29,INV64093
+2023-01,Personal Care,Shampoo,46,INV65379
+2023-05,Personal Care,Deodorant,191,INV25490
+2023-11,Frozen Foods,Frozen Veggies,58,INV14382
+2024-04,Beverages,Orange Juice,55,INV18390
+2024-06,Frozen Foods,Frozen Pizza,148,INV54092
+2024-05,Produce,Bananas,176,INV49098
+2023-10,Dairy,Milk,89,INV52069
+2023-02,Snacks,Trail Mix,169,INV33077
+2024-04,Beverages,Orange Juice,78,INV43587
+2024-06,Snacks,Granola Bar,124,INV50724
+2023-10,Dairy,Milk,35,INV30338
+2023-09,Personal Care,Deodorant,106,INV87400
+2023-07,Bakery,Bagel,146,INV25020
+2023-02,Snacks,Trail Mix,187,INV35842
+2023-11,Frozen Foods,Frozen Veggies,94,INV66709
+2023-02,Produce,Bananas,154,INV16069
+2023-10,Snacks,Granola Bar,160,INV32050
+2024-06,Snacks,Granola Bar,23,INV82622
+2023-03,Beverages,Cola,29,INV15475
+2023-03,Beverages,Orange Juice,131,INV99658
+2023-12,Snacks,Trail Mix,75,INV94222
+2023-09,Bakery,Croissant,132,INV60205
+2023-01,Household,Toilet Paper,166,INV78785
+2023-07,Dairy,Yogurt,38,INV41647
+2023-04,Produce,Bananas,83,INV97846
+2023-02,Produce,Carrots,59,INV72165
+2024-01,Beverages,Orange Juice,40,INV97359
+2023-08,Household,Laundry Detergent,192,INV87617
+2023-08,Household,Dish Soap,48,INV83541
+2023-03,Beverages,Green Tea,166,INV11196
+2024-03,Frozen Foods,Frozen Pizza,44,INV36178
+2023-11,Dairy,Butter,20,INV68365
+2023-08,Produce,Spinach,134,INV51797
+2023-10,Household,Laundry Detergent,70,INV36730
+2023-03,Snacks,Popcorn,197,INV59382
+2024-04,Produce,Spinach,25,INV64115
+2024-02,Beverages,Orange Juice,59,INV52083
+2024-03,Personal Care,Shampoo,132,INV26436
+2023-05,Personal Care,Toothpaste,183,INV41166
+2023-12,Snacks,Potato Chips,34,INV66899
+2024-04,Produce,Bananas,171,INV59129
+2023-10,Bakery,Croissant,41,INV65900
+2024-02,Produce,Spinach,71,INV71108
+2023-01,Dairy,Cheddar Cheese,150,INV30389
+2023-07,Frozen Foods,Frozen Veggies,71,INV78335
+2023-12,Dairy,Milk,176,INV55620
+2023-10,Snacks,Popcorn,158,INV34032
+2023-12,Produce,Apples,112,INV15897
+2024-04,Personal Care,Shampoo,98,INV26140
+2023-11,Beverages,Cola,98,INV40957
+2024-04,Beverages,Green Tea,162,INV45077
+2023-11,Frozen Foods,Frozen Chicken,98,INV33315
+2023-07,Bakery,Croissant,42,INV51471
+2024-04,Beverages,Orange Juice,133,INV13637
+2024-04,Beverages,Mineral Water,165,INV44314
+2023-08,Personal Care,Toothpaste,2,INV92931
+2024-05,Bakery,Croissant,116,INV13327
+2023-10,Bakery,Banana Bread,90,INV13074
+2023-09,Snacks,Potato Chips,70,INV83514
+2023-09,Beverages,Orange Juice,27,INV41795
+2023-11,Personal Care,Shampoo,59,INV68428
+2023-07,Personal Care,Toothpaste,144,INV34811
+2023-11,Frozen Foods,Frozen Chicken,159,INV53596
+2023-07,Snacks,Popcorn,167,INV57973
+2023-02,Household,Dish Soap,30,INV72026
+2023-12,Personal Care,Body Lotion,1,INV55111
+2023-02,Household,Laundry Detergent,196,INV90730
+2024-04,Dairy,Cheddar Cheese,37,INV33784
+2023-10,Produce,Carrots,137,INV87098
+2023-10,Snacks,Trail Mix,14,INV82861
+2024-06,Frozen Foods,Frozen Pizza,130,INV20918
+2023-12,Household,Trash Bags,143,INV98397
+2023-01,Bakery,Croissant,54,INV55277
+2023-03,Household,Laundry Detergent,89,INV87482
+2024-04,Produce,Apples,101,INV48331
+2024-06,Bakery,Croissant,77,INV55336
+2023-12,Produce,Apples,97,INV95729
+2024-03,Frozen Foods,Ice Cream,114,INV85001
+2023-06,Dairy,Butter,135,INV51335
+2023-09,Household,Laundry Detergent,10,INV96668
+2023-11,Personal Care,Shampoo,87,INV17894
+2023-08,Dairy,Milk,36,INV67905
+2023-05,Beverages,Mineral Water,5,INV63127
+2023-06,Dairy,Butter,51,INV55154
+2023-03,Dairy,Cheddar Cheese,42,INV15157
+2024-04,Snacks,Potato Chips,27,INV98601
+2023-03,Frozen Foods,Frozen Veggies,127,INV88741
+2024-01,Household,Dish Soap,131,INV10914
+2024-03,Frozen Foods,Frozen Pizza,33,INV77412
+2023-11,Dairy,Cheddar Cheese,197,INV36915
+2024-04,Frozen Foods,Ice Cream,57,INV35621
+2023-10,Personal Care,Toothpaste,114,INV11143
+2023-11,Dairy,Butter,192,INV36001
+2023-06,Frozen Foods,Ice Cream,197,INV10497
+2023-07,Household,Trash Bags,154,INV58283
+2023-08,Bakery,White Bread,55,INV37383
+2024-06,Frozen Foods,Frozen Veggies,170,INV26170
+2023-12,Bakery,Croissant,8,INV14049
+2024-02,Beverages,Green Tea,35,INV64985
+2023-03,Beverages,Mineral Water,24,INV19963
+2023-02,Beverages,Mineral Water,113,INV41240
+2023-04,Produce,Apples,15,INV49587
+2023-12,Household,Dish Soap,136,INV77694
+2023-05,Household,Laundry Detergent,193,INV16597
+2023-03,Snacks,Granola Bar,46,INV51219
+2024-05,Bakery,White Bread,166,INV56533
+2023-12,Snacks,Potato Chips,26,INV23168
+2024-06,Beverages,Green Tea,27,INV36110
+2024-01,Produce,Bananas,119,INV55227
+2023-01,Dairy,Milk,184,INV36772
+2023-10,Beverages,Orange Juice,130,INV29428
+2023-05,Household,Toilet Paper,114,INV87475
+2024-03,Dairy,Cheddar Cheese,103,INV47159
+2024-02,Personal Care,Shampoo,166,INV24462
+2024-05,Beverages,Green Tea,102,INV84095
+2024-02,Bakery,Banana Bread,92,INV14387
+2024-02,Snacks,Granola Bar,160,INV18176
+2023-12,Bakery,White Bread,50,INV73916
+2024-01,Snacks,Popcorn,13,INV81922
+2024-01,Personal Care,Toothpaste,114,INV42183
+2023-06,Produce,Carrots,153,INV43659
+2023-03,Bakery,Croissant,132,INV96780
+2023-07,Frozen Foods,Ice Cream,45,INV77977
+2024-02,Bakery,White Bread,49,INV16095
+2023-05,Produce,Carrots,152,INV17308
+2024-05,Beverages,Green Tea,38,INV33226
+2023-07,Personal Care,Body Lotion,106,INV44339
+2024-05,Personal Care,Body Lotion,76,INV24233
+2023-04,Personal Care,Body Lotion,70,INV89679
+2024-05,Dairy,Milk,124,INV84818
+2023-11,Snacks,Trail Mix,87,INV49441
+2024-06,Household,Dish Soap,185,INV76498
+2023-10,Personal Care,Deodorant,191,INV87223
+2023-01,Snacks,Granola Bar,92,INV34060
+2024-06,Personal Care,Toothpaste,177,INV82015
+2024-03,Dairy,Cheddar Cheese,130,INV52932
+2023-12,Snacks,Trail Mix,183,INV63295
+2024-01,Frozen Foods,Frozen Chicken,138,INV55026
+2023-11,Bakery,Banana Bread,124,INV93382
+2023-04,Household,Dish Soap,78,INV57508
+2024-03,Dairy,Yogurt,200,INV68264
+2024-04,Household,Dish Soap,52,INV82627
+2023-05,Dairy,Butter,109,INV60561
+2023-04,Snacks,Granola Bar,104,INV33746
+2023-08,Household,Trash Bags,166,INV22435
+2023-08,Household,Trash Bags,131,INV47095
+2023-04,Dairy,Cheddar Cheese,73,INV94444
+2023-10,Frozen Foods,Frozen Veggies,85,INV92755
+2023-09,Household,Toilet Paper,183,INV32474
+2023-10,Personal Care,Shampoo,97,INV41584
+2024-05,Dairy,Yogurt,23,INV72621
+2024-05,Dairy,Yogurt,125,INV57669
+2023-02,Dairy,Yogurt,168,INV12117
+2023-08,Personal Care,Toothpaste,66,INV89097
+2023-03,Dairy,Cheddar Cheese,18,INV27092
+2023-03,Household,Trash Bags,60,INV79556
+2023-03,Produce,Apples,89,INV94433
+2024-05,Beverages,Cola,124,INV64562
+2023-03,Produce,Bananas,178,INV53530
+2024-05,Bakery,Bagel,180,INV73868
+2023-08,Bakery,Croissant,36,INV78361
+2023-11,Produce,Bananas,98,INV77667
+2024-05,Household,Dish Soap,38,INV99664
+2024-06,Bakery,Bagel,80,INV61658
+2023-10,Beverages,Green Tea,100,INV39070
+2023-12,Frozen Foods,Frozen Pizza,55,INV60580
+2023-10,Frozen Foods,Frozen Veggies,59,INV18712
+2023-05,Beverages,Cola,118,INV26327
+2023-09,Frozen Foods,Frozen Veggies,197,INV14396
+2023-05,Snacks,Potato Chips,178,INV14422
+2024-02,Produce,Apples,178,INV96732
+2023-08,Dairy,Butter,168,INV28050
+2023-04,Frozen Foods,Frozen Chicken,45,INV63535
+2024-03,Dairy,Cheddar Cheese,42,INV68360
+2024-01,Household,Laundry Detergent,135,INV51216
+2023-02,Frozen Foods,Frozen Chicken,110,INV51261
+2023-02,Personal Care,Shampoo,127,INV65167
+2023-06,Beverages,Mineral Water,194,INV80609
+2023-07,Beverages,Cola,151,INV29506
+2023-02,Snacks,Popcorn,139,INV94101
+2023-12,Frozen Foods,Ice Cream,142,INV75665
+2024-06,Dairy,Butter,29,INV67137
+2023-11,Dairy,Cheddar Cheese,39,INV19998
+2024-04,Snacks,Potato Chips,108,INV27087
+2023-08,Produce,Carrots,86,INV55328
+2023-05,Beverages,Cola,167,INV77637
+2023-10,Household,Dish Soap,129,INV79430
+2023-10,Snacks,Potato Chips,72,INV59029
+2023-10,Beverages,Mineral Water,136,INV81787
+2023-05,Beverages,Orange Juice,98,INV25729
+2023-02,Bakery,White Bread,131,INV80413
+2024-02,Bakery,Bagel,125,INV11340
+2024-04,Snacks,Popcorn,10,INV24845
+2023-03,Produce,Carrots,154,INV83311
+2024-05,Bakery,Banana Bread,124,INV67948
+2023-11,Snacks,Granola Bar,162,INV13188
+2023-07,Dairy,Butter,79,INV57496
+2023-04,Personal Care,Deodorant,100,INV89399
+2023-04,Snacks,Granola Bar,59,INV73576
+2023-06,Personal Care,Shampoo,162,INV70303
+2024-05,Household,Trash Bags,68,INV34764
+2024-06,Household,Laundry Detergent,115,INV46517
+2023-06,Personal Care,Deodorant,160,INV11077
+2023-12,Beverages,Orange Juice,25,INV16724
+2024-06,Beverages,Orange Juice,121,INV46853
+2023-01,Bakery,White Bread,93,INV54767
+2023-12,Dairy,Butter,52,INV65936
+2023-03,Beverages,Mineral Water,57,INV72307
+2023-08,Bakery,Croissant,181,INV32939
+2023-05,Dairy,Cheddar Cheese,38,INV71186
+2023-02,Dairy,Butter,179,INV87114
+2023-06,Household,Trash Bags,157,INV36244
+2023-08,Bakery,White Bread,184,INV97142
+2023-09,Frozen Foods,Frozen Pizza,30,INV72938
+2023-11,Bakery,Banana Bread,199,INV84839
+2023-01,Beverages,Cola,7,INV93633
+2024-01,Snacks,Popcorn,40,INV69738
+2024-02,Snacks,Granola Bar,152,INV19625
+2024-05,Bakery,Banana Bread,182,INV27214
+2024-04,Snacks,Granola Bar,20,INV85597
+2023-05,Snacks,Popcorn,60,INV91039
+2023-05,Snacks,Granola Bar,91,INV43290
+2023-05,Beverages,Mineral Water,147,INV69160
+2024-06,Snacks,Potato Chips,11,INV41711
+2024-05,Dairy,Yogurt,130,INV33798
+2023-11,Bakery,Croissant,90,INV95815
+2023-05,Household,Dish Soap,94,INV93162
+2023-01,Personal Care,Toothpaste,170,INV71051
+2023-10,Personal Care,Shampoo,182,INV22342
+2024-02,Bakery,Croissant,149,INV39658
+2023-12,Personal Care,Deodorant,44,INV32521
+2023-09,Frozen Foods,Frozen Pizza,102,INV15767
+2023-06,Household,Trash Bags,78,INV67027
+2023-04,Beverages,Mineral Water,74,INV90921
+2023-12,Personal Care,Body Lotion,60,INV33628
+2024-06,Frozen Foods,Frozen Veggies,167,INV23167
+2024-02,Snacks,Trail Mix,44,INV24445
+2023-06,Frozen Foods,Frozen Chicken,142,INV93823
+2024-04,Dairy,Butter,52,INV59410
+2023-08,Dairy,Cheddar Cheese,163,INV83001
+2024-04,Household,Trash Bags,161,INV62367
+2023-06,Bakery,White Bread,86,INV63790
+2023-07,Bakery,Croissant,20,INV54469
+2023-03,Bakery,Croissant,147,INV19620
+2024-02,Produce,Spinach,121,INV81941
+2023-01,Frozen Foods,Frozen Pizza,157,INV63354
+2023-12,Frozen Foods,Frozen Pizza,57,INV79034
+2023-10,Personal Care,Body Lotion,174,INV43711
+2024-04,Personal Care,Toothpaste,2,INV47946
+2023-11,Bakery,Croissant,131,INV17961
+2024-04,Dairy,Cheddar Cheese,66,INV45154
+2024-05,Frozen Foods,Frozen Chicken,93,INV51571
+2024-06,Frozen Foods,Ice Cream,152,INV17247
+2023-11,Dairy,Butter,43,INV94148
+2023-08,Dairy,Butter,130,INV78082
+2024-01,Bakery,Bagel,160,INV69630
+2023-07,Beverages,Mineral Water,120,INV47622
+2024-05,Snacks,Trail Mix,129,INV25873
+2023-04,Produce,Apples,117,INV66223
+2024-01,Dairy,Milk,80,INV38345
+2024-06,Snacks,Popcorn,159,INV33002
+2023-03,Dairy,Butter,157,INV13065
+2023-07,Snacks,Popcorn,121,INV70390
+2023-02,Household,Laundry Detergent,15,INV13653
+2023-02,Bakery,Banana Bread,35,INV70109
+2024-01,Snacks,Popcorn,161,INV80972
+2023-06,Household,Trash Bags,177,INV20835
+2023-06,Frozen Foods,Frozen Veggies,159,INV14218
+2023-01,Snacks,Popcorn,87,INV67176
+2024-01,Bakery,Bagel,145,INV18319
+2023-09,Bakery,Croissant,72,INV66304
+2024-01,Frozen Foods,Frozen Chicken,50,INV33051
+2023-03,Beverages,Orange Juice,95,INV64951
+2023-03,Personal Care,Body Lotion,50,INV21304
+2024-05,Snacks,Granola Bar,130,INV48667
+2023-09,Snacks,Granola Bar,38,INV10425
+2023-01,Bakery,Croissant,190,INV26094
+2024-04,Personal Care,Deodorant,156,INV53143
+2024-06,Personal Care,Toothpaste,180,INV92374
+2024-02,Beverages,Orange Juice,13,INV10803
+2023-02,Personal Care,Shampoo,27,INV59514
+2024-02,Frozen Foods,Frozen Veggies,121,INV83767
+2023-01,Produce,Apples,145,INV35371
+2024-05,Produce,Spinach,74,INV41495
+2023-10,Frozen Foods,Frozen Chicken,76,INV68224
+2024-02,Beverages,Mineral Water,117,INV64304
+2023-10,Snacks,Potato Chips,62,INV18925
+2024-06,Personal Care,Toothpaste,180,INV66458
+2023-11,Frozen Foods,Frozen Pizza,54,INV14396
+2024-01,Frozen Foods,Ice Cream,29,INV44339
+2023-07,Bakery,Croissant,97,INV68797
+2024-01,Snacks,Granola Bar,53,INV94236
+2024-01,Dairy,Butter,126,INV71609
+2023-01,Bakery,Croissant,117,INV94245
+2024-05,Snacks,Potato Chips,175,INV80174
+2024-02,Bakery,Croissant,65,INV91088
+2023-09,Personal Care,Toothpaste,129,INV66293
+2023-12,Personal Care,Deodorant,8,INV93448
+2023-05,Personal Care,Deodorant,24,INV51273
+2023-07,Personal Care,Deodorant,67,INV61839
+2023-09,Beverages,Orange Juice,2,INV70979
+2023-01,Frozen Foods,Ice Cream,60,INV46802
+2024-01,Dairy,Yogurt,147,INV34443
+2023-01,Snacks,Popcorn,83,INV83462
+2023-02,Bakery,Banana Bread,41,INV69778
+2023-01,Frozen Foods,Frozen Pizza,104,INV43466
+2024-02,Snacks,Potato Chips,136,INV39992
+2023-07,Snacks,Trail Mix,64,INV36363
+2023-02,Beverages,Green Tea,186,INV86624
+2023-11,Frozen Foods,Frozen Chicken,124,INV99757
+2023-04,Snacks,Granola Bar,194,INV89904
+2024-01,Household,Dish Soap,146,INV89872
+2023-06,Dairy,Yogurt,21,INV40229
+2024-05,Personal Care,Toothpaste,124,INV40103
+2023-03,Bakery,Bagel,39,INV87343
+2023-08,Frozen Foods,Frozen Chicken,148,INV75654
+2023-02,Bakery,Croissant,40,INV42703
+2024-03,Produce,Bananas,187,INV84405
+2023-12,Frozen Foods,Ice Cream,64,INV90801
+2023-08,Frozen Foods,Frozen Pizza,148,INV27265
+2024-03,Dairy,Cheddar Cheese,109,INV14631
+2023-04,Beverages,Cola,157,INV40559
+2023-04,Bakery,Banana Bread,66,INV46956
+2024-05,Household,Dish Soap,52,INV37930
+2024-03,Dairy,Yogurt,9,INV58082
+2023-06,Dairy,Yogurt,78,INV31533
+2024-03,Personal Care,Deodorant,55,INV72109
+2024-06,Frozen Foods,Frozen Pizza,118,INV28474
+2024-04,Dairy,Yogurt,143,INV32055
+2023-01,Dairy,Butter,10,INV85304
+2023-04,Personal Care,Toothpaste,157,INV98075
+2023-07,Personal Care,Deodorant,168,INV27555
+2023-02,Household,Laundry Detergent,71,INV85642
+2023-11,Personal Care,Body Lotion,118,INV63970
+2023-10,Beverages,Cola,139,INV94237
+2024-03,Frozen Foods,Frozen Pizza,15,INV48507
+2023-07,Dairy,Butter,112,INV47059
+2023-05,Dairy,Cheddar Cheese,20,INV69481
+2023-11,Snacks,Granola Bar,103,INV98031
+2023-09,Personal Care,Shampoo,95,INV46416
+2023-03,Snacks,Granola Bar,74,INV72814
+2023-12,Beverages,Green Tea,186,INV41871
+2024-06,Personal Care,Deodorant,157,INV77967
+2024-01,Bakery,Banana Bread,47,INV33356
+2024-03,Frozen Foods,Ice Cream,40,INV99920
+2023-08,Bakery,White Bread,133,INV97890
+2024-04,Beverages,Green Tea,111,INV87440
+2024-01,Snacks,Granola Bar,166,INV51275
+2023-06,Bakery,White Bread,94,INV85433
+2023-07,Household,Trash Bags,57,INV25677
+2024-01,Snacks,Potato Chips,190,INV31825
+2023-08,Bakery,Bagel,101,INV30239
+2023-11,Frozen Foods,Frozen Pizza,50,INV90361
+2023-11,Personal Care,Toothpaste,35,INV21364
+2023-03,Bakery,Croissant,160,INV68639
+2023-04,Household,Dish Soap,137,INV72551
+2023-03,Frozen Foods,Frozen Chicken,50,INV11229
+2023-08,Dairy,Cheddar Cheese,46,INV82278
+2023-02,Snacks,Popcorn,193,INV68147
+2024-03,Snacks,Popcorn,42,INV58295
+2023-06,Frozen Foods,Frozen Pizza,52,INV65233
+2023-10,Bakery,Bagel,189,INV17734
+2023-03,Produce,Bananas,19,INV28921
+2023-12,Personal Care,Toothpaste,114,INV95004
+2023-08,Dairy,Butter,41,INV27494
+2023-08,Beverages,Orange Juice,189,INV58938
+2023-09,Bakery,Croissant,198,INV24524
+2023-06,Personal Care,Shampoo,183,INV40123
+2024-02,Household,Dish Soap,40,INV94602
+2024-06,Frozen Foods,Frozen Veggies,108,INV49481
+2023-05,Produce,Bananas,131,INV52681
+2024-02,Personal Care,Toothpaste,149,INV49699
+2023-10,Frozen Foods,Frozen Chicken,66,INV31004
+2024-03,Produce,Apples,59,INV57959
+2024-05,Produce,Bananas,195,INV35753
+2023-06,Frozen Foods,Frozen Veggies,161,INV16854
+2024-02,Produce,Apples,126,INV43320
+2023-02,Frozen Foods,Frozen Pizza,184,INV98991
+2023-12,Dairy,Milk,93,INV12644
+2023-11,Produce,Spinach,21,INV97110
+2023-07,Beverages,Cola,41,INV51165
+2024-01,Bakery,Banana Bread,140,INV80679
+2023-04,Produce,Apples,152,INV88768
+2023-01,Personal Care,Toothpaste,124,INV48950
+2023-04,Frozen Foods,Ice Cream,137,INV76886
+2024-01,Household,Dish Soap,106,INV41408
+2023-01,Beverages,Orange Juice,40,INV25085
+2023-04,Dairy,Cheddar Cheese,154,INV75471
+2023-01,Bakery,White Bread,141,INV70148
+2024-04,Produce,Apples,196,INV62259
+2023-11,Snacks,Granola Bar,177,INV83750
+2024-02,Produce,Spinach,116,INV28104
+2024-05,Beverages,Mineral Water,168,INV31727
+2023-05,Personal Care,Body Lotion,27,INV68993
+2023-08,Personal Care,Body Lotion,48,INV72878
+2023-02,Beverages,Mineral Water,199,INV12454
+2023-08,Bakery,Banana Bread,46,INV71926
+2023-09,Produce,Apples,69,INV10867
+2023-04,Frozen Foods,Ice Cream,197,INV18199
+2023-06,Produce,Spinach,125,INV20653
+2023-08,Frozen Foods,Frozen Veggies,96,INV83459
+2023-08,Beverages,Cola,98,INV67420
+2023-10,Snacks,Popcorn,191,INV31315
+2023-05,Produce,Carrots,118,INV13949
+2023-01,Frozen Foods,Ice Cream,20,INV83427
+2024-02,Snacks,Granola Bar,132,INV40531
+2023-06,Personal Care,Deodorant,79,INV46771
+2023-11,Frozen Foods,Frozen Pizza,160,INV14351
+2023-08,Beverages,Orange Juice,88,INV16585
+2023-08,Beverages,Green Tea,195,INV46153
+2023-05,Frozen Foods,Ice Cream,71,INV19119
+2023-05,Frozen Foods,Ice Cream,28,INV70533
+2024-06,Bakery,White Bread,52,INV83598
+2023-10,Snacks,Granola Bar,170,INV58468
+2023-01,Personal Care,Shampoo,192,INV63938
+2023-04,Beverages,Cola,43,INV77958
+2023-03,Produce,Carrots,93,INV13717
+2023-05,Bakery,Banana Bread,66,INV34966
+2023-08,Frozen Foods,Ice Cream,8,INV40532
+2023-03,Household,Toilet Paper,9,INV15592
+2024-04,Bakery,White Bread,43,INV72282
+2023-07,Beverages,Cola,39,INV94637
+2023-10,Beverages,Cola,63,INV57317
+2024-03,Beverages,Orange Juice,84,INV78670
+2023-09,Beverages,Mineral Water,54,INV19635
+2023-06,Beverages,Cola,138,INV18998
+2023-02,Dairy,Milk,193,INV87457
+2024-02,Beverages,Cola,159,INV29511
+2023-09,Personal Care,Body Lotion,47,INV77861
+2023-11,Beverages,Cola,114,INV32753
+2024-01,Personal Care,Deodorant,185,INV58561
+2023-01,Dairy,Cheddar Cheese,101,INV92249
+2023-02,Beverages,Cola,7,INV82167
+2023-06,Frozen Foods,Ice Cream,32,INV82629
+2023-03,Snacks,Potato Chips,33,INV44664
+2023-01,Beverages,Orange Juice,33,INV37052
+2023-10,Frozen Foods,Ice Cream,62,INV68395
+2023-11,Bakery,White Bread,49,INV87587
+2023-01,Bakery,Bagel,186,INV72816
+2023-10,Beverages,Orange Juice,139,INV80343
+2023-05,Household,Laundry Detergent,108,INV35100
+2023-12,Bakery,White Bread,158,INV92331
+2024-05,Snacks,Popcorn,67,INV47084
+2023-01,Beverages,Mineral Water,186,INV34500
+2023-04,Frozen Foods,Frozen Veggies,4,INV60726
+2023-02,Produce,Spinach,81,INV35897
+2023-10,Frozen Foods,Ice Cream,120,INV82030
+2023-05,Personal Care,Body Lotion,165,INV35873
+2024-03,Beverages,Orange Juice,48,INV10493
+2023-02,Personal Care,Deodorant,100,INV25365
+2023-04,Produce,Spinach,59,INV35442
+2024-04,Personal Care,Toothpaste,121,INV87491
+2024-06,Bakery,Banana Bread,197,INV89642
+2023-09,Produce,Apples,140,INV78754
+2023-09,Bakery,Croissant,17,INV91990
+2024-03,Frozen Foods,Frozen Veggies,169,INV52040
+2023-07,Personal Care,Body Lotion,186,INV67917
+2023-03,Frozen Foods,Ice Cream,18,INV63688
+2023-12,Bakery,Croissant,199,INV23959
+2023-07,Household,Laundry Detergent,39,INV59151
+2024-04,Personal Care,Toothpaste,7,INV96973
+2024-04,Snacks,Popcorn,178,INV35178
+2023-06,Bakery,Banana Bread,19,INV99132
+2024-04,Personal Care,Shampoo,147,INV92823
+2024-04,Bakery,Banana Bread,70,INV44046
+2024-01,Frozen Foods,Frozen Veggies,139,INV42669
+2023-02,Household,Toilet Paper,149,INV15193
+2023-11,Snacks,Granola Bar,31,INV38645
+2023-07,Bakery,White Bread,181,INV77164
+2023-04,Bakery,Bagel,37,INV50865
+2023-04,Beverages,Green Tea,51,INV89483
+2023-05,Frozen Foods,Frozen Pizza,69,INV93987
+2023-08,Bakery,Croissant,145,INV13579
+2023-06,Bakery,Bagel,187,INV94661
+2023-07,Bakery,Bagel,78,INV61244
+2024-02,Household,Toilet Paper,128,INV59490
+2023-02,Dairy,Yogurt,80,INV34246
+2024-04,Personal Care,Deodorant,124,INV19585
+2023-01,Dairy,Cheddar Cheese,34,INV13970
+2023-02,Dairy,Butter,37,INV42493
+2023-03,Snacks,Trail Mix,26,INV80181
+2024-01,Dairy,Cheddar Cheese,158,INV44005
+2024-01,Personal Care,Toothpaste,12,INV71957
+2024-03,Household,Toilet Paper,180,INV66570
+2023-01,Snacks,Potato Chips,136,INV36195
+2024-06,Produce,Carrots,37,INV65373
+2023-11,Beverages,Mineral Water,3,INV69826
+2023-09,Beverages,Mineral Water,54,INV35370
+2023-01,Dairy,Milk,152,INV98215
+2023-06,Beverages,Mineral Water,126,INV81826
+2023-06,Personal Care,Toothpaste,134,INV90349
+2024-04,Household,Laundry Detergent,2,INV87759
+2023-02,Beverages,Mineral Water,197,INV87519
+2024-06,Dairy,Butter,148,INV15613
+2024-02,Dairy,Butter,55,INV21810
+2024-06,Bakery,Banana Bread,117,INV54613
+2023-08,Frozen Foods,Frozen Veggies,182,INV59627
+2024-03,Household,Toilet Paper,132,INV32919
+2023-01,Dairy,Butter,51,INV16993
+2023-10,Produce,Spinach,9,INV56188
+2023-11,Produce,Carrots,175,INV17879
+2024-01,Beverages,Orange Juice,65,INV11761
+2024-05,Dairy,Butter,25,INV72968
+2024-06,Bakery,Bagel,31,INV14035
+2023-06,Bakery,White Bread,17,INV37042
+2023-06,Snacks,Granola Bar,138,INV42549
+2023-05,Personal Care,Toothpaste,103,INV17584
+2023-12,Household,Trash Bags,179,INV91412
+2023-09,Produce,Apples,152,INV73601
+2024-05,Bakery,Croissant,147,INV31565
+2023-02,Dairy,Cheddar Cheese,41,INV16738
+2024-03,Dairy,Yogurt,78,INV75428
+2023-06,Personal Care,Deodorant,140,INV42722
+2024-02,Dairy,Butter,67,INV46317
+2023-03,Frozen Foods,Ice Cream,180,INV54974
+2024-02,Snacks,Potato Chips,163,INV10988
+2024-02,Personal Care,Toothpaste,122,INV10490
+2024-03,Snacks,Granola Bar,137,INV35324
+2023-10,Produce,Apples,200,INV17721
+2023-05,Beverages,Mineral Water,116,INV97850
+2024-04,Dairy,Milk,198,INV51593
+2024-02,Bakery,White Bread,48,INV60483
+2024-06,Personal Care,Shampoo,78,INV87878
+2023-03,Dairy,Cheddar Cheese,124,INV66387
+2023-03,Household,Dish Soap,10,INV78561
+2023-04,Dairy,Butter,47,INV29635
+2023-02,Frozen Foods,Ice Cream,70,INV96348
+2023-12,Produce,Carrots,128,INV84788
+2024-01,Bakery,Bagel,80,INV49411
+2023-10,Personal Care,Deodorant,116,INV53867
+2023-09,Produce,Spinach,97,INV71960
+2024-06,Dairy,Milk,130,INV62097
+2023-06,Personal Care,Shampoo,190,INV23118
+2023-12,Produce,Bananas,48,INV41953
+2024-06,Frozen Foods,Frozen Veggies,18,INV63740
+2024-03,Beverages,Mineral Water,190,INV88234
+2024-06,Household,Toilet Paper,57,INV41166
+2023-07,Dairy,Milk,43,INV76242
+2024-03,Snacks,Potato Chips,121,INV21972
+2023-07,Beverages,Cola,113,INV30293
+2024-02,Frozen Foods,Frozen Pizza,42,INV64385
+2023-12,Bakery,Croissant,109,INV91063
+2023-07,Dairy,Yogurt,120,INV91412
+2023-08,Beverages,Mineral Water,135,INV21517
+2023-03,Produce,Bananas,175,INV15942
+2023-11,Produce,Carrots,185,INV22396
+2023-11,Beverages,Cola,189,INV93412
+2023-03,Bakery,Bagel,155,INV61507
+2023-01,Produce,Bananas,180,INV20806
+2023-10,Dairy,Milk,175,INV56191
+2023-03,Frozen Foods,Frozen Pizza,90,INV36603
+2024-06,Household,Dish Soap,63,INV25942
+2023-01,Produce,Spinach,146,INV58868
+2024-05,Produce,Bananas,126,INV17656
+2024-03,Produce,Apples,80,INV41638
+2023-02,Produce,Bananas,96,INV18741
+2023-06,Bakery,Banana Bread,157,INV30255
+2024-06,Household,Trash Bags,181,INV11800
+2024-02,Bakery,Banana Bread,34,INV97220
+2023-12,Beverages,Mineral Water,84,INV42849
+2024-02,Produce,Spinach,81,INV50769
+2023-01,Beverages,Orange Juice,121,INV99290
+2023-02,Bakery,Bagel,150,INV39321
+2023-06,Personal Care,Body Lotion,141,INV45687
+2023-04,Bakery,Croissant,137,INV97659
+2023-10,Produce,Spinach,8,INV87320
+2023-03,Household,Trash Bags,3,INV99104
+2023-09,Personal Care,Deodorant,149,INV76596
+2023-06,Dairy,Cheddar Cheese,172,INV22947
+2024-06,Frozen Foods,Frozen Pizza,139,INV75785
+2024-02,Personal Care,Deodorant,70,INV97660
+2023-11,Bakery,White Bread,98,INV91638
+2023-04,Produce,Carrots,78,INV80161
+2023-06,Snacks,Trail Mix,35,INV13681
+2024-02,Bakery,White Bread,16,INV84481
+2024-05,Produce,Carrots,51,INV73689
+2023-01,Bakery,Banana Bread,174,INV59868
+2024-02,Personal Care,Toothpaste,123,INV17609
+2023-08,Produce,Spinach,173,INV78380
+2023-06,Beverages,Orange Juice,122,INV70654
+2024-04,Dairy,Butter,14,INV43552
+2024-02,Bakery,Bagel,129,INV51133
+2024-04,Bakery,Croissant,140,INV91392
+2024-02,Household,Laundry Detergent,6,INV89477
+2024-02,Dairy,Milk,158,INV77058
+2023-03,Produce,Apples,86,INV78563
+2023-01,Personal Care,Body Lotion,45,INV40631
+2023-08,Household,Laundry Detergent,58,INV85714
+2023-02,Household,Dish Soap,192,INV89596
+2023-04,Beverages,Mineral Water,125,INV57624
+2023-08,Household,Trash Bags,122,INV53294
+2023-12,Dairy,Cheddar Cheese,171,INV39893
+2024-05,Snacks,Granola Bar,178,INV63954
+2023-04,Personal Care,Deodorant,135,INV23152
+2023-09,Bakery,Banana Bread,21,INV16752
+2023-04,Produce,Spinach,178,INV86166
+2024-06,Produce,Spinach,159,INV61726
+2023-07,Personal Care,Toothpaste,17,INV35695
+2024-05,Personal Care,Body Lotion,9,INV37149
+2023-01,Produce,Bananas,135,INV31294
+2024-04,Snacks,Granola Bar,135,INV30924
+2024-02,Dairy,Cheddar Cheese,109,INV32967
+2023-01,Personal Care,Toothpaste,82,INV96820
+2024-06,Snacks,Trail Mix,53,INV73512
+2024-01,Household,Toilet Paper,103,INV88266
+2023-12,Produce,Apples,114,INV71615
+2023-12,Personal Care,Shampoo,35,INV22956
+2024-06,Bakery,Banana Bread,58,INV97343
+2023-11,Household,Toilet Paper,28,INV49101
+2023-10,Snacks,Granola Bar,25,INV17374
+2024-02,Produce,Carrots,130,INV89076
+2024-04,Snacks,Potato Chips,185,INV70384
+2023-03,Dairy,Butter,41,INV31248
+2024-01,Snacks,Granola Bar,103,INV43821
+2023-09,Produce,Spinach,62,INV66614
+2023-01,Household,Laundry Detergent,34,INV66765
+2024-04,Personal Care,Deodorant,196,INV32287
+2023-08,Produce,Apples,151,INV73869
+2023-02,Snacks,Granola Bar,7,INV62320
+2023-09,Snacks,Potato Chips,198,INV65763
+2024-03,Bakery,White Bread,37,INV47967
+2023-01,Household,Toilet Paper,140,INV24398
+2023-03,Snacks,Granola Bar,74,INV37094
+2023-12,Produce,Apples,73,INV74838
+2023-08,Dairy,Cheddar Cheese,89,INV71376
+2024-02,Household,Trash Bags,120,INV70884
+2023-01,Personal Care,Toothpaste,200,INV75809
+2024-02,Frozen Foods,Ice Cream,136,INV28922
+2023-11,Produce,Bananas,90,INV33529
+2023-12,Produce,Carrots,190,INV64789
+2023-01,Bakery,Banana Bread,76,INV29075
+2023-04,Dairy,Butter,49,INV37059
+2023-08,Produce,Apples,180,INV63797
+2023-07,Beverages,Orange Juice,186,INV19921
+2024-01,Personal Care,Shampoo,146,INV67365
+2023-10,Snacks,Granola Bar,27,INV93685
+2024-03,Beverages,Mineral Water,35,INV41607
+2023-08,Personal Care,Deodorant,195,INV51135
+2024-04,Household,Laundry Detergent,56,INV83720
+2023-12,Beverages,Cola,132,INV86054
+2024-06,Household,Trash Bags,140,INV13546
+2023-11,Household,Toilet Paper,102,INV49872
+2023-02,Frozen Foods,Frozen Chicken,121,INV35559
+2024-04,Produce,Carrots,183,INV88746
+2023-05,Beverages,Orange Juice,34,INV19597
+2023-09,Snacks,Trail Mix,127,INV95532
+2024-02,Frozen Foods,Frozen Pizza,121,INV90190
+2023-10,Dairy,Cheddar Cheese,186,INV64475
+2023-07,Produce,Spinach,132,INV76088
+2023-04,Bakery,Croissant,102,INV59420
+2023-09,Dairy,Butter,118,INV32474
+2023-08,Frozen Foods,Frozen Chicken,102,INV63437
+2023-08,Snacks,Potato Chips,180,INV44677
+2023-05,Dairy,Butter,191,INV19290
+2024-06,Snacks,Granola Bar,182,INV19983
+2023-01,Household,Toilet Paper,119,INV33402
+2024-05,Personal Care,Deodorant,11,INV58604
+2023-01,Personal Care,Toothpaste,200,INV19972
+2023-11,Frozen Foods,Frozen Chicken,109,INV50975
+2024-04,Snacks,Trail Mix,166,INV24640
+2024-02,Personal Care,Deodorant,1,INV68732
+2024-04,Personal Care,Toothpaste,147,INV90822
+2023-06,Household,Dish Soap,5,INV82810
+2023-09,Produce,Apples,9,INV98579
+2023-11,Bakery,Bagel,168,INV88503
+2023-10,Household,Trash Bags,195,INV98266
+2023-12,Personal Care,Deodorant,135,INV89788
+2023-02,Produce,Bananas,98,INV33656
+2023-06,Household,Dish Soap,88,INV50837
+2023-01,Snacks,Trail Mix,175,INV76062
+2023-08,Household,Dish Soap,181,INV41781
+2024-03,Produce,Spinach,101,INV94245
+2024-03,Snacks,Popcorn,162,INV10090
+2023-03,Produce,Apples,92,INV64159
+2023-09,Beverages,Cola,38,INV82140
+2023-11,Beverages,Orange Juice,177,INV75379
+2023-08,Frozen Foods,Frozen Veggies,194,INV25471
+2024-02,Snacks,Granola Bar,30,INV14010
+2024-01,Snacks,Granola Bar,156,INV41395
+2023-02,Household,Toilet Paper,180,INV75742
+2024-02,Beverages,Mineral Water,117,INV92377
+2023-03,Frozen Foods,Frozen Pizza,34,INV10999
+2024-02,Household,Laundry Detergent,77,INV54246
+2024-04,Dairy,Milk,76,INV93331
+2023-01,Dairy,Butter,101,INV79355
+2023-07,Produce,Apples,29,INV52107
+2024-04,Snacks,Popcorn,27,INV86095
+2023-05,Personal Care,Shampoo,53,INV53273
+2024-01,Dairy,Cheddar Cheese,132,INV56557
+2023-04,Personal Care,Deodorant,137,INV28689
+2023-01,Snacks,Granola Bar,173,INV55381
+2024-05,Snacks,Trail Mix,146,INV17056
+2023-02,Household,Trash Bags,32,INV51186
+2023-09,Snacks,Granola Bar,145,INV61508
+2024-05,Dairy,Yogurt,36,INV23330
+2023-07,Beverages,Cola,144,INV41510
+2023-01,Frozen Foods,Frozen Veggies,36,INV48372
+2023-05,Produce,Apples,125,INV51058
+2023-01,Bakery,Croissant,58,INV89965
+2023-04,Produce,Carrots,88,INV33394
+2024-05,Produce,Carrots,83,INV96146
+2023-08,Household,Trash Bags,151,INV48439
+2023-11,Household,Dish Soap,140,INV89459
+2024-03,Frozen Foods,Ice Cream,16,INV74931
+2024-04,Beverages,Mineral Water,157,INV69033
+2023-04,Frozen Foods,Ice Cream,13,INV23948
+2023-01,Dairy,Cheddar Cheese,199,INV42627
+2023-10,Personal Care,Toothpaste,195,INV29348
+2023-03,Personal Care,Toothpaste,148,INV13665
+2024-02,Personal Care,Body Lotion,153,INV54090
+2023-04,Personal Care,Deodorant,26,INV16891
+2024-03,Snacks,Potato Chips,58,INV25052
+2023-10,Produce,Apples,91,INV74774
+2023-11,Beverages,Cola,3,INV19234
+2023-06,Produce,Spinach,195,INV76406
+2023-09,Dairy,Butter,29,INV13011
+2023-01,Dairy,Butter,112,INV65721
+2024-04,Frozen Foods,Frozen Pizza,120,INV72103
+2023-04,Snacks,Granola Bar,193,INV78614
+2023-06,Produce,Spinach,152,INV73516
+2024-01,Produce,Apples,47,INV27769
+2023-01,Bakery,Croissant,64,INV12132
+2023-05,Beverages,Cola,115,INV44040
+2023-03,Beverages,Orange Juice,149,INV55315
+2023-11,Dairy,Butter,42,INV64665
+2024-05,Dairy,Yogurt,164,INV68764
+2023-01,Personal Care,Body Lotion,123,INV76950
+2024-04,Snacks,Granola Bar,11,INV35389
+2024-02,Produce,Bananas,5,INV94767
+2023-10,Bakery,Croissant,60,INV15533
+2024-05,Beverages,Mineral Water,160,INV18669
+2023-11,Household,Laundry Detergent,95,INV24378
+2023-07,Produce,Spinach,99,INV55956
+2023-12,Snacks,Granola Bar,39,INV81224
+2023-11,Household,Dish Soap,185,INV63296
+2024-06,Household,Trash Bags,166,INV22816
+2024-05,Dairy,Yogurt,179,INV44674
+2023-10,Produce,Spinach,43,INV69391
+2024-06,Frozen Foods,Ice Cream,155,INV29873
+2023-07,Snacks,Potato Chips,178,INV69499
+2023-10,Dairy,Yogurt,57,INV11469
+2023-10,Dairy,Yogurt,135,INV62123
+2023-02,Produce,Spinach,106,INV52156
+2024-05,Personal Care,Toothpaste,12,INV77252
+2023-11,Dairy,Yogurt,32,INV16655
+2023-01,Personal Care,Toothpaste,50,INV91646
+2023-01,Frozen Foods,Frozen Pizza,197,INV89893
+2023-09,Frozen Foods,Ice Cream,173,INV60274
+2023-07,Snacks,Trail Mix,124,INV98133
+2023-05,Bakery,Banana Bread,36,INV21089
+2023-11,Frozen Foods,Frozen Chicken,41,INV58395
+2024-05,Personal Care,Toothpaste,135,INV55535
+2023-05,Bakery,Banana Bread,13,INV68397
+2024-06,Dairy,Cheddar Cheese,89,INV64407
+2023-05,Household,Dish Soap,5,INV71540
+2023-05,Household,Dish Soap,183,INV15407
+2024-01,Dairy,Cheddar Cheese,5,INV91796
+2023-09,Personal Care,Toothpaste,196,INV91823
+2024-06,Dairy,Yogurt,196,INV84155
+2024-03,Dairy,Yogurt,144,INV96902
+2023-08,Bakery,White Bread,172,INV23735
+2024-04,Produce,Apples,106,INV45939
+2024-06,Household,Toilet Paper,27,INV29761
+2023-09,Frozen Foods,Frozen Pizza,41,INV75737
+2024-02,Snacks,Trail Mix,20,INV48618
+2023-01,Personal Care,Toothpaste,21,INV85697
+2023-07,Dairy,Cheddar Cheese,77,INV94551
+2023-05,Bakery,Croissant,164,INV38416
+2023-10,Household,Toilet Paper,176,INV29911
+2024-04,Snacks,Granola Bar,71,INV60611
+2023-05,Dairy,Cheddar Cheese,48,INV11510
+2023-10,Snacks,Granola Bar,149,INV50013
+2024-01,Household,Dish Soap,65,INV60863
+2024-04,Dairy,Milk,94,INV67545
+2024-04,Dairy,Butter,95,INV34222
+2024-04,Snacks,Trail Mix,119,INV23414
+2023-12,Dairy,Milk,47,INV27771
+2024-06,Snacks,Granola Bar,131,INV52105
+2023-06,Personal Care,Body Lotion,135,INV51069
+2024-02,Beverages,Mineral Water,188,INV67524
+2023-02,Bakery,White Bread,18,INV26130
+2023-06,Dairy,Butter,12,INV52058
+2023-02,Personal Care,Toothpaste,189,INV83457
+2023-06,Bakery,Banana Bread,133,INV21788
+2023-12,Produce,Spinach,188,INV37357
+2023-12,Household,Dish Soap,101,INV77836
+2024-04,Beverages,Mineral Water,78,INV35305
+2023-10,Frozen Foods,Frozen Veggies,169,INV26919
+2023-09,Bakery,Bagel,98,INV97757
+2024-01,Produce,Carrots,121,INV22564
+2023-11,Bakery,Banana Bread,196,INV29512
+2024-03,Dairy,Cheddar Cheese,114,INV31949
+2023-04,Bakery,Banana Bread,27,INV73972
+2023-08,Snacks,Popcorn,4,INV58887
+2024-04,Bakery,Bagel,49,INV64115
+2024-06,Beverages,Cola,7,INV36742
+2023-01,Produce,Spinach,153,INV24875
+2023-12,Beverages,Mineral Water,66,INV16179
+2024-01,Frozen Foods,Frozen Chicken,72,INV65420
+2024-02,Frozen Foods,Frozen Veggies,72,INV58724
+2023-04,Household,Trash Bags,134,INV39360
+2024-05,Household,Laundry Detergent,66,INV56576
+2023-11,Bakery,Croissant,40,INV73990
+2023-04,Household,Dish Soap,121,INV60286
+2023-01,Dairy,Yogurt,117,INV34549
+2023-06,Produce,Bananas,103,INV21211
+2024-02,Bakery,Bagel,168,INV65542
+2024-05,Frozen Foods,Frozen Chicken,198,INV48544
+2024-06,Household,Toilet Paper,123,INV52789
+2023-02,Snacks,Granola Bar,118,INV59923
+2023-10,Beverages,Mineral Water,195,INV63753
+2023-08,Dairy,Yogurt,131,INV43456
+2023-04,Produce,Bananas,23,INV34632
+2023-03,Household,Dish Soap,61,INV79889
+2023-10,Snacks,Potato Chips,1,INV83982
+2023-06,Personal Care,Deodorant,160,INV28136
+2023-11,Dairy,Yogurt,75,INV31098
+2023-05,Personal Care,Deodorant,107,INV65748
+2023-05,Produce,Bananas,71,INV86042
+2023-05,Frozen Foods,Frozen Chicken,112,INV46329
+2023-06,Produce,Bananas,88,INV17432
+2023-05,Bakery,Bagel,194,INV61441
+2023-08,Produce,Carrots,140,INV39512
+2023-09,Snacks,Granola Bar,5,INV46310
+2023-08,Household,Dish Soap,35,INV39508
+2023-04,Beverages,Cola,30,INV72971
+2024-03,Household,Toilet Paper,66,INV69238
+2023-11,Beverages,Cola,54,INV95230
+2023-12,Personal Care,Shampoo,76,INV95378
+2023-06,Dairy,Cheddar Cheese,113,INV11155
+2024-06,Frozen Foods,Frozen Pizza,11,INV83199
+2023-09,Produce,Spinach,198,INV68832
+2023-09,Dairy,Milk,21,INV43280
+2023-10,Household,Toilet Paper,194,INV72529
+2023-10,Produce,Carrots,15,INV74101
+2023-09,Snacks,Popcorn,13,INV68695
+2024-06,Frozen Foods,Frozen Pizza,91,INV11032
+2023-03,Bakery,Croissant,2,INV47306
+2024-03,Beverages,Mineral Water,29,INV94554
+2023-03,Produce,Carrots,127,INV76993
+2023-11,Beverages,Mineral Water,97,INV92873
+2023-12,Household,Toilet Paper,119,INV55550
+2023-07,Frozen Foods,Frozen Pizza,59,INV44120
+2023-10,Snacks,Trail Mix,32,INV30486
+2023-09,Beverages,Orange Juice,90,INV53548
+2024-05,Personal Care,Body Lotion,140,INV21180
+2024-01,Household,Dish Soap,192,INV97098
+2023-04,Frozen Foods,Ice Cream,191,INV81711
+2023-12,Personal Care,Shampoo,23,INV97941
+2023-08,Bakery,Croissant,57,INV34782
+2024-06,Personal Care,Toothpaste,117,INV50642
+2023-04,Household,Toilet Paper,186,INV71449
+2023-01,Snacks,Popcorn,87,INV43999
+2024-01,Household,Toilet Paper,18,INV29203
+2023-11,Frozen Foods,Ice Cream,128,INV81299
+2023-01,Household,Laundry Detergent,96,INV24876
+2023-06,Bakery,Croissant,103,INV97561
+2023-09,Household,Trash Bags,108,INV58088
+2023-04,Household,Dish Soap,114,INV81902
+2024-01,Household,Dish Soap,98,INV30884
+2024-01,Personal Care,Body Lotion,55,INV20144
+2023-06,Personal Care,Toothpaste,44,INV10911
+2024-06,Snacks,Popcorn,163,INV27500
+2023-12,Dairy,Cheddar Cheese,177,INV84583
+2023-08,Bakery,Croissant,135,INV33740
+2023-12,Bakery,White Bread,113,INV14091
+2023-03,Beverages,Mineral Water,165,INV72481
+2023-09,Beverages,Mineral Water,177,INV64209
+2024-04,Personal Care,Shampoo,181,INV30393
+2024-02,Personal Care,Body Lotion,60,INV92096
+2024-03,Beverages,Cola,34,INV18797
+2023-11,Snacks,Popcorn,2,INV93283
+2024-06,Snacks,Trail Mix,80,INV93165
+2023-07,Snacks,Potato Chips,169,INV84143
+2023-07,Produce,Carrots,79,INV44310
+2023-02,Household,Dish Soap,137,INV62216
+2023-11,Dairy,Cheddar Cheese,118,INV22920
+2024-04,Bakery,White Bread,144,INV62037
+2024-02,Snacks,Potato Chips,143,INV49811
+2023-04,Snacks,Potato Chips,145,INV52815
+2024-05,Beverages,Cola,161,INV72571
+2024-04,Dairy,Cheddar Cheese,3,INV30336
+2023-04,Personal Care,Toothpaste,195,INV82547
+2023-05,Household,Toilet Paper,76,INV87217
+2023-04,Dairy,Milk,77,INV83953
+2023-03,Bakery,Croissant,163,INV89072
+2023-07,Dairy,Yogurt,38,INV30216
+2023-12,Personal Care,Body Lotion,197,INV29924
+2023-03,Frozen Foods,Frozen Veggies,195,INV59442
+2023-06,Dairy,Milk,146,INV48945
+2024-06,Household,Toilet Paper,89,INV90679
+2024-04,Snacks,Potato Chips,124,INV16266
+2024-05,Produce,Apples,35,INV43432
+2024-05,Snacks,Granola Bar,177,INV38092
+2023-11,Bakery,Banana Bread,124,INV22676
+2023-01,Bakery,White Bread,62,INV88527
+2023-01,Produce,Bananas,50,INV88240
+2023-03,Personal Care,Deodorant,15,INV19182
+2024-02,Beverages,Cola,91,INV16156
+2024-01,Household,Dish Soap,68,INV66502
+2023-05,Bakery,Bagel,10,INV68779
+2024-01,Beverages,Cola,72,INV20459
+2023-03,Produce,Bananas,193,INV82336
+2024-02,Dairy,Butter,24,INV61623
+2023-10,Beverages,Orange Juice,48,INV77336
+2023-02,Bakery,Bagel,188,INV25040
+2023-12,Frozen Foods,Frozen Pizza,154,INV99708
+2023-08,Household,Toilet Paper,133,INV75166
+2024-04,Beverages,Orange Juice,10,INV69342
+2024-04,Frozen Foods,Frozen Pizza,164,INV57802
+2023-08,Beverages,Cola,149,INV57840
+2023-08,Bakery,Bagel,91,INV11563
+2023-09,Dairy,Cheddar Cheese,188,INV33436
+2024-05,Produce,Carrots,103,INV76184
+2023-12,Beverages,Green Tea,196,INV92295
+2023-08,Dairy,Milk,27,INV10981
+2023-09,Bakery,Banana Bread,90,INV11679
+2023-02,Bakery,White Bread,152,INV76955
+2023-06,Produce,Bananas,192,INV66078
+2023-03,Frozen Foods,Ice Cream,108,INV80432
+2023-01,Produce,Carrots,141,INV66566
+2023-09,Household,Trash Bags,198,INV69388
+2024-05,Beverages,Orange Juice,163,INV42626
+2024-04,Personal Care,Body Lotion,188,INV89452
+2024-03,Bakery,Banana Bread,141,INV78965
+2023-09,Personal Care,Deodorant,159,INV15984
+2024-01,Frozen Foods,Frozen Pizza,134,INV38877
+2023-12,Frozen Foods,Frozen Chicken,181,INV65915
+2023-08,Dairy,Cheddar Cheese,57,INV59139
+2024-05,Beverages,Orange Juice,177,INV13768
+2023-04,Snacks,Trail Mix,44,INV37778
+2024-06,Frozen Foods,Frozen Chicken,33,INV25355
+2024-03,Household,Dish Soap,5,INV27031
+2024-02,Personal Care,Shampoo,189,INV20868
+2023-05,Dairy,Yogurt,97,INV91953
+2024-06,Household,Trash Bags,19,INV76909
+2023-10,Personal Care,Deodorant,186,INV87316
+2023-10,Snacks,Potato Chips,94,INV11649
+2023-09,Produce,Apples,75,INV51701
+2023-05,Produce,Spinach,43,INV86726
+2023-07,Household,Toilet Paper,44,INV18702
+2023-02,Personal Care,Shampoo,66,INV11354
+2023-11,Frozen Foods,Frozen Chicken,175,INV22754
+2023-08,Personal Care,Shampoo,82,INV40793
+2024-04,Beverages,Green Tea,163,INV40320
+2023-03,Dairy,Yogurt,190,INV82142
+2023-02,Household,Dish Soap,75,INV45471
+2024-04,Frozen Foods,Frozen Pizza,99,INV61590
+2023-01,Produce,Bananas,36,INV56556
+2024-04,Snacks,Popcorn,120,INV69765
+2023-04,Bakery,Banana Bread,195,INV12100
+2023-11,Beverages,Cola,87,INV83953
+2023-09,Personal Care,Deodorant,119,INV92922
+2023-09,Household,Dish Soap,144,INV86444
+2023-05,Beverages,Mineral Water,102,INV90769
+2023-11,Frozen Foods,Frozen Chicken,131,INV53492
+2023-05,Personal Care,Toothpaste,42,INV79423
+2024-06,Household,Dish Soap,9,INV93945
+2023-01,Personal Care,Body Lotion,22,INV61668
+2023-02,Beverages,Mineral Water,138,INV64015
+2023-07,Bakery,Bagel,42,INV53484
+2023-07,Frozen Foods,Ice Cream,44,INV59697
+2024-05,Snacks,Granola Bar,8,INV85104
+2023-12,Household,Toilet Paper,179,INV22987
+2023-11,Personal Care,Toothpaste,151,INV71799
+2023-11,Household,Dish Soap,61,INV28860
+2023-08,Household,Trash Bags,13,INV93553
+2023-07,Dairy,Milk,65,INV42904
+2023-05,Produce,Apples,124,INV57209
+2024-01,Bakery,Banana Bread,164,INV18967
+2023-09,Produce,Bananas,5,INV55924
+2024-05,Dairy,Yogurt,69,INV31577
+2024-03,Bakery,White Bread,149,INV36749
+2023-10,Snacks,Granola Bar,152,INV39098
+2023-01,Frozen Foods,Frozen Chicken,86,INV81330
+2024-06,Personal Care,Body Lotion,85,INV94788
+2023-03,Bakery,Bagel,185,INV91444
+2023-03,Bakery,Croissant,16,INV83880
+2023-05,Personal Care,Shampoo,177,INV28462
+2024-01,Personal Care,Toothpaste,140,INV91468
+2023-02,Produce,Carrots,54,INV96189
+2024-03,Produce,Bananas,110,INV52707
+2024-06,Snacks,Popcorn,185,INV67521
+2023-05,Dairy,Cheddar Cheese,45,INV42781
+2023-03,Frozen Foods,Ice Cream,125,INV82111
+2023-07,Bakery,Bagel,59,INV85645
+2023-07,Personal Care,Toothpaste,4,INV94042
+2023-03,Household,Toilet Paper,178,INV65800
+2024-06,Produce,Carrots,138,INV55386
+2023-07,Snacks,Trail Mix,81,INV41600
+2024-06,Snacks,Granola Bar,141,INV24629
+2023-04,Beverages,Orange Juice,192,INV45135
+2023-07,Dairy,Cheddar Cheese,159,INV94591
+2024-05,Dairy,Cheddar Cheese,32,INV59347
+2023-01,Frozen Foods,Frozen Pizza,69,INV51494
+2024-04,Dairy,Cheddar Cheese,186,INV64486
+2023-06,Frozen Foods,Frozen Pizza,100,INV72293
+2023-03,Bakery,Croissant,117,INV89157
+2023-07,Produce,Carrots,166,INV89446
+2023-08,Beverages,Cola,175,INV90250
+2023-03,Snacks,Popcorn,88,INV40508
+2023-11,Snacks,Granola Bar,139,INV80631
+2024-06,Produce,Carrots,104,INV29714
+2024-01,Household,Laundry Detergent,82,INV71727
+2023-09,Produce,Apples,106,INV46358
+2023-04,Dairy,Cheddar Cheese,130,INV72046
+2023-04,Produce,Spinach,86,INV13266
+2024-04,Produce,Carrots,31,INV14863
+2023-11,Beverages,Green Tea,74,INV35131
+2023-11,Produce,Bananas,17,INV94377
+2024-05,Produce,Apples,71,INV41163
+2023-07,Personal Care,Toothpaste,62,INV10408
+2024-03,Dairy,Cheddar Cheese,179,INV47137
+2024-04,Snacks,Trail Mix,191,INV57065
+2023-07,Dairy,Yogurt,51,INV51092
+2023-07,Bakery,White Bread,177,INV53884
+2023-08,Snacks,Popcorn,139,INV63500
+2024-03,Snacks,Trail Mix,135,INV72829
+2024-05,Frozen Foods,Frozen Chicken,23,INV28134
+2023-08,Beverages,Orange Juice,156,INV27704
+2024-02,Dairy,Milk,62,INV26012
+2023-05,Produce,Spinach,107,INV50505
+2023-11,Dairy,Milk,52,INV78568
+2023-09,Produce,Apples,196,INV99088
+2024-06,Dairy,Cheddar Cheese,81,INV46630
+2024-02,Bakery,Banana Bread,93,INV59327
+2023-06,Snacks,Potato Chips,109,INV30101
+2023-09,Household,Laundry Detergent,33,INV38908
+2023-01,Personal Care,Toothpaste,140,INV93188
+2024-03,Dairy,Cheddar Cheese,168,INV94830
+2023-06,Beverages,Green Tea,56,INV55527
+2023-07,Snacks,Granola Bar,49,INV15339
+2024-06,Personal Care,Deodorant,54,INV79332
+2023-06,Produce,Apples,92,INV58124
+2023-06,Bakery,Croissant,140,INV50101
+2023-03,Household,Laundry Detergent,27,INV52579
+2023-06,Household,Toilet Paper,90,INV44200
+2023-11,Snacks,Potato Chips,17,INV76601
+2024-05,Bakery,Banana Bread,119,INV77392
+2023-12,Produce,Apples,61,INV11130
+2024-03,Frozen Foods,Frozen Veggies,184,INV86280
+2024-05,Bakery,White Bread,86,INV74386
+2024-06,Beverages,Cola,18,INV91908
+2023-01,Personal Care,Toothpaste,91,INV70539
+2023-10,Household,Dish Soap,95,INV42620
+2024-01,Beverages,Orange Juice,43,INV16827
+2023-01,Produce,Carrots,69,INV89935
+2023-11,Snacks,Granola Bar,73,INV60304
+2023-05,Dairy,Butter,116,INV44735
+2023-08,Personal Care,Body Lotion,52,INV73516
+2023-02,Frozen Foods,Ice Cream,125,INV47099
+2023-12,Snacks,Popcorn,69,INV86390
+2023-12,Frozen Foods,Frozen Veggies,23,INV56046
+2023-01,Dairy,Milk,81,INV57767
+2024-06,Beverages,Mineral Water,173,INV83531
+2024-06,Snacks,Trail Mix,74,INV10820
+2023-11,Beverages,Mineral Water,95,INV96245
+2024-05,Household,Toilet Paper,54,INV13652
+2023-02,Produce,Spinach,38,INV80288
+2024-05,Beverages,Orange Juice,58,INV34880
+2024-04,Produce,Apples,108,INV26548
+2023-03,Bakery,White Bread,57,INV32425
+2024-01,Snacks,Granola Bar,83,INV89804
+2023-04,Frozen Foods,Frozen Chicken,188,INV66477
+2023-03,Produce,Apples,78,INV95918
+2023-03,Snacks,Granola Bar,149,INV29508
+2024-03,Household,Laundry Detergent,195,INV42398
+2024-05,Frozen Foods,Frozen Pizza,48,INV51846
+2023-10,Household,Dish Soap,17,INV61097
+2023-05,Dairy,Milk,178,INV20584
+2024-01,Produce,Carrots,175,INV36594
+2023-09,Produce,Carrots,18,INV77460
+2024-01,Bakery,Banana Bread,67,INV13827
+2023-11,Household,Dish Soap,60,INV69505
+2023-12,Personal Care,Deodorant,103,INV29004
+2024-02,Personal Care,Shampoo,46,INV41344
+2024-01,Dairy,Butter,115,INV19366
+2024-05,Frozen Foods,Ice Cream,176,INV82955
+2023-10,Household,Dish Soap,53,INV41952
+2023-10,Bakery,Banana Bread,166,INV81707
+2023-09,Snacks,Trail Mix,138,INV74663
+2023-09,Frozen Foods,Frozen Chicken,187,INV58469
+2023-05,Frozen Foods,Frozen Veggies,65,INV41209
+2023-03,Dairy,Milk,55,INV58326
+2023-07,Frozen Foods,Frozen Chicken,94,INV46735
+2023-01,Beverages,Cola,148,INV36997
+2024-03,Dairy,Milk,14,INV18633
+2024-06,Frozen Foods,Frozen Chicken,167,INV53240
+2023-12,Snacks,Trail Mix,74,INV42615
+2023-12,Snacks,Granola Bar,46,INV27744
+2023-12,Snacks,Granola Bar,71,INV33967
+2023-09,Household,Trash Bags,162,INV98579
+2023-06,Bakery,Croissant,28,INV74781
+2023-03,Snacks,Granola Bar,4,INV62095
+2023-04,Household,Toilet Paper,161,INV49515
+2023-05,Household,Toilet Paper,129,INV55975
+2023-07,Frozen Foods,Ice Cream,6,INV71903
+2023-08,Personal Care,Shampoo,56,INV43919
+2023-11,Produce,Carrots,79,INV16581
+2023-06,Beverages,Mineral Water,70,INV85760
+2023-10,Dairy,Cheddar Cheese,33,INV83439
+2024-01,Dairy,Milk,67,INV68715
+2023-12,Frozen Foods,Ice Cream,120,INV10175
+2024-02,Dairy,Cheddar Cheese,164,INV59508
+2023-04,Beverages,Green Tea,197,INV27058
+2024-01,Dairy,Yogurt,3,INV30604
+2023-10,Beverages,Orange Juice,82,INV11017
+2024-06,Bakery,White Bread,173,INV79512
+2023-11,Household,Trash Bags,191,INV10289
+2024-06,Beverages,Green Tea,174,INV85753
+2023-03,Produce,Carrots,73,INV36920
+2023-11,Personal Care,Body Lotion,46,INV25339
+2024-05,Frozen Foods,Ice Cream,13,INV28053
+2023-05,Household,Trash Bags,54,INV62880
+2024-01,Snacks,Trail Mix,88,INV68973
+2023-04,Frozen Foods,Frozen Veggies,97,INV98577
+2023-05,Frozen Foods,Frozen Veggies,163,INV51648
+2023-03,Produce,Carrots,146,INV30657
+2024-06,Snacks,Trail Mix,185,INV35457
+2024-03,Bakery,Banana Bread,54,INV59189
+2023-06,Beverages,Cola,131,INV79735
+2023-10,Beverages,Mineral Water,186,INV98137
+2024-04,Produce,Carrots,53,INV55025
+2023-02,Snacks,Popcorn,25,INV31666
+2023-01,Dairy,Milk,11,INV36742
+2024-03,Produce,Spinach,184,INV96898
+2024-05,Personal Care,Toothpaste,153,INV45383
+2024-06,Bakery,Croissant,150,INV91184
+2023-11,Bakery,Bagel,40,INV60280
+2023-09,Bakery,Croissant,63,INV11304
+2023-11,Frozen Foods,Frozen Veggies,125,INV74069
+2024-04,Snacks,Popcorn,149,INV11736
+2023-02,Personal Care,Shampoo,97,INV58276
+2024-04,Personal Care,Toothpaste,105,INV95643
+2023-08,Personal Care,Body Lotion,171,INV93082
+2024-03,Household,Laundry Detergent,57,INV32074
+2024-04,Beverages,Orange Juice,7,INV98868
+2023-05,Bakery,White Bread,185,INV41587
+2023-09,Dairy,Yogurt,14,INV26557
+2023-05,Frozen Foods,Frozen Veggies,27,INV94675
+2024-02,Produce,Carrots,101,INV77896
+2023-03,Bakery,Bagel,34,INV69994
+2023-08,Beverages,Green Tea,134,INV39452
+2023-01,Household,Trash Bags,77,INV65997
+2023-06,Bakery,Banana Bread,185,INV97093
+2024-03,Produce,Bananas,108,INV73876
+2024-02,Personal Care,Body Lotion,21,INV77154
+2023-09,Beverages,Cola,45,INV68126
+2023-06,Household,Dish Soap,103,INV46119
+2024-02,Produce,Bananas,195,INV39276
+2024-01,Personal Care,Deodorant,16,INV44144
+2023-09,Personal Care,Toothpaste,28,INV11776
+2024-01,Beverages,Orange Juice,110,INV68456
+2024-04,Produce,Spinach,75,INV37129
+2024-06,Dairy,Yogurt,72,INV27657
+2024-05,Household,Trash Bags,119,INV94203
+2023-10,Household,Dish Soap,26,INV49815
+2023-07,Dairy,Yogurt,116,INV46424
+2024-05,Personal Care,Body Lotion,36,INV31284
+2024-04,Bakery,White Bread,96,INV21087
+2023-08,Personal Care,Body Lotion,145,INV43093
+2023-11,Snacks,Trail Mix,29,INV62415
+2023-10,Snacks,Potato Chips,128,INV83192
+2023-08,Bakery,White Bread,128,INV85331
+2023-04,Bakery,Croissant,171,INV73823
+2023-03,Personal Care,Body Lotion,48,INV84990
+2023-10,Frozen Foods,Frozen Veggies,37,INV90174
+2024-05,Produce,Carrots,123,INV27793
+2023-04,Household,Toilet Paper,187,INV72266
+2023-12,Dairy,Yogurt,114,INV85453
+2023-12,Bakery,Croissant,72,INV85528
+2024-01,Frozen Foods,Frozen Veggies,189,INV10480
+2024-04,Snacks,Trail Mix,123,INV93842
+2024-02,Personal Care,Deodorant,41,INV56067
+2024-03,Beverages,Orange Juice,149,INV39005
+2023-10,Frozen Foods,Frozen Veggies,36,INV81253
+2024-01,Snacks,Granola Bar,81,INV25595
+2024-02,Beverages,Orange Juice,189,INV38190
+2024-06,Frozen Foods,Frozen Chicken,29,INV98825
+2023-09,Frozen Foods,Frozen Veggies,148,INV28177
+2024-06,Beverages,Green Tea,146,INV45708
+2023-04,Beverages,Orange Juice,69,INV26388
+2023-06,Personal Care,Deodorant,50,INV38106
+2024-04,Household,Toilet Paper,65,INV78920
+2023-02,Bakery,Bagel,31,INV62809
+2023-07,Bakery,Bagel,198,INV48171
+2023-05,Personal Care,Body Lotion,82,INV72292
+2024-05,Snacks,Potato Chips,102,INV17406
+2023-02,Bakery,Bagel,191,INV44439
+2023-05,Frozen Foods,Frozen Pizza,47,INV38367
+2023-02,Dairy,Butter,63,INV44990
+2024-06,Household,Laundry Detergent,106,INV91353
+2024-01,Dairy,Butter,58,INV70902
+2024-03,Dairy,Yogurt,17,INV44069
+2024-03,Personal Care,Deodorant,113,INV15841
+2024-02,Snacks,Trail Mix,25,INV54341
+2023-01,Bakery,White Bread,142,INV66379
+2023-04,Produce,Carrots,156,INV29332
+2023-07,Frozen Foods,Ice Cream,29,INV50726
+2023-07,Dairy,Cheddar Cheese,78,INV55129
+2023-03,Beverages,Green Tea,124,INV19302
+2023-04,Frozen Foods,Ice Cream,34,INV63797
+2024-03,Personal Care,Deodorant,67,INV44259
+2023-08,Household,Dish Soap,109,INV54370
+2024-05,Beverages,Orange Juice,115,INV57732
+2023-10,Dairy,Butter,26,INV19810
+2024-06,Snacks,Granola Bar,165,INV68741
+2023-08,Frozen Foods,Ice Cream,110,INV14347
+2024-06,Bakery,Croissant,3,INV73436
+2023-01,Bakery,Banana Bread,63,INV37186
+2024-06,Beverages,Cola,186,INV64677
+2023-05,Snacks,Popcorn,167,INV50585
+2023-10,Beverages,Mineral Water,199,INV10916
+2023-08,Household,Trash Bags,17,INV87953
+2023-04,Dairy,Yogurt,28,INV10708
+2023-08,Snacks,Potato Chips,90,INV68190
+2023-06,Produce,Spinach,70,INV15616
+2023-03,Dairy,Milk,41,INV75896
+2023-06,Dairy,Yogurt,170,INV27513
+2023-01,Snacks,Trail Mix,138,INV13926
+2023-12,Personal Care,Body Lotion,29,INV48464
+2024-05,Produce,Bananas,163,INV16918
+2024-05,Frozen Foods,Frozen Veggies,90,INV87530
+2023-01,Frozen Foods,Frozen Pizza,155,INV95662
+2023-07,Bakery,Bagel,180,INV29028
+2024-03,Dairy,Cheddar Cheese,101,INV52641
+2023-07,Personal Care,Deodorant,165,INV60762
+2024-03,Beverages,Green Tea,38,INV89607
+2023-11,Snacks,Granola Bar,56,INV25813
+2023-09,Bakery,Croissant,171,INV88183
+2023-02,Bakery,Croissant,99,INV58638
+2023-02,Bakery,Banana Bread,74,INV95528
+2024-03,Frozen Foods,Frozen Chicken,121,INV97477
+2024-05,Personal Care,Toothpaste,120,INV78413
+2023-08,Dairy,Cheddar Cheese,199,INV40258
+2024-02,Snacks,Potato Chips,188,INV13471
+2024-02,Dairy,Butter,19,INV90080
+2024-03,Personal Care,Shampoo,9,INV34976
+2024-05,Bakery,White Bread,42,INV71265
+2024-02,Beverages,Mineral Water,60,INV49610
+2023-09,Household,Laundry Detergent,83,INV10289
+2024-02,Produce,Bananas,32,INV27498
+2023-12,Dairy,Milk,173,INV53998
+2023-05,Household,Trash Bags,180,INV14519
+2023-09,Produce,Spinach,136,INV34125
+2023-07,Produce,Apples,31,INV29494
+2024-05,Snacks,Granola Bar,53,INV44462
+2023-11,Beverages,Mineral Water,30,INV80962
+2024-02,Produce,Carrots,9,INV85354
+2023-05,Produce,Spinach,115,INV93674
+2024-02,Snacks,Trail Mix,122,INV34487
+2023-05,Snacks,Granola Bar,28,INV27811
+2024-01,Dairy,Butter,31,INV20809
+2023-06,Beverages,Orange Juice,111,INV24837
+2023-05,Household,Trash Bags,47,INV59259
+2023-08,Bakery,Banana Bread,98,INV27036
+2023-07,Snacks,Potato Chips,190,INV92522
+2024-05,Household,Laundry Detergent,88,INV68729
+2024-03,Bakery,Croissant,192,INV32277
+2023-02,Frozen Foods,Frozen Pizza,57,INV29107
+2023-10,Dairy,Yogurt,159,INV40604
+2023-01,Produce,Carrots,40,INV12924
+2024-04,Dairy,Butter,5,INV79613
+2023-12,Beverages,Cola,116,INV60337
+2023-09,Beverages,Mineral Water,36,INV43531
+2023-06,Frozen Foods,Frozen Pizza,50,INV45030
+2024-04,Bakery,Croissant,28,INV63065
+2023-03,Personal Care,Toothpaste,114,INV85211
+2024-05,Personal Care,Body Lotion,98,INV68971
+2024-04,Bakery,White Bread,134,INV78990
+2023-07,Frozen Foods,Ice Cream,37,INV14824
+2023-09,Frozen Foods,Frozen Pizza,185,INV71569
+2023-01,Personal Care,Toothpaste,107,INV17357
+2023-09,Produce,Carrots,5,INV57844
+2023-11,Household,Trash Bags,16,INV96932
+2023-11,Produce,Carrots,30,INV93368
+2023-03,Frozen Foods,Frozen Chicken,47,INV22509
+2023-01,Beverages,Cola,69,INV17959
+2023-10,Household,Toilet Paper,189,INV21977
+2023-10,Personal Care,Body Lotion,199,INV21479
+2024-01,Personal Care,Shampoo,135,INV24633
+2024-05,Frozen Foods,Frozen Chicken,140,INV84713
+2023-12,Produce,Carrots,60,INV47934
+2023-11,Produce,Spinach,38,INV76977
+2023-02,Frozen Foods,Frozen Veggies,79,INV52846
+2023-06,Frozen Foods,Frozen Chicken,6,INV89947
+2023-03,Dairy,Yogurt,176,INV70738
+2024-05,Personal Care,Toothpaste,116,INV22632
+2023-12,Dairy,Cheddar Cheese,179,INV72161
+2024-05,Produce,Spinach,79,INV18275
+2024-04,Produce,Carrots,144,INV85155
+2023-05,Beverages,Orange Juice,72,INV66949
+2023-12,Produce,Spinach,52,INV96341
+2023-07,Frozen Foods,Frozen Chicken,98,INV67182
+2023-12,Snacks,Potato Chips,57,INV50359
+2024-02,Household,Trash Bags,7,INV98993
+2023-05,Beverages,Cola,159,INV68271
+2023-03,Snacks,Granola Bar,136,INV35554
+2023-03,Bakery,Bagel,188,INV93109
+2023-04,Personal Care,Shampoo,81,INV82280
+2023-12,Beverages,Green Tea,112,INV35653
+2024-05,Produce,Spinach,101,INV34646
+2023-02,Bakery,Bagel,152,INV74030
+2024-03,Dairy,Milk,55,INV18882
+2023-09,Produce,Spinach,27,INV52862
+2024-01,Household,Toilet Paper,132,INV92643
+2023-11,Household,Dish Soap,49,INV90219
+2024-01,Snacks,Potato Chips,27,INV72279
+2023-08,Snacks,Trail Mix,125,INV41111
+2023-05,Snacks,Granola Bar,48,INV27763
+2023-06,Produce,Bananas,57,INV24138
+2023-09,Produce,Bananas,71,INV93953
+2023-09,Personal Care,Deodorant,25,INV62077
+2023-05,Beverages,Orange Juice,189,INV51110
+2024-05,Beverages,Mineral Water,124,INV23127
+2023-08,Personal Care,Deodorant,162,INV15505
+2024-03,Frozen Foods,Frozen Veggies,134,INV72574
+2023-12,Bakery,White Bread,154,INV51757
+2023-02,Dairy,Yogurt,169,INV95226
+2023-06,Snacks,Granola Bar,50,INV19222
+2023-06,Household,Dish Soap,41,INV96424
+2023-12,Dairy,Cheddar Cheese,42,INV28089
+2023-03,Bakery,Bagel,144,INV75528
+2024-02,Bakery,White Bread,116,INV51972
+2023-02,Snacks,Granola Bar,38,INV62502
+2023-05,Bakery,Bagel,115,INV29750
+2023-03,Frozen Foods,Frozen Pizza,98,INV93767
+2023-05,Bakery,Bagel,84,INV43332
+2023-01,Snacks,Potato Chips,111,INV38481
+2023-02,Produce,Carrots,121,INV94918
+2023-03,Bakery,White Bread,183,INV65198
+2023-04,Produce,Carrots,175,INV76870
+2023-10,Snacks,Trail Mix,56,INV97087
+2023-05,Frozen Foods,Ice Cream,185,INV61021
+2023-08,Produce,Carrots,108,INV66333
+2023-03,Produce,Carrots,105,INV76128
+2023-06,Dairy,Butter,6,INV31608
+2023-09,Bakery,Croissant,69,INV76781
+2024-02,Household,Trash Bags,118,INV42643
+2023-01,Dairy,Cheddar Cheese,130,INV65468
+2023-06,Frozen Foods,Ice Cream,43,INV22416
+2024-05,Dairy,Cheddar Cheese,3,INV97951
+2024-03,Produce,Carrots,199,INV80049
+2024-06,Frozen Foods,Frozen Veggies,131,INV79682
+2023-12,Beverages,Mineral Water,187,INV23400
+2024-03,Bakery,Banana Bread,144,INV56331
+2023-12,Personal Care,Shampoo,60,INV72946
+2023-10,Beverages,Orange Juice,160,INV72275
+2024-06,Produce,Carrots,39,INV46430
+2023-02,Bakery,Banana Bread,197,INV24255
+2024-06,Frozen Foods,Ice Cream,121,INV93282
+2023-05,Snacks,Trail Mix,163,INV77887
+2023-12,Snacks,Trail Mix,30,INV11221
+2023-06,Snacks,Popcorn,60,INV33129
+2023-12,Produce,Apples,200,INV72722
+2024-02,Beverages,Orange Juice,59,INV62786
+2024-04,Produce,Carrots,178,INV96388
+2024-01,Household,Dish Soap,183,INV70540
+2023-11,Beverages,Green Tea,12,INV58524
+2023-10,Personal Care,Toothpaste,90,INV94954
+2023-06,Personal Care,Deodorant,194,INV22113
+2023-11,Snacks,Granola Bar,197,INV75924
+2023-12,Snacks,Popcorn,195,INV23430
+2023-06,Beverages,Cola,161,INV60643
+2024-04,Beverages,Orange Juice,127,INV25845
+2023-10,Dairy,Butter,43,INV21138
+2023-09,Beverages,Orange Juice,92,INV99212
+2024-03,Dairy,Butter,93,INV65097
+2023-05,Frozen Foods,Frozen Veggies,18,INV19589
+2023-08,Frozen Foods,Frozen Chicken,12,INV67985
+2023-06,Snacks,Granola Bar,33,INV83460
+2023-09,Personal Care,Toothpaste,77,INV73586
+2024-03,Produce,Apples,196,INV79804
+2023-03,Produce,Carrots,111,INV67331
+2023-11,Snacks,Granola Bar,195,INV58006
+2023-03,Dairy,Butter,175,INV69925
+2023-04,Bakery,Croissant,27,INV72113
+2023-09,Personal Care,Toothpaste,142,INV92024
+2023-02,Snacks,Popcorn,24,INV97018
+2024-03,Frozen Foods,Frozen Pizza,73,INV87481
+2023-04,Produce,Spinach,80,INV83235
+2024-04,Personal Care,Body Lotion,125,INV14292
+2023-03,Dairy,Butter,89,INV78996
+2023-10,Beverages,Green Tea,114,INV87035
+2023-04,Household,Dish Soap,98,INV68964
+2024-05,Dairy,Cheddar Cheese,74,INV14149
+2023-04,Personal Care,Body Lotion,178,INV11696
+2023-03,Household,Trash Bags,113,INV27385
+2023-07,Bakery,Banana Bread,141,INV98636
+2023-01,Produce,Carrots,148,INV44656
+2024-06,Beverages,Green Tea,180,INV58649
+2023-01,Snacks,Popcorn,39,INV87456
+2024-06,Dairy,Milk,5,INV10643
+2023-10,Household,Dish Soap,94,INV80354
+2024-02,Snacks,Granola Bar,9,INV67909
+2023-08,Frozen Foods,Frozen Chicken,8,INV48382
+2024-05,Beverages,Mineral Water,119,INV98383
+2024-02,Produce,Bananas,61,INV25984
+2023-12,Beverages,Orange Juice,98,INV12243
+2024-03,Dairy,Milk,14,INV87586
+2023-07,Produce,Carrots,197,INV74302
+2023-02,Dairy,Butter,165,INV95827
+2023-01,Household,Toilet Paper,89,INV40416
+2024-05,Produce,Spinach,189,INV53333
+2023-07,Beverages,Orange Juice,130,INV99042
+2023-03,Snacks,Granola Bar,76,INV47377
+2023-02,Produce,Bananas,38,INV83825
+2023-07,Dairy,Yogurt,36,INV98479
+2023-04,Bakery,Banana Bread,94,INV47317
+2023-07,Bakery,Banana Bread,115,INV51676
+2023-07,Beverages,Orange Juice,90,INV75399
+2023-03,Dairy,Milk,46,INV40501
+2024-02,Personal Care,Body Lotion,151,INV30859
+2024-02,Beverages,Cola,88,INV72391
+2024-05,Beverages,Cola,19,INV35165
+2023-06,Personal Care,Deodorant,118,INV80814
+2023-06,Frozen Foods,Ice Cream,86,INV23004
+2023-08,Personal Care,Deodorant,99,INV49320
+2023-03,Beverages,Mineral Water,137,INV88711
+2023-09,Personal Care,Body Lotion,175,INV92784
+2023-06,Dairy,Butter,54,INV36740
+2024-05,Snacks,Potato Chips,6,INV21269
+2023-11,Produce,Bananas,21,INV46288
+2023-09,Personal Care,Toothpaste,193,INV32667
+2023-08,Frozen Foods,Frozen Veggies,3,INV71288
+2023-02,Frozen Foods,Frozen Chicken,177,INV82501
+2023-11,Personal Care,Shampoo,50,INV43379
+2023-07,Produce,Carrots,120,INV53198
+2023-07,Dairy,Butter,142,INV89579
+2024-06,Household,Toilet Paper,52,INV67844
+2023-07,Personal Care,Toothpaste,186,INV59442
+2024-02,Dairy,Cheddar Cheese,171,INV41475
+2023-07,Produce,Carrots,25,INV25040
+2023-11,Frozen Foods,Frozen Chicken,102,INV41173
+2024-05,Personal Care,Body Lotion,40,INV40386
+2024-05,Household,Laundry Detergent,41,INV90380
+2023-12,Produce,Apples,123,INV63184
+2023-07,Bakery,Bagel,55,INV34535
+2023-11,Bakery,White Bread,99,INV73199
+2023-05,Produce,Spinach,117,INV40062
+2023-02,Dairy,Milk,180,INV67254
+2023-12,Personal Care,Deodorant,47,INV72253
+2024-05,Frozen Foods,Frozen Chicken,137,INV59847
+2023-05,Bakery,Bagel,15,INV59461
+2023-03,Dairy,Yogurt,167,INV39861
+2024-04,Dairy,Butter,134,INV89859
+2024-04,Dairy,Milk,60,INV18285
+2023-09,Bakery,White Bread,8,INV35158
+2024-01,Household,Laundry Detergent,23,INV59082
+2023-04,Frozen Foods,Ice Cream,179,INV45067
+2023-02,Personal Care,Toothpaste,57,INV50507
+2023-11,Bakery,Bagel,58,INV25069
+2023-02,Frozen Foods,Frozen Veggies,36,INV50550
+2023-08,Dairy,Yogurt,6,INV13395
+2024-06,Frozen Foods,Frozen Chicken,170,INV46696
+2023-12,Beverages,Orange Juice,185,INV14371
+2023-02,Bakery,Bagel,87,INV49689
+2023-10,Snacks,Granola Bar,167,INV75123
+2024-02,Personal Care,Shampoo,73,INV63322
+2024-02,Household,Dish Soap,132,INV87566
+2023-07,Beverages,Orange Juice,112,INV80528
+2024-01,Household,Dish Soap,10,INV75762
+2024-04,Household,Dish Soap,51,INV16684
+2023-09,Dairy,Milk,133,INV20564
+2023-01,Dairy,Butter,136,INV85839
+2024-03,Snacks,Trail Mix,50,INV84332
+2024-04,Bakery,Croissant,30,INV13016
+2023-02,Frozen Foods,Ice Cream,174,INV45082
+2023-05,Frozen Foods,Frozen Chicken,141,INV48408
+2024-06,Produce,Carrots,199,INV63594
+2023-02,Dairy,Milk,27,INV34180
+2024-02,Bakery,Croissant,88,INV44535
+2023-05,Beverages,Mineral Water,136,INV39608
+2023-02,Snacks,Potato Chips,71,INV75746
+2024-03,Bakery,Banana Bread,131,INV51038
+2023-04,Bakery,Bagel,92,INV89981
+2024-01,Personal Care,Body Lotion,40,INV14534
+2024-03,Personal Care,Toothpaste,35,INV56725
+2024-05,Produce,Spinach,1,INV18945
+2024-01,Bakery,Banana Bread,35,INV86910
+2023-11,Snacks,Popcorn,183,INV24640
+2023-08,Bakery,Croissant,2,INV83936
+2023-01,Bakery,Bagel,43,INV44716
+2024-02,Household,Trash Bags,32,INV20916
+2023-09,Dairy,Yogurt,40,INV53981
+2023-04,Dairy,Yogurt,22,INV40728
+2023-11,Dairy,Milk,193,INV13171
+2023-10,Bakery,Bagel,117,INV56093
+2023-05,Frozen Foods,Frozen Chicken,176,INV20772
+2024-01,Bakery,White Bread,111,INV48114
+2023-06,Frozen Foods,Frozen Chicken,136,INV47844
+2023-04,Produce,Bananas,133,INV95392
+2023-06,Personal Care,Body Lotion,7,INV65241
+2023-08,Household,Laundry Detergent,16,INV97205
+2023-01,Produce,Bananas,138,INV31929
+2024-04,Dairy,Butter,43,INV17068
+2023-10,Snacks,Granola Bar,109,INV82719
+2024-04,Frozen Foods,Frozen Pizza,42,INV93832
+2023-09,Frozen Foods,Frozen Chicken,104,INV45847
+2023-10,Bakery,Croissant,13,INV69221
+2023-10,Beverages,Orange Juice,54,INV97214
+2023-03,Bakery,Croissant,40,INV87498
+2023-07,Snacks,Potato Chips,177,INV30405
+2023-08,Dairy,Butter,50,INV56913
+2023-01,Beverages,Cola,15,INV91806
+2023-09,Dairy,Yogurt,87,INV18546
+2023-04,Frozen Foods,Ice Cream,138,INV30181
+2023-09,Household,Dish Soap,159,INV52604
+2024-01,Frozen Foods,Frozen Chicken,45,INV36300
+2023-12,Frozen Foods,Frozen Chicken,117,INV48846
+2023-09,Produce,Carrots,37,INV38172
+2023-12,Dairy,Cheddar Cheese,93,INV85122
+2023-01,Bakery,Bagel,181,INV92160
+2023-05,Bakery,White Bread,115,INV97863
+2023-02,Snacks,Granola Bar,146,INV74221
+2023-02,Bakery,White Bread,132,INV60080
+2023-09,Personal Care,Toothpaste,121,INV90627
+2023-11,Personal Care,Toothpaste,73,INV52268
+2023-10,Dairy,Milk,35,INV21297
+2023-09,Household,Laundry Detergent,47,INV43138
+2023-02,Bakery,Croissant,44,INV64472
+2023-08,Household,Trash Bags,81,INV73800
+2024-04,Produce,Spinach,11,INV89658
+2023-11,Frozen Foods,Frozen Veggies,100,INV37923
+2023-11,Frozen Foods,Ice Cream,71,INV65925
+2023-09,Produce,Carrots,194,INV65436
+2024-03,Snacks,Popcorn,81,INV71228
+2023-01,Produce,Spinach,122,INV15321
+2023-03,Personal Care,Shampoo,197,INV63361
+2023-12,Household,Laundry Detergent,43,INV14543
+2024-01,Bakery,White Bread,13,INV20207
+2023-04,Personal Care,Toothpaste,127,INV56074
+2023-10,Bakery,Bagel,8,INV82411
+2023-02,Beverages,Cola,84,INV44218
+2024-01,Household,Laundry Detergent,185,INV28781
+2023-05,Beverages,Mineral Water,151,INV92599
+2023-08,Household,Laundry Detergent,25,INV83565
+2023-10,Frozen Foods,Frozen Pizza,125,INV54623
+2023-12,Snacks,Popcorn,71,INV60132
+2023-10,Produce,Spinach,14,INV78321
+2023-09,Beverages,Green Tea,55,INV63555
+2023-11,Produce,Apples,19,INV94690
+2023-04,Produce,Apples,151,INV35751
+2023-07,Personal Care,Deodorant,59,INV61058
+2024-03,Dairy,Milk,85,INV41933
+2023-03,Frozen Foods,Frozen Veggies,66,INV47807
+2023-06,Household,Toilet Paper,189,INV19358
+2023-07,Snacks,Potato Chips,32,INV51413
+2023-03,Beverages,Mineral Water,31,INV24785
+2023-07,Frozen Foods,Frozen Chicken,18,INV44100
+2024-02,Snacks,Potato Chips,144,INV21223
+2023-12,Frozen Foods,Frozen Pizza,86,INV51674
+2023-02,Snacks,Trail Mix,196,INV38923
+2023-03,Produce,Apples,197,INV82892
+2023-03,Snacks,Potato Chips,68,INV21157
+2024-01,Personal Care,Toothpaste,189,INV34072
+2023-03,Personal Care,Deodorant,160,INV37131
+2024-03,Household,Dish Soap,84,INV11858
+2023-12,Produce,Spinach,154,INV28337
+2023-01,Bakery,Bagel,142,INV24417
+2024-05,Beverages,Orange Juice,139,INV64500
+2023-12,Frozen Foods,Frozen Pizza,38,INV85497
+2023-10,Dairy,Milk,171,INV41250
+2023-12,Beverages,Cola,54,INV57849
+2023-05,Dairy,Cheddar Cheese,2,INV65260
+2023-08,Personal Care,Body Lotion,136,INV54579
+2023-11,Bakery,White Bread,50,INV27555
+2023-01,Snacks,Granola Bar,97,INV13689
+2024-01,Snacks,Potato Chips,70,INV92509
+2023-07,Produce,Apples,151,INV36145
+2023-12,Snacks,Popcorn,64,INV99791
+2023-10,Household,Trash Bags,43,INV65655
+2024-06,Produce,Bananas,180,INV96787
+2024-05,Snacks,Granola Bar,193,INV48311
+2023-10,Beverages,Cola,6,INV32796
+2023-01,Snacks,Granola Bar,85,INV46436
+2023-12,Bakery,Banana Bread,20,INV75139
+2023-10,Snacks,Potato Chips,62,INV80089
+2023-05,Household,Dish Soap,87,INV88828
+2023-09,Dairy,Yogurt,70,INV86425
+2023-07,Produce,Carrots,162,INV52382
+2023-09,Beverages,Cola,127,INV76683
+2023-10,Snacks,Popcorn,163,INV90857
+2024-02,Personal Care,Deodorant,18,INV23836
+2023-07,Bakery,Croissant,62,INV86661
+2023-08,Produce,Apples,144,INV94679
+2023-08,Bakery,Croissant,48,INV85460
+2023-10,Snacks,Granola Bar,59,INV33257
+2024-02,Frozen Foods,Ice Cream,64,INV53236
+2023-12,Produce,Carrots,97,INV51904
+2023-12,Frozen Foods,Frozen Veggies,180,INV26537
+2024-06,Produce,Spinach,90,INV13981
+2024-06,Household,Toilet Paper,178,INV20558
+2023-08,Snacks,Popcorn,70,INV90319
+2024-06,Beverages,Green Tea,55,INV64532
+2023-08,Bakery,Banana Bread,97,INV32726
+2024-03,Produce,Spinach,165,INV77947
+2024-01,Household,Trash Bags,97,INV51455
+2023-04,Produce,Spinach,184,INV16986
+2024-04,Dairy,Cheddar Cheese,165,INV61043
+2023-09,Bakery,Bagel,120,INV94491
+2024-05,Bakery,Banana Bread,93,INV88251
+2023-08,Household,Trash Bags,54,INV34742
+2023-10,Produce,Spinach,172,INV33329
+2024-01,Dairy,Butter,168,INV35015
+2024-01,Produce,Apples,69,INV52401
+2024-02,Personal Care,Shampoo,187,INV14041
+2024-05,Dairy,Butter,83,INV43292
+2024-03,Frozen Foods,Frozen Pizza,177,INV90778
+2023-10,Household,Trash Bags,24,INV43858
+2023-03,Snacks,Trail Mix,9,INV48326
+2024-03,Snacks,Potato Chips,56,INV84730
+2023-09,Snacks,Popcorn,154,INV50047
+2023-05,Bakery,Banana Bread,191,INV19281
+2024-06,Dairy,Yogurt,43,INV90468
+2023-03,Personal Care,Body Lotion,82,INV65683
+2023-07,Produce,Apples,179,INV65593
+2023-06,Beverages,Green Tea,89,INV15401
+2023-02,Household,Trash Bags,117,INV37519
+2023-08,Produce,Carrots,164,INV63242
+2024-05,Bakery,Bagel,16,INV81948
+2024-06,Bakery,Croissant,132,INV62861
+2024-04,Personal Care,Toothpaste,76,INV85192
+2023-04,Dairy,Butter,131,INV74430
+2024-05,Household,Toilet Paper,37,INV87337
+2023-07,Beverages,Mineral Water,174,INV10279
+2023-07,Beverages,Green Tea,43,INV15555
+2023-11,Personal Care,Shampoo,143,INV53362
+2024-01,Frozen Foods,Frozen Chicken,86,INV83093
+2024-01,Produce,Carrots,168,INV98577
+2023-10,Snacks,Potato Chips,190,INV24107
+2023-04,Household,Toilet Paper,198,INV97488
+2023-09,Frozen Foods,Frozen Veggies,72,INV30104
+2024-03,Dairy,Cheddar Cheese,185,INV40528
+2023-09,Snacks,Granola Bar,168,INV57427
+2023-10,Beverages,Orange Juice,99,INV43194
+2024-01,Snacks,Popcorn,45,INV72697
+2023-03,Dairy,Milk,38,INV89036
+2024-06,Household,Laundry Detergent,163,INV78753
+2024-01,Produce,Bananas,84,INV69468
+2023-12,Household,Toilet Paper,7,INV59048
+2024-04,Bakery,Croissant,198,INV73715
+2023-11,Frozen Foods,Frozen Veggies,122,INV40641
+2024-01,Personal Care,Body Lotion,185,INV10327
+2024-03,Frozen Foods,Frozen Veggies,159,INV29861
+2024-03,Beverages,Cola,5,INV79662
+2023-12,Produce,Bananas,173,INV35857
+2023-04,Dairy,Cheddar Cheese,55,INV92968
+2023-06,Personal Care,Deodorant,82,INV88398
+2024-04,Beverages,Mineral Water,158,INV25352
+2024-06,Beverages,Mineral Water,12,INV65082
+2024-01,Beverages,Orange Juice,100,INV94612
+2024-03,Snacks,Potato Chips,88,INV64747
+2024-05,Bakery,Croissant,8,INV49858
+2023-05,Bakery,Bagel,13,INV62414
+2023-09,Personal Care,Body Lotion,61,INV10386
+2023-01,Personal Care,Shampoo,149,INV14899
+2024-03,Bakery,White Bread,108,INV26154
+2023-12,Bakery,Croissant,18,INV18576
+2023-12,Produce,Bananas,151,INV64066
+2024-04,Snacks,Potato Chips,94,INV94932
+2023-11,Beverages,Mineral Water,108,INV17853
+2023-06,Personal Care,Shampoo,74,INV82614
+2023-08,Dairy,Butter,143,INV77953
+2023-04,Dairy,Butter,138,INV68322
+2023-11,Frozen Foods,Ice Cream,44,INV26811
+2023-07,Produce,Apples,179,INV68433
+2024-04,Produce,Carrots,172,INV54771
+2024-03,Dairy,Cheddar Cheese,146,INV26734
+2024-06,Dairy,Butter,174,INV20658
+2023-09,Frozen Foods,Frozen Chicken,55,INV83881
+2023-07,Personal Care,Body Lotion,49,INV54369
+2023-04,Dairy,Cheddar Cheese,3,INV54473
+2023-08,Dairy,Cheddar Cheese,173,INV11437
+2023-03,Household,Dish Soap,9,INV17222
+2023-07,Household,Laundry Detergent,193,INV25125
+2024-05,Beverages,Green Tea,107,INV99045
+2023-03,Bakery,White Bread,31,INV77937
+2023-03,Bakery,Banana Bread,63,INV26110
+2024-01,Produce,Bananas,14,INV78493
+2023-05,Household,Toilet Paper,95,INV40621
+2023-02,Frozen Foods,Ice Cream,128,INV25595
+2023-03,Personal Care,Shampoo,97,INV67159
+2024-03,Dairy,Butter,132,INV73682
+2023-12,Beverages,Cola,147,INV68225
+2024-03,Produce,Bananas,115,INV85031
+2023-04,Personal Care,Body Lotion,85,INV88217
+2024-05,Frozen Foods,Frozen Chicken,71,INV21234
+2023-08,Bakery,White Bread,182,INV29171
+2024-02,Snacks,Potato Chips,156,INV51493
+2023-09,Beverages,Orange Juice,128,INV66401
+2024-03,Bakery,Bagel,85,INV60241
+2023-12,Personal Care,Shampoo,75,INV82711
+2023-09,Personal Care,Toothpaste,152,INV36618
+2024-06,Snacks,Trail Mix,125,INV93566
+2024-03,Dairy,Yogurt,28,INV90263
+2024-04,Beverages,Mineral Water,37,INV17375
+2023-04,Household,Toilet Paper,200,INV18796
+2023-02,Personal Care,Toothpaste,12,INV93163
+2023-06,Household,Laundry Detergent,126,INV77914
+2023-01,Personal Care,Toothpaste,78,INV79834
+2023-05,Produce,Spinach,44,INV81483
+2023-02,Household,Trash Bags,37,INV17715
+2023-08,Dairy,Cheddar Cheese,45,INV88915
+2023-01,Personal Care,Body Lotion,109,INV83305
+2024-05,Household,Dish Soap,104,INV25498
+2023-04,Beverages,Orange Juice,93,INV67108
+2023-08,Personal Care,Body Lotion,1,INV76727
+2023-10,Bakery,Bagel,16,INV70428
+2024-05,Bakery,Banana Bread,79,INV68231
+2023-01,Personal Care,Shampoo,187,INV58339
+2023-03,Beverages,Green Tea,101,INV61669
+2023-09,Frozen Foods,Ice Cream,90,INV65829
+2023-02,Personal Care,Shampoo,159,INV40232
+2023-05,Bakery,White Bread,126,INV44440
+2023-07,Frozen Foods,Frozen Veggies,199,INV36127
+2023-07,Snacks,Potato Chips,85,INV98835
+2023-12,Personal Care,Shampoo,48,INV20310
+2023-11,Produce,Apples,183,INV73732
+2023-09,Frozen Foods,Frozen Veggies,9,INV54445
+2023-01,Household,Dish Soap,51,INV32226
+2023-02,Beverages,Green Tea,178,INV14966
+2023-11,Beverages,Cola,120,INV72326
+2023-01,Frozen Foods,Ice Cream,200,INV47681
+2023-06,Bakery,Banana Bread,98,INV13514
+2023-11,Frozen Foods,Frozen Chicken,193,INV81954
+2023-11,Dairy,Butter,161,INV47089
+2024-04,Dairy,Cheddar Cheese,99,INV60529
+2024-04,Personal Care,Shampoo,80,INV45225
+2023-06,Frozen Foods,Frozen Pizza,137,INV73848
+2023-12,Snacks,Granola Bar,1,INV51010
+2023-02,Produce,Spinach,83,INV50651
+2023-01,Personal Care,Toothpaste,8,INV27198
+2023-07,Dairy,Milk,97,INV56473
+2024-01,Snacks,Trail Mix,105,INV38573
+2023-08,Frozen Foods,Frozen Veggies,24,INV51788
+2023-10,Produce,Bananas,38,INV89001
+2024-02,Beverages,Orange Juice,1,INV94065
+2023-07,Frozen Foods,Frozen Veggies,5,INV48599
+2024-05,Produce,Spinach,69,INV11857
+2024-01,Household,Dish Soap,48,INV89130
+2023-07,Dairy,Yogurt,37,INV17046
+2023-02,Dairy,Butter,59,INV60238
+2023-10,Snacks,Popcorn,97,INV94314
+2023-05,Snacks,Granola Bar,118,INV26341
+2024-03,Snacks,Popcorn,115,INV84640
+2024-04,Dairy,Butter,13,INV86347
+2024-06,Dairy,Cheddar Cheese,45,INV98249
+2024-05,Produce,Spinach,115,INV67927
+2023-06,Frozen Foods,Frozen Pizza,74,INV83332
+2023-10,Produce,Apples,60,INV49217
+2023-05,Personal Care,Shampoo,131,INV77894
+2023-12,Snacks,Trail Mix,138,INV39704
+2023-01,Snacks,Potato Chips,87,INV69088
+2023-09,Frozen Foods,Frozen Chicken,189,INV95155
+2023-05,Household,Toilet Paper,138,INV30536
+2023-08,Frozen Foods,Frozen Pizza,19,INV23522
+2023-01,Personal Care,Body Lotion,38,INV89376
+2024-06,Bakery,Croissant,175,INV18853
+2023-11,Household,Trash Bags,30,INV41133
+2023-09,Beverages,Mineral Water,66,INV39670
+2024-05,Personal Care,Body Lotion,145,INV18741
+2023-05,Dairy,Yogurt,197,INV25252
+2024-02,Snacks,Trail Mix,142,INV99316
+2023-06,Produce,Carrots,80,INV78779
+2023-12,Produce,Spinach,147,INV24952
+2023-07,Household,Toilet Paper,56,INV34628
+2023-01,Beverages,Orange Juice,97,INV60006
+2023-11,Dairy,Butter,171,INV81138
+2023-05,Personal Care,Toothpaste,47,INV25637
+2024-05,Snacks,Granola Bar,33,INV11143
+2023-03,Personal Care,Body Lotion,179,INV81607
+2023-03,Personal Care,Deodorant,190,INV16755
+2023-02,Household,Trash Bags,107,INV55476
+2024-06,Household,Trash Bags,91,INV61825
+2023-04,Personal Care,Toothpaste,53,INV69887
+2023-06,Produce,Carrots,71,INV61690
+2023-08,Frozen Foods,Frozen Pizza,163,INV89882
+2023-08,Household,Laundry Detergent,77,INV67536
+2023-04,Beverages,Cola,190,INV48802
+2023-10,Bakery,Bagel,195,INV50367
+2023-09,Personal Care,Deodorant,36,INV72792
+2023-03,Bakery,Banana Bread,126,INV71689
+2023-10,Personal Care,Body Lotion,43,INV31060
+2024-06,Frozen Foods,Frozen Chicken,194,INV39518
+2024-06,Beverages,Green Tea,108,INV91492
+2023-12,Snacks,Popcorn,55,INV99624
+2023-07,Dairy,Milk,76,INV50250
+2024-06,Snacks,Popcorn,132,INV39631
+2023-08,Produce,Bananas,94,INV83732
+2023-02,Personal Care,Shampoo,141,INV88523
+2023-01,Beverages,Cola,75,INV89829
+2023-04,Frozen Foods,Frozen Chicken,140,INV57457
+2023-12,Produce,Carrots,182,INV89279
+2024-03,Produce,Spinach,37,INV97948
+2023-10,Personal Care,Toothpaste,162,INV45667
+2024-06,Produce,Bananas,134,INV12173
+2024-05,Personal Care,Deodorant,195,INV84112
+2023-06,Household,Toilet Paper,93,INV85168
+2023-08,Produce,Apples,27,INV87223
+2023-08,Snacks,Popcorn,164,INV69604
+2023-03,Frozen Foods,Frozen Veggies,26,INV45454
+2023-09,Household,Toilet Paper,163,INV50200
+2023-07,Produce,Bananas,32,INV26067
+2023-01,Bakery,White Bread,35,INV92730
+2023-05,Produce,Carrots,185,INV89877
+2024-05,Bakery,White Bread,40,INV27598
+2023-11,Personal Care,Toothpaste,116,INV61788
+2024-03,Produce,Apples,153,INV32621
+2023-09,Beverages,Orange Juice,131,INV29100
+2023-02,Household,Trash Bags,118,INV71283
+2023-09,Beverages,Mineral Water,171,INV41812
+2024-05,Produce,Carrots,122,INV77886
+2024-01,Beverages,Green Tea,100,INV58079
+2024-02,Frozen Foods,Frozen Pizza,135,INV66304
+2024-04,Personal Care,Body Lotion,31,INV54129
+2024-04,Produce,Bananas,104,INV28436
+2023-09,Personal Care,Toothpaste,88,INV31249
+2023-09,Produce,Apples,170,INV19527
+2023-06,Personal Care,Body Lotion,100,INV15201
+2024-05,Household,Toilet Paper,37,INV62214
+2023-09,Produce,Spinach,93,INV92242
+2024-02,Bakery,Croissant,158,INV69287
+2023-08,Household,Dish Soap,109,INV88068
+2023-07,Frozen Foods,Frozen Pizza,139,INV23141
+2024-03,Snacks,Popcorn,114,INV97801
+2023-12,Produce,Bananas,23,INV90636
+2023-12,Household,Trash Bags,97,INV43362
+2023-07,Produce,Carrots,128,INV99173
+2023-09,Dairy,Milk,174,INV72833
+2023-06,Dairy,Yogurt,142,INV63693
+2024-06,Household,Laundry Detergent,51,INV84543
+2023-01,Personal Care,Body Lotion,154,INV34566
+2023-02,Snacks,Trail Mix,193,INV30093
+2024-01,Household,Laundry Detergent,60,INV11892
+2023-10,Personal Care,Toothpaste,54,INV75538
+2024-05,Snacks,Popcorn,104,INV10605
+2023-01,Dairy,Milk,80,INV77093
+2023-12,Personal Care,Body Lotion,68,INV40289
+2023-08,Beverages,Green Tea,10,INV49206
+2023-07,Beverages,Green Tea,41,INV47069
+2023-10,Dairy,Yogurt,142,INV88017
+2023-07,Bakery,Bagel,3,INV10795
+2023-02,Household,Laundry Detergent,73,INV41055
+2023-04,Household,Laundry Detergent,112,INV84521
+2023-02,Household,Trash Bags,77,INV21556
+2023-11,Household,Trash Bags,140,INV22456
+2023-12,Produce,Spinach,164,INV81002
+2023-07,Bakery,White Bread,160,INV57518
+2023-09,Household,Toilet Paper,61,INV56637
+2023-07,Dairy,Milk,135,INV67590
+2024-01,Dairy,Milk,184,INV69688
+2024-03,Frozen Foods,Frozen Veggies,82,INV44249
+2023-01,Beverages,Cola,38,INV65567
+2023-06,Personal Care,Shampoo,199,INV79799
+2023-02,Bakery,White Bread,52,INV48422
+2023-11,Beverages,Orange Juice,15,INV33479
+2023-11,Produce,Carrots,152,INV48890
+2023-04,Personal Care,Deodorant,79,INV12336
+2023-07,Dairy,Cheddar Cheese,155,INV44302
+2023-07,Personal Care,Deodorant,180,INV13983
+2023-05,Dairy,Milk,14,INV43362
+2024-04,Dairy,Yogurt,69,INV81339
+2023-03,Produce,Apples,67,INV60974
+2024-01,Dairy,Yogurt,112,INV91793
+2024-01,Beverages,Orange Juice,56,INV52080
+2024-03,Snacks,Trail Mix,40,INV57458
+2024-06,Household,Laundry Detergent,163,INV43021
+2023-05,Bakery,Banana Bread,22,INV71321
+2023-09,Produce,Bananas,51,INV72508
+2023-03,Produce,Apples,170,INV22425
+2023-05,Bakery,Croissant,33,INV40522
+2024-05,Snacks,Granola Bar,68,INV16034
+2023-01,Snacks,Popcorn,182,INV13547
+2023-06,Household,Toilet Paper,57,INV78668
+2023-03,Personal Care,Toothpaste,4,INV22421
+2023-03,Beverages,Green Tea,128,INV62026
+2023-06,Personal Care,Shampoo,54,INV72881
+2023-10,Personal Care,Deodorant,197,INV62556
+2023-12,Frozen Foods,Frozen Chicken,86,INV20849
+2024-06,Frozen Foods,Frozen Chicken,76,INV60931
+2023-10,Dairy,Cheddar Cheese,98,INV17108
+2024-04,Dairy,Butter,197,INV84284
+2023-07,Frozen Foods,Frozen Veggies,101,INV72608
+2023-10,Household,Laundry Detergent,123,INV98322
+2024-02,Snacks,Potato Chips,131,INV35249
+2024-03,Produce,Spinach,87,INV56471
+2024-01,Bakery,Croissant,10,INV41409
+2023-02,Dairy,Butter,180,INV21936
+2024-01,Snacks,Trail Mix,133,INV85396
+2024-05,Dairy,Yogurt,116,INV77085
+2023-09,Beverages,Green Tea,97,INV61530
+2023-05,Bakery,Croissant,143,INV11985
+2023-11,Beverages,Orange Juice,17,INV97014
+2023-06,Beverages,Orange Juice,103,INV19944
+2023-07,Snacks,Granola Bar,36,INV24806
+2023-05,Personal Care,Toothpaste,55,INV47865
+2024-01,Snacks,Potato Chips,190,INV43536
+2023-11,Bakery,Banana Bread,141,INV86707
+2023-01,Snacks,Potato Chips,128,INV59644
+2023-12,Bakery,Bagel,157,INV66599
+2024-06,Beverages,Green Tea,107,INV64868
+2023-04,Snacks,Granola Bar,94,INV40151
+2024-01,Beverages,Orange Juice,189,INV37075
+2023-06,Frozen Foods,Frozen Veggies,28,INV46856
+2023-08,Frozen Foods,Frozen Veggies,44,INV71728
+2024-05,Personal Care,Body Lotion,196,INV64881
+2023-02,Produce,Bananas,173,INV40895
+2024-03,Personal Care,Shampoo,172,INV13282
+2024-02,Snacks,Trail Mix,145,INV95210
+2023-12,Produce,Bananas,150,INV36915
+2023-02,Bakery,Croissant,7,INV87150
+2024-02,Personal Care,Shampoo,66,INV81661
+2024-01,Frozen Foods,Ice Cream,198,INV81526
+2023-01,Household,Trash Bags,174,INV63385
+2023-06,Household,Dish Soap,133,INV48091
+2023-12,Household,Dish Soap,130,INV52701
+2023-08,Snacks,Trail Mix,125,INV68865
+2024-01,Household,Trash Bags,175,INV28550
+2023-09,Personal Care,Deodorant,196,INV32375
+2023-08,Beverages,Mineral Water,113,INV52366
+2024-02,Snacks,Trail Mix,118,INV62966
+2023-03,Household,Laundry Detergent,40,INV93358
+2024-02,Personal Care,Deodorant,58,INV64247
+2024-01,Beverages,Orange Juice,114,INV66176
+2024-04,Personal Care,Deodorant,17,INV53497
+2024-03,Produce,Carrots,122,INV28823
+2024-02,Dairy,Cheddar Cheese,16,INV55985
+2023-07,Beverages,Orange Juice,122,INV85491
+2023-12,Personal Care,Shampoo,192,INV91637
+2023-06,Personal Care,Deodorant,154,INV68247
+2024-05,Dairy,Milk,193,INV82436
+2024-05,Personal Care,Deodorant,198,INV80580
+2024-01,Frozen Foods,Frozen Chicken,140,INV36255
+2023-04,Bakery,Bagel,174,INV81056
+2023-06,Frozen Foods,Frozen Chicken,39,INV60639
+2023-02,Household,Toilet Paper,194,INV29759
+2023-01,Snacks,Potato Chips,35,INV19664
+2023-07,Snacks,Popcorn,153,INV17351
+2024-03,Bakery,Banana Bread,131,INV54112
+2023-04,Beverages,Green Tea,119,INV48612
+2023-08,Snacks,Popcorn,63,INV38684
+2023-03,Bakery,Bagel,13,INV46847
+2023-07,Snacks,Granola Bar,198,INV47655
+2023-12,Snacks,Granola Bar,107,INV87525
+2023-08,Snacks,Trail Mix,42,INV35078
+2023-01,Frozen Foods,Frozen Veggies,40,INV13708
+2024-05,Beverages,Cola,18,INV50573
+2023-12,Beverages,Green Tea,190,INV74200
+2023-04,Bakery,Banana Bread,4,INV10660
+2023-12,Snacks,Potato Chips,37,INV28414
+2023-04,Household,Toilet Paper,13,INV64622
+2024-04,Snacks,Trail Mix,146,INV62474
+2024-04,Snacks,Potato Chips,31,INV73192
+2024-02,Snacks,Trail Mix,7,INV97011
+2024-01,Snacks,Trail Mix,189,INV34001
+2023-09,Bakery,Banana Bread,128,INV60590
+2023-09,Bakery,Bagel,74,INV52729
+2023-07,Bakery,White Bread,173,INV69086
+2024-02,Produce,Apples,20,INV26493
+2023-11,Dairy,Cheddar Cheese,59,INV33620
+2023-02,Bakery,Bagel,84,INV88478
+2023-12,Personal Care,Deodorant,184,INV67565
+2024-03,Snacks,Granola Bar,23,INV65220
+2023-12,Produce,Carrots,75,INV77120
+2023-01,Beverages,Orange Juice,26,INV11058
+2024-01,Beverages,Green Tea,194,INV59964
+2023-10,Dairy,Cheddar Cheese,196,INV57954
+2024-06,Snacks,Popcorn,123,INV69528
+2024-06,Snacks,Trail Mix,147,INV83283
+2023-03,Frozen Foods,Frozen Veggies,152,INV76762
+2023-11,Snacks,Potato Chips,59,INV36780
+2024-03,Snacks,Granola Bar,129,INV90801
+2024-05,Snacks,Popcorn,63,INV39672
+2024-06,Personal Care,Toothpaste,186,INV92026
+2023-04,Snacks,Granola Bar,196,INV25048
+2023-11,Snacks,Granola Bar,21,INV32943
+2023-09,Dairy,Milk,41,INV29318
+2024-01,Snacks,Trail Mix,138,INV94522
+2024-04,Household,Dish Soap,70,INV97486
+2023-03,Frozen Foods,Frozen Pizza,193,INV94124
+2023-06,Bakery,Bagel,18,INV53052
+2024-03,Frozen Foods,Frozen Chicken,187,INV68675
+2023-12,Bakery,Bagel,158,INV80400
+2024-03,Beverages,Mineral Water,76,INV75412
+2024-04,Beverages,Cola,2,INV68553
+2024-03,Bakery,Bagel,182,INV36953
+2024-01,Frozen Foods,Frozen Pizza,190,INV33696
+2024-02,Household,Toilet Paper,52,INV66359
+2023-07,Beverages,Green Tea,86,INV19173
+2024-04,Beverages,Cola,134,INV22281
+2023-11,Household,Laundry Detergent,197,INV43635
+2023-04,Produce,Spinach,58,INV16450
+2023-06,Dairy,Yogurt,160,INV13344
+2023-01,Snacks,Popcorn,97,INV80670
+2023-06,Household,Laundry Detergent,35,INV26857
+2024-05,Bakery,White Bread,49,INV61629
+2023-04,Dairy,Milk,145,INV52090
+2023-06,Personal Care,Toothpaste,61,INV90587
+2023-07,Frozen Foods,Frozen Pizza,87,INV99992
+2023-08,Beverages,Green Tea,68,INV29770
+2023-02,Dairy,Cheddar Cheese,81,INV14374
+2024-06,Snacks,Potato Chips,181,INV24333
+2023-06,Beverages,Cola,36,INV93399
+2024-04,Snacks,Popcorn,6,INV41621
+2023-05,Beverages,Green Tea,3,INV15628
+2023-06,Produce,Carrots,70,INV76310
+2024-01,Dairy,Milk,134,INV28114
+2024-02,Household,Laundry Detergent,1,INV93607
+2023-11,Produce,Bananas,177,INV32510
+2023-05,Household,Trash Bags,69,INV28726
+2024-03,Bakery,White Bread,93,INV86103
+2023-10,Frozen Foods,Ice Cream,92,INV19109
+2024-04,Beverages,Mineral Water,150,INV70080
+2023-03,Dairy,Butter,3,INV22367
+2024-06,Produce,Apples,2,INV26787
+2023-08,Dairy,Butter,91,INV67419
+2023-01,Produce,Bananas,102,INV78037
+2023-10,Frozen Foods,Frozen Veggies,68,INV88472
+2023-08,Frozen Foods,Frozen Chicken,165,INV21696
+2023-03,Produce,Bananas,124,INV21891
+2024-03,Dairy,Cheddar Cheese,5,INV31050
+2024-04,Frozen Foods,Ice Cream,137,INV58367
+2023-08,Dairy,Yogurt,34,INV73771
+2024-01,Snacks,Popcorn,103,INV24451
+2024-04,Frozen Foods,Frozen Pizza,2,INV21012
+2023-05,Household,Trash Bags,74,INV35783
+2023-07,Dairy,Yogurt,127,INV43869
+2023-02,Snacks,Popcorn,108,INV77273
+2024-01,Produce,Bananas,168,INV92284
+2023-02,Produce,Apples,89,INV41711
+2024-01,Frozen Foods,Frozen Pizza,125,INV79694
+2023-03,Personal Care,Toothpaste,200,INV15697
+2023-04,Personal Care,Body Lotion,193,INV71801
+2023-01,Snacks,Granola Bar,189,INV93501
+2023-03,Personal Care,Deodorant,147,INV35917
+2023-06,Beverages,Green Tea,132,INV24953
+2023-08,Snacks,Granola Bar,65,INV25587
+2023-12,Dairy,Milk,120,INV11978
+2024-06,Snacks,Trail Mix,20,INV53071
+2023-02,Snacks,Potato Chips,185,INV46051
+2024-06,Bakery,Banana Bread,97,INV52807
+2023-06,Bakery,White Bread,40,INV85495
+2023-05,Frozen Foods,Frozen Chicken,6,INV87895
+2024-02,Snacks,Trail Mix,41,INV39228
+2023-10,Household,Laundry Detergent,153,INV29950
+2024-03,Frozen Foods,Frozen Pizza,17,INV93994
+2023-01,Beverages,Green Tea,156,INV12332
+2024-06,Dairy,Butter,23,INV52849
+2023-07,Personal Care,Deodorant,199,INV46035
+2024-03,Frozen Foods,Frozen Veggies,13,INV31018
+2023-06,Beverages,Green Tea,113,INV91507
+2023-08,Dairy,Yogurt,36,INV13562
+2023-03,Produce,Bananas,73,INV99372
+2023-05,Personal Care,Deodorant,143,INV14143
+2023-11,Personal Care,Toothpaste,93,INV63109
+2024-02,Personal Care,Body Lotion,114,INV62526
+2023-08,Bakery,White Bread,159,INV61769
+2024-03,Bakery,Bagel,104,INV30957
+2023-03,Snacks,Popcorn,155,INV46442
+2023-12,Personal Care,Shampoo,191,INV14040
+2024-04,Bakery,Croissant,56,INV56073
+2024-04,Bakery,Croissant,24,INV44274
+2023-10,Frozen Foods,Frozen Veggies,59,INV32500
+2023-11,Beverages,Cola,182,INV29448
+2023-11,Household,Trash Bags,123,INV52769
+2024-03,Beverages,Green Tea,36,INV40524
+2024-06,Bakery,Bagel,120,INV68391
+2023-05,Snacks,Popcorn,192,INV71504
+2023-07,Personal Care,Body Lotion,160,INV38522
+2023-03,Produce,Bananas,98,INV46217
+2024-02,Frozen Foods,Frozen Chicken,86,INV98954
+2023-05,Beverages,Mineral Water,167,INV59237
+2024-05,Bakery,Croissant,51,INV78944
+2023-07,Household,Dish Soap,55,INV54055
+2023-12,Bakery,Bagel,76,INV53983
+2023-10,Household,Laundry Detergent,4,INV49972
+2023-02,Produce,Carrots,50,INV96556
+2023-04,Produce,Bananas,191,INV85344
+2023-04,Household,Dish Soap,28,INV77489
+2023-02,Household,Laundry Detergent,14,INV51858
+2023-06,Dairy,Butter,37,INV73942
+2023-01,Frozen Foods,Frozen Veggies,151,INV51302
+2024-06,Beverages,Cola,104,INV92403
+2024-06,Bakery,Bagel,58,INV14305
+2023-04,Beverages,Green Tea,95,INV93220
+2023-06,Produce,Carrots,188,INV37757
+2023-06,Snacks,Popcorn,59,INV71996
+2023-01,Dairy,Butter,74,INV76460
+2023-09,Beverages,Mineral Water,82,INV69817
+2024-06,Personal Care,Toothpaste,108,INV34888
+2023-10,Personal Care,Toothpaste,15,INV88335
+2024-03,Bakery,Banana Bread,132,INV63585
+2024-04,Personal Care,Deodorant,131,INV76922
+2023-09,Beverages,Cola,177,INV75702
+2023-08,Household,Toilet Paper,140,INV90441
+2023-10,Frozen Foods,Ice Cream,61,INV98942
+2023-10,Dairy,Yogurt,75,INV17250
+2024-03,Produce,Spinach,104,INV57382
+2023-01,Bakery,Bagel,188,INV45297
+2024-05,Personal Care,Toothpaste,170,INV12984
+2024-03,Snacks,Granola Bar,7,INV70747
+2023-05,Frozen Foods,Ice Cream,166,INV96236
+2023-11,Beverages,Mineral Water,168,INV25212
+2023-12,Bakery,Bagel,185,INV60905
+2023-10,Beverages,Orange Juice,147,INV38234
+2023-04,Frozen Foods,Frozen Chicken,160,INV93042
+2023-08,Personal Care,Body Lotion,130,INV45686
+2023-03,Beverages,Cola,158,INV61444
+2023-05,Dairy,Yogurt,92,INV30096
+2023-02,Snacks,Granola Bar,125,INV27139
+2024-05,Beverages,Green Tea,132,INV29201
+2023-07,Household,Laundry Detergent,13,INV12117
+2023-09,Bakery,White Bread,48,INV51824
+2024-05,Personal Care,Deodorant,19,INV57608
+2024-01,Bakery,Bagel,21,INV78657
+2023-04,Frozen Foods,Frozen Pizza,19,INV46837
+2023-09,Produce,Apples,64,INV47632
+2023-03,Frozen Foods,Frozen Pizza,123,INV60775
+2023-03,Bakery,Bagel,11,INV45931
+2023-04,Household,Toilet Paper,22,INV27743
+2023-12,Frozen Foods,Frozen Chicken,14,INV12583
+2024-06,Frozen Foods,Frozen Pizza,99,INV58410
+2023-11,Produce,Bananas,85,INV88441
+2024-04,Household,Dish Soap,67,INV51443
+2023-11,Snacks,Popcorn,27,INV20227
+2023-01,Personal Care,Toothpaste,53,INV28674
+2023-04,Household,Laundry Detergent,71,INV35182
+2023-05,Personal Care,Deodorant,80,INV99770
+2023-04,Produce,Spinach,78,INV47925
+2023-11,Dairy,Butter,38,INV12006
+2023-04,Dairy,Cheddar Cheese,168,INV75032
+2023-10,Snacks,Potato Chips,154,INV82458
+2023-12,Bakery,Banana Bread,88,INV72703
+2023-02,Personal Care,Toothpaste,113,INV49781
+2023-11,Beverages,Green Tea,35,INV37038
+2023-05,Snacks,Granola Bar,198,INV67343
+2023-04,Dairy,Yogurt,139,INV14907
+2024-02,Produce,Spinach,71,INV41691
+2023-08,Frozen Foods,Frozen Pizza,175,INV51265
+2023-09,Household,Laundry Detergent,181,INV24339
+2023-07,Frozen Foods,Frozen Veggies,92,INV57389
+2024-02,Frozen Foods,Frozen Pizza,166,INV99407
+2023-06,Snacks,Granola Bar,27,INV27216
+2023-06,Dairy,Yogurt,13,INV94381
+2024-03,Dairy,Butter,69,INV80261
+2023-10,Bakery,Banana Bread,149,INV88024
+2023-06,Bakery,Banana Bread,34,INV30596
+2024-01,Dairy,Butter,100,INV54937
+2023-06,Snacks,Granola Bar,166,INV68350
+2024-06,Personal Care,Shampoo,88,INV84762
+2024-03,Bakery,White Bread,65,INV11827
+2023-03,Snacks,Popcorn,163,INV73824
+2023-09,Dairy,Milk,22,INV40978
+2023-12,Dairy,Cheddar Cheese,50,INV75785
+2023-10,Produce,Spinach,129,INV36128
+2023-12,Household,Trash Bags,26,INV32665
+2023-06,Personal Care,Shampoo,91,INV22362
+2024-04,Household,Dish Soap,196,INV26278
+2024-01,Produce,Spinach,112,INV47888
+2024-05,Snacks,Trail Mix,26,INV89869
+2024-03,Frozen Foods,Ice Cream,82,INV28288
+2023-07,Produce,Apples,124,INV15573
+2023-03,Bakery,Bagel,60,INV36871
+2023-03,Bakery,Croissant,110,INV35192
+2024-02,Bakery,Croissant,76,INV20995
+2023-11,Snacks,Potato Chips,9,INV60290
+2024-02,Frozen Foods,Frozen Veggies,15,INV22482
+2024-06,Household,Laundry Detergent,68,INV69169
+2023-11,Bakery,Croissant,90,INV57483
+2023-10,Frozen Foods,Ice Cream,63,INV80497
+2023-12,Produce,Apples,101,INV27129
+2023-08,Frozen Foods,Frozen Veggies,114,INV97941
+2023-11,Personal Care,Deodorant,68,INV92026
+2023-04,Snacks,Popcorn,66,INV62449
+2024-05,Produce,Spinach,56,INV18882
+2023-10,Beverages,Orange Juice,145,INV86234
+2024-05,Personal Care,Body Lotion,74,INV56971
+2023-11,Household,Trash Bags,197,INV19906
+2023-11,Bakery,Banana Bread,98,INV52925
+2023-08,Frozen Foods,Frozen Pizza,20,INV22878
+2023-08,Frozen Foods,Frozen Chicken,70,INV53999
+2023-12,Personal Care,Body Lotion,60,INV21424
+2023-12,Snacks,Potato Chips,143,INV21734
+2023-03,Bakery,Bagel,90,INV75351
+2023-10,Bakery,Bagel,125,INV79971
+2023-11,Household,Laundry Detergent,174,INV21204
+2023-01,Beverages,Orange Juice,12,INV37060
+2024-05,Beverages,Orange Juice,45,INV68608
+2023-11,Dairy,Yogurt,125,INV31711
+2023-05,Beverages,Cola,199,INV27705
+2023-03,Beverages,Mineral Water,43,INV94547
+2023-06,Dairy,Butter,2,INV97365
+2024-04,Snacks,Granola Bar,123,INV96141
+2023-08,Personal Care,Deodorant,7,INV97696
+2023-02,Produce,Apples,193,INV70988
+2024-02,Household,Laundry Detergent,136,INV64905
+2024-05,Beverages,Mineral Water,10,INV25036
+2023-09,Snacks,Potato Chips,32,INV20582
+2023-05,Dairy,Cheddar Cheese,93,INV47473
+2023-11,Frozen Foods,Ice Cream,52,INV37000
+2023-11,Snacks,Popcorn,187,INV20424
+2023-11,Beverages,Cola,89,INV33554
+2023-06,Household,Laundry Detergent,164,INV90909
+2023-01,Snacks,Popcorn,33,INV63826
+2024-01,Snacks,Granola Bar,189,INV45203
+2023-10,Bakery,Croissant,66,INV45296
+2023-01,Bakery,White Bread,27,INV45970
+2023-04,Snacks,Popcorn,134,INV72371
+2023-12,Dairy,Milk,14,INV49953
+2023-07,Dairy,Cheddar Cheese,189,INV49457
+2023-02,Snacks,Trail Mix,196,INV46975
+2023-09,Personal Care,Toothpaste,29,INV64054
+2023-12,Snacks,Popcorn,111,INV44140
+2024-06,Produce,Bananas,94,INV64272
+2023-04,Snacks,Trail Mix,106,INV18142
+2024-02,Personal Care,Shampoo,45,INV12603
+2024-01,Bakery,White Bread,80,INV10392
+2024-01,Household,Toilet Paper,200,INV37581
+2023-01,Produce,Apples,135,INV44609
+2024-06,Beverages,Green Tea,105,INV80101
+2024-05,Beverages,Cola,22,INV36932
+2023-09,Snacks,Potato Chips,96,INV77260
+2024-05,Household,Toilet Paper,164,INV92345
+2023-12,Beverages,Orange Juice,180,INV34427
+2023-03,Dairy,Butter,113,INV60288
+2024-06,Dairy,Milk,75,INV87159
+2023-02,Produce,Apples,151,INV43817
+2024-06,Produce,Carrots,106,INV44305
+2023-06,Beverages,Mineral Water,105,INV46905
+2023-09,Produce,Bananas,182,INV24505
+2023-02,Beverages,Orange Juice,30,INV56964
+2024-04,Frozen Foods,Frozen Veggies,122,INV88863
+2023-04,Household,Dish Soap,108,INV82163
+2023-05,Produce,Spinach,136,INV31411
+2023-07,Beverages,Cola,138,INV39577
+2023-04,Personal Care,Body Lotion,178,INV22684
+2023-07,Bakery,Croissant,118,INV18518
+2023-06,Snacks,Popcorn,87,INV22566
+2023-12,Frozen Foods,Frozen Chicken,166,INV33375
+2024-03,Bakery,Croissant,144,INV58904
+2024-01,Bakery,White Bread,33,INV14427
+2023-10,Beverages,Cola,174,INV17671
+2024-05,Household,Dish Soap,185,INV80562
+2023-12,Produce,Carrots,168,INV99156
+2023-10,Snacks,Granola Bar,35,INV53555
+2023-08,Personal Care,Shampoo,23,INV49814
+2023-09,Personal Care,Shampoo,185,INV34438
+2023-10,Bakery,White Bread,166,INV55571
+2023-10,Bakery,White Bread,101,INV55745
+2023-10,Bakery,Bagel,63,INV54669
+2024-04,Frozen Foods,Frozen Veggies,200,INV42394
+2023-07,Dairy,Yogurt,3,INV83176
+2024-03,Personal Care,Toothpaste,134,INV65053
+2024-05,Snacks,Granola Bar,141,INV64973
+2024-05,Snacks,Potato Chips,6,INV36442
+2023-05,Personal Care,Deodorant,61,INV80571
+2024-06,Beverages,Mineral Water,175,INV40297
+2024-03,Snacks,Granola Bar,57,INV77730
+2023-10,Dairy,Butter,164,INV45314
+2023-07,Personal Care,Body Lotion,95,INV84355
+2023-12,Personal Care,Shampoo,92,INV83324
+2023-06,Beverages,Mineral Water,47,INV89297
+2023-07,Household,Trash Bags,155,INV96965
+2023-12,Household,Toilet Paper,178,INV41422
+2023-03,Snacks,Trail Mix,97,INV31229
+2024-01,Household,Trash Bags,98,INV43427
+2023-05,Dairy,Butter,13,INV77844
+2024-04,Household,Dish Soap,141,INV70945
+2024-04,Personal Care,Body Lotion,141,INV65978
+2023-09,Bakery,Croissant,91,INV93923
+2023-12,Dairy,Cheddar Cheese,142,INV85752
+2024-06,Snacks,Potato Chips,126,INV40426
+2023-06,Beverages,Orange Juice,46,INV38238
+2024-01,Bakery,Bagel,68,INV54546
+2023-05,Personal Care,Body Lotion,171,INV65996
+2024-06,Frozen Foods,Frozen Chicken,109,INV23843
+2024-04,Snacks,Granola Bar,106,INV20166
+2024-04,Beverages,Orange Juice,170,INV46361
+2023-05,Dairy,Cheddar Cheese,32,INV40654
+2023-02,Household,Dish Soap,69,INV21823
+2023-01,Dairy,Butter,18,INV32372
+2024-06,Beverages,Cola,32,INV70182
+2024-02,Bakery,Bagel,191,INV36981
+2024-03,Snacks,Granola Bar,107,INV30058
+2023-02,Beverages,Cola,103,INV57413
+2023-02,Bakery,White Bread,196,INV75920
+2024-05,Personal Care,Shampoo,166,INV97735
+2023-06,Dairy,Milk,42,INV50704
+2023-12,Bakery,Croissant,62,INV54890
+2023-04,Beverages,Mineral Water,8,INV80508
+2023-01,Produce,Bananas,114,INV29655
+2024-05,Personal Care,Shampoo,4,INV27033
+2024-04,Frozen Foods,Frozen Chicken,199,INV28214
+2023-06,Bakery,Bagel,177,INV41334
+2023-06,Beverages,Mineral Water,88,INV72892
+2024-03,Personal Care,Toothpaste,143,INV83112
+2023-04,Personal Care,Body Lotion,82,INV42973
+2024-04,Produce,Carrots,105,INV32446
+2023-07,Personal Care,Deodorant,51,INV85186
+2023-09,Personal Care,Body Lotion,21,INV58061
+2024-06,Produce,Spinach,95,INV98387
+2023-11,Snacks,Popcorn,4,INV13958
+2023-12,Personal Care,Shampoo,162,INV12055
+2023-08,Dairy,Butter,111,INV44327
+2024-02,Frozen Foods,Frozen Chicken,25,INV28323
+2023-08,Bakery,White Bread,59,INV29690
+2024-04,Frozen Foods,Frozen Pizza,34,INV10859
+2023-07,Dairy,Butter,107,INV51571
+2024-04,Bakery,White Bread,39,INV65504
+2023-07,Produce,Bananas,166,INV19164
+2023-10,Snacks,Trail Mix,84,INV77132
+2023-01,Personal Care,Toothpaste,117,INV84309
+2023-04,Beverages,Green Tea,117,INV81825
+2023-02,Snacks,Potato Chips,6,INV22403
+2024-04,Snacks,Trail Mix,164,INV86970
+2023-01,Snacks,Trail Mix,1,INV28439
+2024-06,Bakery,White Bread,69,INV68166
+2024-03,Snacks,Popcorn,71,INV97598
+2024-03,Dairy,Butter,160,INV61399
+2023-09,Produce,Apples,1,INV69693
+2024-05,Beverages,Green Tea,36,INV63335
+2023-10,Personal Care,Toothpaste,143,INV71678
+2024-04,Personal Care,Shampoo,65,INV54226
+2023-03,Frozen Foods,Frozen Chicken,159,INV54124
+2024-06,Personal Care,Shampoo,134,INV94342
+2023-07,Produce,Spinach,5,INV95539
+2023-07,Bakery,Croissant,108,INV86830
+2023-01,Household,Toilet Paper,164,INV25347
+2023-11,Household,Trash Bags,93,INV60543
+2023-02,Household,Toilet Paper,33,INV65003
+2024-05,Dairy,Butter,109,INV54739
+2023-05,Snacks,Trail Mix,60,INV81518
+2023-08,Beverages,Mineral Water,161,INV99809
+2023-07,Beverages,Cola,20,INV58736
+2024-06,Dairy,Cheddar Cheese,168,INV25431
+2023-07,Produce,Apples,45,INV27996
+2024-01,Dairy,Cheddar Cheese,157,INV17961
+2023-08,Household,Toilet Paper,153,INV98645
+2024-06,Snacks,Granola Bar,50,INV25957
+2024-05,Dairy,Butter,99,INV32206
+2023-04,Beverages,Mineral Water,171,INV40788
+2024-05,Personal Care,Shampoo,149,INV25092
+2023-01,Dairy,Milk,17,INV73634
+2023-07,Dairy,Milk,118,INV83143
+2023-10,Personal Care,Shampoo,142,INV40937
+2023-12,Dairy,Yogurt,98,INV57995
+2023-12,Beverages,Orange Juice,150,INV93086
+2023-05,Frozen Foods,Frozen Veggies,31,INV79818
+2024-05,Produce,Spinach,180,INV48004
+2023-06,Frozen Foods,Ice Cream,100,INV96032
+2023-03,Household,Dish Soap,139,INV63361
+2024-05,Frozen Foods,Frozen Veggies,51,INV30079
+2023-03,Bakery,Croissant,52,INV39796
+2024-05,Frozen Foods,Frozen Veggies,181,INV85378
+2023-09,Household,Laundry Detergent,115,INV84951
+2023-05,Personal Care,Toothpaste,16,INV51167
+2024-04,Frozen Foods,Frozen Pizza,25,INV11445
+2023-05,Household,Toilet Paper,26,INV88203
+2023-01,Household,Dish Soap,160,INV68508
+2023-02,Produce,Apples,113,INV48880
+2023-11,Dairy,Yogurt,178,INV65755
+2023-07,Beverages,Orange Juice,143,INV38246
+2024-02,Snacks,Popcorn,149,INV31142
+2023-02,Dairy,Cheddar Cheese,46,INV27970
+2023-04,Frozen Foods,Ice Cream,121,INV76490
+2023-04,Personal Care,Shampoo,174,INV72328
+2024-02,Household,Laundry Detergent,45,INV63920
+2023-06,Frozen Foods,Frozen Chicken,13,INV89177
+2023-05,Household,Dish Soap,164,INV20951
+2024-06,Household,Trash Bags,68,INV58062
+2023-02,Bakery,Croissant,199,INV30105
+2024-06,Frozen Foods,Frozen Veggies,37,INV37063
+2024-03,Household,Toilet Paper,14,INV18216
+2023-07,Personal Care,Toothpaste,42,INV11801
+2024-01,Bakery,Bagel,199,INV72510
+2023-07,Dairy,Milk,78,INV80800
+2023-01,Frozen Foods,Frozen Chicken,16,INV40886
+2023-11,Produce,Spinach,66,INV72887
+2024-05,Frozen Foods,Frozen Pizza,180,INV98239
+2024-01,Snacks,Potato Chips,190,INV41237
+2024-06,Personal Care,Deodorant,175,INV65240
+2023-05,Bakery,White Bread,159,INV65627
+2023-07,Bakery,White Bread,23,INV23273
+2023-01,Produce,Carrots,138,INV40110
+2023-12,Dairy,Cheddar Cheese,131,INV79854
+2023-08,Frozen Foods,Ice Cream,138,INV75927
+2023-09,Snacks,Popcorn,80,INV62358
+2023-03,Dairy,Milk,91,INV53544
+2023-07,Household,Dish Soap,56,INV69209
+2023-09,Personal Care,Deodorant,79,INV32451
+2023-04,Dairy,Butter,123,INV52648
+2023-07,Dairy,Yogurt,72,INV39147
+2024-02,Frozen Foods,Frozen Pizza,121,INV26467
+2023-11,Bakery,White Bread,171,INV45530
+2024-01,Produce,Bananas,48,INV28137
+2024-01,Bakery,Bagel,178,INV54473
+2024-04,Dairy,Milk,117,INV61851
+2024-05,Produce,Spinach,87,INV16714
+2023-07,Snacks,Granola Bar,156,INV49196
+2024-04,Household,Toilet Paper,9,INV31786
+2023-04,Beverages,Mineral Water,11,INV88122
+2023-02,Produce,Carrots,55,INV92843
+2024-06,Snacks,Potato Chips,197,INV34943
+2024-06,Snacks,Granola Bar,60,INV99007
+2023-11,Snacks,Granola Bar,155,INV78215
+2024-06,Dairy,Yogurt,105,INV84409
+2023-03,Snacks,Granola Bar,53,INV25791
+2023-09,Produce,Bananas,21,INV44748
+2024-02,Personal Care,Shampoo,69,INV32703
+2023-07,Household,Toilet Paper,175,INV36939
+2023-12,Beverages,Mineral Water,88,INV92604
+2023-03,Bakery,White Bread,158,INV96350
+2024-02,Personal Care,Shampoo,82,INV83243
+2023-02,Household,Toilet Paper,69,INV36835
+2023-10,Dairy,Butter,63,INV84990
+2024-06,Beverages,Orange Juice,54,INV32897
+2023-05,Snacks,Trail Mix,21,INV67943
+2024-02,Household,Toilet Paper,150,INV50716
+2023-02,Bakery,Croissant,122,INV71548
+2023-02,Personal Care,Deodorant,118,INV94453
+2023-03,Frozen Foods,Frozen Chicken,149,INV71821
+2024-05,Snacks,Popcorn,46,INV42705
+2023-10,Beverages,Cola,49,INV33062
+2023-12,Household,Trash Bags,61,INV81899
+2023-11,Frozen Foods,Ice Cream,114,INV21257
+2023-12,Produce,Carrots,34,INV37621
+2023-12,Beverages,Green Tea,9,INV23467
+2024-02,Household,Toilet Paper,63,INV53834
+2023-02,Household,Dish Soap,90,INV91364
+2023-10,Household,Toilet Paper,13,INV35110
+2023-06,Beverages,Green Tea,41,INV84845
+2023-10,Bakery,Croissant,144,INV97360
+2023-07,Bakery,Bagel,101,INV47628
+2023-05,Dairy,Butter,37,INV60296
+2023-07,Produce,Apples,104,INV96372
+2024-01,Snacks,Granola Bar,45,INV42147
+2024-05,Frozen Foods,Ice Cream,150,INV51995
+2023-12,Beverages,Orange Juice,144,INV52589
+2023-05,Household,Laundry Detergent,78,INV55552
+2023-05,Personal Care,Shampoo,193,INV77345
+2023-06,Bakery,Croissant,16,INV42105
+2024-02,Household,Laundry Detergent,171,INV76768
+2023-04,Dairy,Milk,187,INV13970
+2023-10,Household,Laundry Detergent,178,INV22100
+2023-02,Bakery,Banana Bread,5,INV15120
+2023-01,Snacks,Potato Chips,9,INV54636
+2023-01,Snacks,Granola Bar,129,INV60701
+2023-12,Bakery,Banana Bread,145,INV57281
+2024-01,Personal Care,Toothpaste,69,INV47560
+2023-01,Household,Toilet Paper,113,INV78188
+2023-08,Dairy,Butter,145,INV26243
+2023-08,Household,Laundry Detergent,143,INV51811
+2024-04,Frozen Foods,Frozen Veggies,123,INV68372
+2023-01,Snacks,Granola Bar,169,INV62971
+2024-01,Bakery,Banana Bread,136,INV53475
+2024-04,Dairy,Butter,173,INV58273
+2023-05,Personal Care,Deodorant,163,INV87332
+2023-06,Produce,Spinach,74,INV48469
+2023-12,Frozen Foods,Frozen Chicken,125,INV73977
+2023-02,Bakery,Banana Bread,57,INV63188
+2023-02,Household,Trash Bags,6,INV95529
+2024-02,Dairy,Milk,18,INV62219
+2023-08,Bakery,Banana Bread,183,INV65694
+2024-04,Produce,Apples,37,INV89920
+2024-02,Personal Care,Toothpaste,125,INV55861
+2023-10,Beverages,Cola,152,INV14383
+2024-06,Frozen Foods,Ice Cream,121,INV31033
+2023-10,Produce,Bananas,141,INV82688
+2023-07,Beverages,Mineral Water,81,INV87970
+2023-07,Dairy,Cheddar Cheese,88,INV97961
+2023-06,Frozen Foods,Frozen Veggies,71,INV28578
+2024-04,Dairy,Yogurt,48,INV88204
+2023-02,Frozen Foods,Ice Cream,195,INV75135
+2023-08,Frozen Foods,Frozen Chicken,28,INV90539
+2023-09,Personal Care,Toothpaste,71,INV76404
+2023-11,Snacks,Popcorn,27,INV67529
+2023-04,Bakery,Banana Bread,11,INV22576
+2024-06,Dairy,Yogurt,45,INV86156
+2023-12,Personal Care,Body Lotion,86,INV34787
+2023-05,Frozen Foods,Frozen Chicken,46,INV18740
+2023-03,Snacks,Granola Bar,183,INV67394
+2023-09,Household,Toilet Paper,9,INV73488
+2023-08,Snacks,Granola Bar,11,INV26417
+2024-02,Household,Toilet Paper,103,INV74779
+2023-10,Bakery,Banana Bread,69,INV88702
+2023-08,Personal Care,Shampoo,63,INV59458
+2023-01,Frozen Foods,Frozen Chicken,170,INV39556
+2023-09,Bakery,Banana Bread,124,INV16087
+2023-03,Beverages,Cola,172,INV65710
+2023-09,Beverages,Mineral Water,54,INV40069
+2024-05,Bakery,Croissant,142,INV44573
+2023-07,Dairy,Cheddar Cheese,42,INV95394
+2023-06,Snacks,Trail Mix,51,INV98037
+2023-12,Beverages,Mineral Water,93,INV65324
+2023-01,Beverages,Mineral Water,69,INV31352
+2023-12,Frozen Foods,Frozen Pizza,103,INV32998
+2023-01,Frozen Foods,Frozen Veggies,112,INV57034
+2023-07,Produce,Apples,35,INV64362
+2023-01,Snacks,Trail Mix,51,INV74977
+2023-05,Bakery,White Bread,44,INV59961
+2023-04,Household,Dish Soap,113,INV23339
+2023-05,Personal Care,Shampoo,70,INV87742
+2023-12,Dairy,Butter,59,INV61075
+2024-06,Produce,Apples,149,INV54513
+2023-04,Dairy,Milk,158,INV76321
+2023-04,Frozen Foods,Frozen Pizza,17,INV76987
+2024-04,Produce,Carrots,7,INV96757
+2023-03,Household,Dish Soap,181,INV87108
+2024-05,Bakery,White Bread,55,INV39255
+2024-03,Bakery,White Bread,170,INV81524
+2023-03,Household,Toilet Paper,118,INV86923
+2024-02,Bakery,Croissant,72,INV88416
+2024-01,Produce,Bananas,46,INV54438
+2023-08,Personal Care,Toothpaste,120,INV58619
+2023-03,Bakery,White Bread,22,INV42058
+2024-03,Household,Dish Soap,69,INV66390
+2023-05,Snacks,Trail Mix,15,INV80840
+2023-08,Frozen Foods,Frozen Chicken,70,INV49251
+2023-07,Household,Dish Soap,37,INV37925
+2023-06,Snacks,Popcorn,81,INV22291
+2023-01,Dairy,Butter,64,INV86161
+2023-07,Dairy,Yogurt,83,INV74222
+2024-05,Personal Care,Body Lotion,6,INV64908
+2023-07,Bakery,Bagel,35,INV28774
+2023-06,Frozen Foods,Frozen Veggies,41,INV87735
+2024-04,Produce,Carrots,155,INV40496
+2024-02,Household,Toilet Paper,106,INV32570
+2023-06,Beverages,Green Tea,110,INV59760
+2023-12,Bakery,Bagel,141,INV33391
+2024-02,Beverages,Cola,4,INV34567
+2024-02,Beverages,Green Tea,88,INV66288
+2024-04,Produce,Bananas,151,INV59793
+2023-11,Bakery,Croissant,69,INV36564
+2023-10,Snacks,Popcorn,63,INV79721
+2024-06,Household,Dish Soap,24,INV96604
+2024-01,Frozen Foods,Frozen Veggies,99,INV38050
+2023-10,Frozen Foods,Frozen Chicken,181,INV91629
+2023-03,Frozen Foods,Ice Cream,76,INV70588
+2024-01,Personal Care,Deodorant,53,INV17034
+2023-04,Frozen Foods,Frozen Pizza,64,INV26457
+2023-03,Produce,Spinach,12,INV78026
+2023-02,Frozen Foods,Frozen Chicken,135,INV19212
+2023-02,Bakery,White Bread,28,INV42180
+2024-03,Frozen Foods,Frozen Chicken,154,INV76846
+2024-03,Snacks,Trail Mix,109,INV24015
+2023-10,Frozen Foods,Frozen Pizza,46,INV97377
+2024-02,Personal Care,Toothpaste,159,INV56526
+2023-07,Personal Care,Shampoo,7,INV23471
+2023-07,Snacks,Granola Bar,16,INV99399
+2024-05,Bakery,Banana Bread,66,INV81494
+2023-05,Produce,Bananas,27,INV22393
+2023-03,Frozen Foods,Frozen Veggies,124,INV36996
+2023-11,Personal Care,Toothpaste,31,INV38136
+2024-06,Bakery,Bagel,129,INV56215
+2024-03,Produce,Apples,45,INV39160
+2023-01,Produce,Apples,14,INV97888
+2023-10,Produce,Carrots,27,INV46788
+2023-02,Personal Care,Toothpaste,85,INV45290
+2023-07,Beverages,Green Tea,180,INV91425
+2024-05,Produce,Bananas,1,INV79133
+2024-02,Frozen Foods,Frozen Veggies,165,INV75799
+2024-03,Snacks,Popcorn,160,INV72230
+2024-06,Produce,Apples,143,INV80061
+2024-06,Snacks,Granola Bar,57,INV74504
+2023-02,Dairy,Butter,103,INV94774
+2023-01,Beverages,Cola,24,INV36303
+2023-01,Produce,Bananas,198,INV55775
+2023-01,Bakery,Banana Bread,134,INV11485
+2024-06,Bakery,Bagel,184,INV18650
+2023-02,Household,Laundry Detergent,188,INV94282
+2023-02,Dairy,Butter,74,INV54772
+2024-02,Bakery,Croissant,82,INV63888
+2023-11,Frozen Foods,Frozen Chicken,107,INV16141
+2023-01,Frozen Foods,Frozen Pizza,32,INV98778
+2024-05,Produce,Apples,193,INV91615
+2023-06,Household,Toilet Paper,21,INV94183
+2024-02,Dairy,Yogurt,114,INV56209
+2023-09,Bakery,Bagel,61,INV89143
+2024-03,Household,Laundry Detergent,140,INV40874
+2023-03,Frozen Foods,Frozen Veggies,123,INV43596
+2023-10,Frozen Foods,Frozen Veggies,55,INV91996
+2023-10,Frozen Foods,Frozen Chicken,104,INV49667
+2023-12,Household,Trash Bags,51,INV58309
+2024-03,Beverages,Green Tea,130,INV81250
+2023-04,Frozen Foods,Frozen Pizza,85,INV13770
+2024-02,Snacks,Granola Bar,127,INV99996
+2023-02,Personal Care,Shampoo,8,INV19840
+2023-08,Snacks,Granola Bar,195,INV66989
+2023-04,Beverages,Orange Juice,38,INV85550
+2023-02,Bakery,Bagel,41,INV63267
+2023-07,Snacks,Popcorn,191,INV62171
+2023-05,Beverages,Cola,190,INV61500
+2024-04,Household,Laundry Detergent,2,INV36505
+2023-02,Bakery,White Bread,46,INV11540
+2023-05,Frozen Foods,Ice Cream,97,INV89512
+2023-02,Bakery,Bagel,79,INV37278
+2023-09,Snacks,Trail Mix,74,INV64217
+2024-03,Dairy,Yogurt,163,INV59829
+2023-08,Frozen Foods,Ice Cream,101,INV64599
+2023-04,Household,Laundry Detergent,72,INV17454
+2023-10,Dairy,Cheddar Cheese,8,INV43765
+2023-12,Dairy,Yogurt,107,INV63114
+2023-08,Snacks,Granola Bar,20,INV54181
+2023-04,Household,Laundry Detergent,40,INV40609
+2023-02,Household,Toilet Paper,173,INV21849
+2023-06,Dairy,Yogurt,120,INV25641
+2023-02,Produce,Carrots,27,INV37156
+2023-07,Dairy,Milk,97,INV14671
+2024-01,Personal Care,Toothpaste,130,INV15939
+2024-03,Snacks,Trail Mix,183,INV93703
+2023-10,Dairy,Yogurt,95,INV94518
+2023-08,Dairy,Milk,81,INV51328
+2024-02,Dairy,Cheddar Cheese,101,INV92768
+2023-01,Household,Trash Bags,97,INV53286
+2023-06,Beverages,Orange Juice,80,INV18961
+2023-09,Snacks,Trail Mix,126,INV34416
+2024-05,Personal Care,Deodorant,55,INV80204
+2023-05,Produce,Spinach,116,INV32405
+2024-01,Bakery,Bagel,106,INV15463
+2024-06,Household,Dish Soap,185,INV99409
+2023-09,Snacks,Popcorn,88,INV79481
+2024-05,Snacks,Potato Chips,177,INV23341
+2024-06,Snacks,Potato Chips,135,INV88312
+2023-04,Bakery,Croissant,126,INV51579
+2023-02,Beverages,Mineral Water,151,INV41863
+2023-09,Beverages,Mineral Water,95,INV55963
+2023-05,Beverages,Mineral Water,168,INV75025
+2023-08,Bakery,White Bread,115,INV83146
+2024-03,Snacks,Popcorn,21,INV65052
+2023-06,Dairy,Milk,65,INV15281
+2023-09,Produce,Carrots,63,INV52074
+2023-02,Produce,Carrots,149,INV33806
+2024-04,Personal Care,Deodorant,102,INV90013
+2023-11,Beverages,Green Tea,179,INV51651
+2023-06,Beverages,Green Tea,113,INV31839
+2023-07,Household,Laundry Detergent,191,INV59518
+2024-03,Dairy,Cheddar Cheese,27,INV51243
+2024-02,Produce,Spinach,142,INV64836
+2023-03,Personal Care,Toothpaste,170,INV27518
+2023-07,Dairy,Cheddar Cheese,155,INV73209
+2024-06,Snacks,Popcorn,48,INV89735
+2023-01,Frozen Foods,Frozen Veggies,67,INV17576
+2024-03,Frozen Foods,Ice Cream,80,INV13413
+2023-11,Dairy,Butter,11,INV61256
+2024-02,Dairy,Yogurt,170,INV60107
+2024-05,Snacks,Popcorn,118,INV53334
+2024-06,Bakery,Bagel,121,INV18440
+2023-07,Produce,Spinach,92,INV14856
+2024-04,Produce,Spinach,141,INV49484
+2023-01,Dairy,Cheddar Cheese,87,INV91096
+2024-06,Beverages,Mineral Water,125,INV95040
+2023-06,Dairy,Butter,98,INV90786
+2023-05,Beverages,Cola,167,INV94794
+2023-02,Frozen Foods,Frozen Chicken,178,INV70789
+2024-02,Snacks,Potato Chips,194,INV10240
+2023-09,Bakery,Banana Bread,182,INV71383
+2023-10,Beverages,Orange Juice,174,INV33424
+2023-05,Snacks,Potato Chips,163,INV49647
+2023-12,Frozen Foods,Frozen Chicken,151,INV93138
+2024-04,Frozen Foods,Frozen Chicken,145,INV27920
+2023-07,Personal Care,Shampoo,72,INV30563
+2024-02,Dairy,Butter,4,INV42018
+2023-08,Frozen Foods,Frozen Pizza,88,INV92559
+2024-04,Dairy,Cheddar Cheese,154,INV57547
+2023-11,Bakery,Bagel,2,INV47179
+2023-05,Personal Care,Toothpaste,2,INV57178
+2023-12,Household,Dish Soap,101,INV75135
+2024-05,Produce,Spinach,113,INV75061
+2023-05,Dairy,Yogurt,41,INV42743
+2024-03,Produce,Apples,54,INV77368
+2024-05,Household,Trash Bags,115,INV25555
+2023-02,Beverages,Green Tea,123,INV83798
+2023-03,Household,Dish Soap,34,INV71395
+2023-07,Frozen Foods,Frozen Veggies,48,INV14657
+2024-04,Snacks,Trail Mix,70,INV63151
+2023-05,Dairy,Butter,147,INV63604
+2024-05,Household,Dish Soap,106,INV97120
+2024-05,Dairy,Yogurt,123,INV94442
+2023-03,Frozen Foods,Frozen Pizza,112,INV49077
+2024-03,Beverages,Orange Juice,10,INV34052
+2024-01,Bakery,Banana Bread,86,INV97570
+2023-09,Beverages,Mineral Water,94,INV29723
+2023-06,Produce,Apples,198,INV45295
+2023-05,Household,Laundry Detergent,78,INV36926
+2024-06,Snacks,Popcorn,1,INV15089
+2023-01,Dairy,Milk,1,INV40303
+2023-06,Produce,Carrots,126,INV84657
+2023-07,Personal Care,Toothpaste,137,INV36783
+2023-06,Produce,Spinach,68,INV13472
+2023-12,Beverages,Cola,104,INV76047
+2023-03,Bakery,White Bread,108,INV40879
+2023-09,Bakery,White Bread,118,INV54611
+2023-07,Personal Care,Body Lotion,106,INV59198
+2023-02,Produce,Spinach,81,INV56369
+2023-09,Dairy,Yogurt,109,INV86887
+2024-04,Bakery,Banana Bread,125,INV43733
+2023-11,Household,Dish Soap,133,INV55733
+2023-03,Dairy,Cheddar Cheese,6,INV32072
+2023-07,Snacks,Popcorn,72,INV70263
+2023-10,Produce,Carrots,147,INV40232
+2023-10,Dairy,Cheddar Cheese,34,INV49183
+2024-06,Personal Care,Deodorant,152,INV86550
+2023-12,Bakery,White Bread,175,INV32569
+2023-12,Snacks,Potato Chips,83,INV23462
+2024-03,Frozen Foods,Frozen Chicken,99,INV80451
+2023-07,Bakery,Bagel,191,INV90933
+2024-02,Household,Trash Bags,34,INV37760
+2023-04,Household,Trash Bags,141,INV61695
+2024-06,Beverages,Mineral Water,33,INV74281
+2023-10,Produce,Apples,59,INV20597
+2023-05,Dairy,Butter,170,INV74844
+2023-04,Produce,Spinach,101,INV33485
+2024-06,Bakery,Croissant,159,INV10039
+2024-04,Snacks,Popcorn,88,INV85572
+2024-03,Beverages,Mineral Water,54,INV57564
+2024-05,Personal Care,Body Lotion,68,INV36438
+2024-06,Beverages,Orange Juice,89,INV85616
+2023-04,Bakery,Bagel,193,INV83338
+2023-12,Snacks,Trail Mix,182,INV86418
+2024-05,Household,Laundry Detergent,69,INV55998
+2023-11,Household,Dish Soap,183,INV46095
+2023-07,Bakery,Bagel,26,INV43333
+2024-02,Dairy,Cheddar Cheese,177,INV63925
+2024-04,Household,Dish Soap,51,INV20672
+2023-04,Snacks,Granola Bar,11,INV96716
+2024-04,Household,Trash Bags,184,INV98083
+2024-03,Bakery,Banana Bread,43,INV18299
+2023-11,Frozen Foods,Ice Cream,128,INV74875
+2024-01,Bakery,Croissant,171,INV75883
+2023-10,Snacks,Trail Mix,129,INV44674
+2023-03,Dairy,Cheddar Cheese,171,INV33296
+2024-06,Beverages,Cola,65,INV34818
+2023-10,Household,Laundry Detergent,101,INV46980
+2023-03,Beverages,Green Tea,79,INV67718
+2023-02,Personal Care,Toothpaste,99,INV56999
+2024-03,Household,Laundry Detergent,44,INV72475
+2023-10,Bakery,Bagel,4,INV57776
+2023-01,Personal Care,Shampoo,27,INV78137
+2024-04,Bakery,Banana Bread,63,INV17246
+2023-01,Dairy,Milk,130,INV20076
+2023-06,Frozen Foods,Frozen Chicken,56,INV61289
+2024-06,Household,Laundry Detergent,34,INV81651
+2024-06,Snacks,Trail Mix,23,INV29065
+2023-11,Beverages,Orange Juice,159,INV58288
+2024-05,Household,Toilet Paper,86,INV76065
+2023-07,Bakery,Bagel,110,INV66949
+2023-07,Household,Laundry Detergent,151,INV28993
+2023-04,Personal Care,Body Lotion,115,INV53107
+2023-10,Dairy,Milk,193,INV32141
+2024-01,Personal Care,Toothpaste,120,INV88675
+2024-04,Frozen Foods,Ice Cream,53,INV91871
+2024-01,Produce,Spinach,119,INV34848
+2024-01,Frozen Foods,Ice Cream,61,INV17839
+2024-06,Beverages,Mineral Water,106,INV88828
+2023-03,Bakery,Bagel,28,INV28211
+2023-10,Beverages,Cola,146,INV36011
+2023-07,Bakery,White Bread,82,INV53036
+2024-05,Snacks,Potato Chips,96,INV21223
+2023-12,Snacks,Potato Chips,115,INV25541
+2023-02,Bakery,White Bread,53,INV80198
+2024-05,Bakery,Croissant,66,INV34883
+2023-06,Household,Toilet Paper,17,INV75674
+2023-01,Household,Dish Soap,121,INV54901
+2023-09,Household,Trash Bags,50,INV87369
+2024-03,Household,Dish Soap,28,INV98055
+2024-06,Produce,Carrots,143,INV32123
+2024-06,Bakery,Croissant,87,INV92747
+2024-01,Bakery,Croissant,174,INV34599
+2023-03,Beverages,Orange Juice,144,INV39605
+2024-04,Frozen Foods,Ice Cream,112,INV98724
+2023-07,Frozen Foods,Frozen Pizza,149,INV43308
+2023-11,Dairy,Butter,44,INV44306
+2023-01,Dairy,Butter,95,INV36136
+2023-02,Personal Care,Toothpaste,106,INV81191
+2023-04,Beverages,Mineral Water,61,INV82551
+2023-06,Bakery,White Bread,90,INV47716
+2023-12,Personal Care,Toothpaste,191,INV38294
+2023-04,Snacks,Granola Bar,110,INV96606
+2024-06,Snacks,Trail Mix,190,INV41814
+2023-07,Frozen Foods,Frozen Chicken,128,INV71047
+2024-01,Produce,Spinach,55,INV88620
+2023-01,Bakery,Banana Bread,157,INV91278
+2023-04,Produce,Bananas,133,INV92773
+2024-06,Frozen Foods,Frozen Chicken,46,INV79518
+2023-10,Produce,Apples,173,INV43150
+2024-02,Bakery,Bagel,94,INV59664
+2023-06,Produce,Spinach,86,INV23447
+2024-03,Personal Care,Deodorant,29,INV49055
+2023-10,Frozen Foods,Frozen Pizza,190,INV79967
+2023-04,Bakery,White Bread,41,INV43653
+2023-01,Snacks,Trail Mix,109,INV48469
+2023-12,Frozen Foods,Frozen Pizza,163,INV28223
+2024-01,Produce,Spinach,60,INV94351
+2024-06,Snacks,Potato Chips,20,INV68138
+2024-03,Bakery,Croissant,124,INV75683
+2023-02,Frozen Foods,Frozen Veggies,12,INV76068
+2024-05,Bakery,Croissant,7,INV92555
+2023-09,Personal Care,Body Lotion,87,INV67828
+2024-01,Snacks,Trail Mix,171,INV99273
+2024-05,Household,Dish Soap,96,INV73187
+2023-11,Frozen Foods,Ice Cream,169,INV12891
+2024-03,Frozen Foods,Frozen Pizza,29,INV71251
+2023-11,Dairy,Butter,50,INV66079
+2023-06,Frozen Foods,Frozen Chicken,81,INV62974
+2023-04,Produce,Spinach,27,INV53863
+2023-07,Snacks,Granola Bar,118,INV35869
+2023-09,Produce,Apples,164,INV46458
+2024-02,Beverages,Green Tea,174,INV93298
+2023-02,Bakery,Croissant,61,INV72549
+2023-12,Household,Toilet Paper,183,INV30464
+2023-12,Dairy,Yogurt,29,INV16756
+2023-08,Produce,Apples,33,INV33570
+2023-03,Snacks,Potato Chips,21,INV21538
+2024-02,Household,Toilet Paper,154,INV81022
+2024-06,Beverages,Green Tea,133,INV86840
+2023-09,Bakery,Banana Bread,92,INV22643
+2023-02,Personal Care,Body Lotion,50,INV59312
+2023-11,Snacks,Trail Mix,58,INV17124
+2023-08,Dairy,Cheddar Cheese,22,INV94287
+2024-04,Household,Dish Soap,103,INV53064
+2023-03,Frozen Foods,Ice Cream,64,INV83738
+2023-12,Dairy,Yogurt,85,INV84747
+2024-04,Produce,Spinach,53,INV29556
+2023-07,Household,Trash Bags,79,INV54559
+2024-01,Produce,Spinach,89,INV85803
+2023-06,Produce,Bananas,60,INV21855
+2024-06,Household,Trash Bags,140,INV14598
+2023-02,Bakery,Bagel,62,INV94100
+2024-06,Produce,Apples,73,INV11389
+2023-10,Bakery,Croissant,163,INV25889
+2024-02,Produce,Carrots,184,INV54298
+2023-07,Dairy,Cheddar Cheese,73,INV39200
+2023-02,Dairy,Yogurt,163,INV72980
+2023-07,Household,Dish Soap,45,INV13582
+2023-08,Bakery,Croissant,82,INV63975
+2023-11,Produce,Bananas,101,INV45501
+2023-12,Produce,Apples,50,INV16852
+2023-07,Beverages,Orange Juice,17,INV84107
+2023-08,Dairy,Butter,176,INV55303
+2023-09,Snacks,Trail Mix,8,INV61923
+2023-06,Bakery,Banana Bread,144,INV88974
+2023-06,Produce,Carrots,18,INV35651
+2023-10,Frozen Foods,Ice Cream,54,INV22682
+2024-03,Produce,Carrots,97,INV40779
