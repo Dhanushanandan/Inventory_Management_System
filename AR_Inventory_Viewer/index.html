@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>AR.js Milk & Bread Firebase Demo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <!-- A-Frame and AR.js -->
+  <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/AR-js-org/AR.js/aframe/build/aframe-ar.min.js"></script>
+  
+  <!-- Firebase -->
+  <script src="https://www.gstatic.com/firebasejs/9.22.2/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.22.2/firebase-database-compat.js"></script>
+  
+  <style>
+    body { margin: 0; overflow: hidden; }
+    a-scene { width: 100vw; height: 100vh; }
+  </style>
+</head>
+<body>
+
+<a-scene
+  vr-mode-ui="enabled: false"
+  embedded
+  arjs="sourceType: webcam; debugUIEnabled: false;">
+  
+  <!-- Milk Marker -->
+  <a-marker id="milk-marker" type="pattern" url="./markers/milk.patt">
+    <a-box position="0 0.5 0" depth="0.3" height="0.6" width="0.3" material="color: white; opacity: 0.8;"></a-box>
+    <a-text id="milkInfo" value="" align="center" position="0 1 0" color="#000000" side="double" width="2"></a-text>
+  </a-marker>
+
+  <!-- Bread Marker -->
+  <a-marker id="bread-marker" type="pattern" url="./markers/bread.patt">
+    <a-box position="0 0.5 0" depth="0.4" height="0.3" width="0.6" material="color: tan; opacity: 0.8;"></a-box>
+    <a-text id="breadInfo" value="" align="center" position="0 1 0" color="#5A3300" side="double" width="2"></a-text>
+  </a-marker>
+
+  <a-entity camera></a-entity>
+</a-scene>
+
+<script>
+  // Firebase config (replace with your actual config if needed)
+  const firebaseConfig = {
+    apiKey: "AIzaSyB0zhVa_qGrfOLtdt9QMkdtBvTJAwqwsD8",
+    authDomain: "supermarket-inventory-e6ed7.firebaseapp.com",
+    databaseURL: "https://supermarket-inventory-e6ed7-default-rtdb.firebaseio.com",
+    projectId: "supermarket-inventory-e6ed7",
+    storageBucket: "supermarket-inventory-e6ed7.appspot.com",
+    messagingSenderId: "980166513047",
+    appId: "1:980166513047:web:5bf3f72202a5be8a40b4d2",
+    measurementId: "G-2HE3ETGSPE"
+  };
+
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  const db = firebase.database();
+
+  window.addEventListener("DOMContentLoaded", () => {
+    const markers = ["milk-marker", "bread-marker"];
+
+    markers.forEach(markerId => {
+      const marker = document.querySelector(`#${markerId}`);
+      const textId = markerId.replace("-marker", "Info");
+      const info = document.querySelector(`#${textId}`);
+
+      marker.addEventListener("markerFound", () => {
+        const ref = db.ref("products/" + markerId);
+        ref.once("value").then(snapshot => {
+          const data = snapshot.val();
+          if (data) {
+            info.setAttribute("value", `${data.name}\nPrice: $${data.price}\nStock: ${data.quantity}`);
+          } else {
+            info.setAttribute("value", "Product not found");
+          }
+        });
+      });
+
+      marker.addEventListener("markerLost", () => {
+        info.setAttribute("value", "");
+      });
+    });
+  });
+</script>
+
+</body>
+</html>
