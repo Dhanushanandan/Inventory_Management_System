@@ -1,97 +1,46 @@
-Inventory Management System
-An AI-powered Inventory Management System designed to streamline product tracking with Augmented Reality (AR) support, sales analysis, and inventory optimization. This application leverages machine learning models to provide insights into top-selling products and manage combo offers effectively.
+Inventory Management System 🛠️
+An AI-powered Inventory Management System designed to streamline product tracking with Augmented Reality (AR) support, sales analysis, and inventory optimization. This application leverages machine learning to provide insights into top-selling products and manage combo offers effectively.
+📋 Table of Contents
 
-🚀 Features
-🔐 Firebase Authentication – Secure login system.
-
-📦 Inventory Management – Add, update, delete products in real-time.
-
-📈 Sales Forecasting – ML-based predictions for top-selling products and stock quantity needs.
-
-🤝 Combo Offers – AI-generated offers using least- and best-selling product data.
-
-📊 Analytics Dashboard – Visualize demand trends and product performance.
-
-📧 Supplier Alerts – Low stock notifications and email alerts.
-
-🧑‍💻 Admin Interface – Manage inventory, sales, and supplier data.
-
-📱 Customer AR View – Scan AR marker (.patt file) to view product details in 3D AR
-
-🔍 AR Feature for Customers
-Customers can scan a special .patt marker using their mobile devices to view product details through Augmented Reality.
-
-How it Works
-Customer scans marker (.patt file) using their device camera.
-
-AR interface loads the product data from Firebase in real time.
-
-Product details are displayed in 3D, including image, price, and quantity.
-
-AR Supported Tech:
-
-AR.js
-
-A-Frame
-
-
-
-Technologies Used
-Backend: Python, Flask
-
-Frontend: HTML, CSS, JavaScript
-
-Machine Learning: scikit-learn, pandas
-
-Database: Firebase
-
-Others: Jupyter Notebook for model training
-
-Installation
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/Dhanushanandan/Inventory_Management_System.git
-cd Inventory_Management_System
-Create a virtual environment:
-
-bash
-Copy
-Edit
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-Install dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Set up Firebase:
-
-Place your serviceAccountKey.json file in the project root.
-
-Ensure firebase.json and .firebaserc are configured correctly.
-
-Run the application:
-
-bash
-Copy
-Edit
-python app.py
-Access the application at http://localhost:5000.
-
+Overview
+Features
+Technologies
 Project Structure
-plaintext
-Copy
-Edit
+Installation
+AR Feature
+Notifications
+Usage
+Contributing
+License
+
+🌟 Overview
+The Inventory Management System is a modern ERP solution that combines real-time inventory tracking, AI-driven sales forecasting, and AR-based product visualization. Built with Flask and Angular, it integrates Firebase for data storage and authentication, offering a seamless experience for admins and customers.
+✨ Features
+
+🔐 Firebase Authentication: Secure login system for admins and users.
+📦 Inventory Management: Real-time CRUD operations for products.
+📈 Sales Forecasting: ML-based predictions for top-selling products and stock needs.
+🤝 Combo Offers: AI-generated offers combining least- and best-selling products.
+📊 Analytics Dashboard: Visualize demand trends and product performance.
+📧 Supplier Alerts: Automatic notifications for low stock (≤10 units).
+🧑‍💻 Admin Interface: Manage inventory, sales, and supplier data.
+📱 Customer AR View: Scan AR markers (.patt files) to view product details in 3D.
+
+🛠️ Technologies
+
+Backend: Python, Flask
+Frontend: HTML, CSS, JavaScript, AR.js, A-Frame
+Machine Learning: scikit-learn, pandas
+Database: Firebase
+Other: Jupyter Notebook for model training
+
+📂 Project Structure
 Inventory_Management_System/
 ├── AR_Inventory_Viewer/         # Frontend templates and static files
-├── static/                      # Static assets (CSS, JS, images)
+├── static/                      # CSS, JS, images
 ├── templates/                   # HTML templates
 ├── uploads/                     # Uploaded files
-├── model_training.ipynb         # Jupyter Notebook for training ML models
+├── model_training.ipynb         # Jupyter Notebook for ML model training
 ├── model_product_names.pkl      # Serialized model for product names
 ├── model_top_products.pkl       # Serialized model for top products
 ├── combo_offers.csv             # Data for combo offers
@@ -103,57 +52,62 @@ Inventory_Management_System/
 ├── serviceAccountKey.json       # Firebase service account key
 └── README.md                    # Project documentation
 
-🧪 Setup Instructions
-Clone the Repo
+🛠️ Installation
+Follow these steps to set up the project locally:
 
-bash
-Copy
-Edit
+Clone the Repository:
 git clone https://github.com/Dhanushanandan/Inventory_Management_System.git
 cd Inventory_Management_System
-Install Backend Dependencies
 
-bash
-Copy
-Edit
+
+Create a Virtual Environment:
 python -m venv venv
-source venv/bin/activate      # or venv\Scripts\activate (Windows)
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+
+Install Dependencies:
 pip install -r requirements.txt
-Add Firebase Credentials
 
-Place serviceAccountKey.json in the root directory.
 
-Run the Flask App
+Set Up Firebase:
 
-bash
-Copy
-Edit
+Place your serviceAccountKey.json file in the project root.
+Ensure firebase.json and .firebaserc are configured correctly.
+
+
+Run the Application:
 python app.py
-Visit http://localhost:5000
 
-📸 Using the AR Feature
+
+Access the application at http://localhost:5000.
+
+
+
+📱 AR Feature
+The AR feature allows customers to view product details in 3D by scanning a .patt marker:
+
 Open AR_Inventory_Viewer/index.html in a WebXR-compatible browser.
-
 Allow camera access.
+Hold the .patt marker in front of the camera.
+View real-time product details (image, price, quantity) loaded from Firebase in an AR interface.
 
-Hold the .patt marker in front of your camera.
+Supported Technologies:
 
-Product information will appear in AR.
+AR.js: Lightweight AR framework.
+A-Frame: Web framework for building 3D/AR experiences.
 
 📧 Notifications
-When product quantity ≤ 10:
 
-Entry is added to Notifications node in Firebase.
-
-Supplier email is automatically triggered via Firebase Cloud Functions.
-
+Low Stock Alerts: When a product’s quantity falls to ≤10:
+An entry is added to the Notifications node in Firebase.
+An email is automatically sent to suppliers via Firebase Cloud Functions.
 
 
-Usage
-Access Dashboard: Navigate to the homepage to view inventory statistics.
 
-Manage Products: Add or update product details through the admin panel.
+🚀 Usage
 
-Analyze Sales: Use the analytics section to view top-selling products and combo offer performance.
+Access Dashboard: Visit http://localhost:5000 to view inventory statistics.
+Manage Products: Use the admin panel to add, update, or delete product details.
+Analyze Sales: Explore the analytics section for insights on top-selling products and combo offer performance.
+Upload Data: Import inventory data using the provided InventoryData.xlsx template.
 
-Upload Data: Import inventory data using the provided Excel template.
