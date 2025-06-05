@@ -1,4 +1,4 @@
-Inventory Management System 🛠️
+# Inventory Management System 🛠️
 An AI-powered Inventory Management System designed to streamline product tracking with Augmented Reality (AR) support, sales analysis, and inventory optimization. This application leverages machine learning to provide insights into top-selling products and manage combo offers effectively.
 📋 Table of Contents
 
