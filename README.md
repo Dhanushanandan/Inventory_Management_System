@@ -1,40 +1,42 @@
 # Inventory Management System 🛠️
 An AI-powered Inventory Management System designed to streamline product tracking with Augmented Reality (AR) support, sales analysis, and inventory optimization. This application leverages machine learning to provide insights into top-selling products and manage combo offers effectively.
-📋 Table of Contents
 
-Overview
-Features
-Technologies
-Project Structure
-Installation
-AR Feature
-Notifications
-Usage
-Contributing
-License
-
-🌟 Overview
+## 🌟 Overview
 The Inventory Management System is a modern ERP solution that combines real-time inventory tracking, AI-driven sales forecasting, and AR-based product visualization. Built with Flask and Angular, it integrates Firebase for data storage and authentication, offering a seamless experience for admins and customers.
-✨ Features
+
+## ✨ Features
 
 🔐 Firebase Authentication: Secure login system for admins and users.
+
 📦 Inventory Management: Real-time CRUD operations for products.
+
 📈 Sales Forecasting: ML-based predictions for top-selling products and stock needs.
+
 🤝 Combo Offers: AI-generated offers combining least- and best-selling products.
+
 📊 Analytics Dashboard: Visualize demand trends and product performance.
+
 📧 Supplier Alerts: Automatic notifications for low stock (≤10 units).
+
 🧑‍💻 Admin Interface: Manage inventory, sales, and supplier data.
+
 📱 Customer AR View: Scan AR markers (.patt files) to view product details in 3D.
 
-🛠️ Technologies
+
+## 🛠️ Technologies
 
 Backend: Python, Flask
+
 Frontend: HTML, CSS, JavaScript, AR.js, A-Frame
+
 Machine Learning: scikit-learn, pandas
+
 Database: Firebase
+
 Other: Jupyter Notebook for model training
 
-📂 Project Structure
+## 📂 Project Structure
+```plaintext
 Inventory_Management_System/
 ├── AR_Inventory_Viewer/         # Frontend templates and static files
 ├── static/                      # CSS, JS, images
@@ -51,63 +53,74 @@ Inventory_Management_System/
 ├── .firebaserc                  # Firebase project settings
 ├── serviceAccountKey.json       # Firebase service account key
 └── README.md                    # Project documentation
+```
 
-🛠️ Installation
+## 🛠️ Installation
 Follow these steps to set up the project locally:
 
 Clone the Repository:
+```plaintext
 git clone https://github.com/Dhanushanandan/Inventory_Management_System.git
 cd Inventory_Management_System
+```
 
 
 Create a Virtual Environment:
+```plaintext
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
 
 
 Install Dependencies:
+```plaintext
 pip install -r requirements.txt
-
+```
 
 Set Up Firebase:
-
+```plaintext
 Place your serviceAccountKey.json file in the project root.
 Ensure firebase.json and .firebaserc are configured correctly.
-
+```
 
 Run the Application:
+```plaintext
 python app.py
-
+```
 
 Access the application at http://localhost:5000.
 
 
 
-📱 AR Feature
+## 📱 AR Feature
 The AR feature allows customers to view product details in 3D by scanning a .patt marker:
-
+```plaintext
 Open AR_Inventory_Viewer/index.html in a WebXR-compatible browser.
 Allow camera access.
 Hold the .patt marker in front of the camera.
 View real-time product details (image, price, quantity) loaded from Firebase in an AR interface.
-
+```
 Supported Technologies:
 
 AR.js: Lightweight AR framework.
 A-Frame: Web framework for building 3D/AR experiences.
 
-📧 Notifications
+## 📧 Notifications
 
 Low Stock Alerts: When a product’s quantity falls to ≤10:
+
 An entry is added to the Notifications node in Firebase.
+
 An email is automatically sent to suppliers via Firebase Cloud Functions.
 
 
 
-🚀 Usage
-
+## 🚀 Usage
+```plaintext
 Access Dashboard: Visit http://localhost:5000 to view inventory statistics.
+```
 Manage Products: Use the admin panel to add, update, or delete product details.
-Analyze Sales: Explore the analytics section for insights on top-selling products and combo offer performance.
-Upload Data: Import inventory data using the provided InventoryData.xlsx template.
 
+Analyze Sales: Explore the analytics section for insights on top-selling products and combo offer performance.
+
+Upload Data: Import inventory data using the provided InventoryData.xlsx template.
